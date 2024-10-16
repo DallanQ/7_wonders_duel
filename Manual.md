@@ -1,4 +1,4 @@
-Overview & Object Of The Game (page 3)
+### Overview & Object Of The Game (page 3)
 
 In 7 Wonders Duel, each player is leading a civilization and will construct Buildings and Wonders. All of the Buildings constructed by a player together with their Wonders are called a "city".
 
