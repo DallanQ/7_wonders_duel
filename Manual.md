@@ -46,13 +46,40 @@ In 7 Wonders Duel, all of the Age and Guild cards represent Buildings. The Build
 
 There are 7 different types of Buildings, easily identifiable by their colored border.
 
-- Raw materials (brown cards), these Buildings produce resources
->Stone, wood and Clay
-- Manufactured goods (grey cards), these Buildings produce resources
-- Civilian Buildings (blue cards), these Buildings are worth victory points
-- Scientific Buildings (green cards), these Buildings allow you to score victory points and grant a scientific symbol
+- Raw materials (brown cards), these Buildings produce resources:
+>Clay: a circular orange background with two red clay bricks stacked on top of each other.
+
+> Wood: a circular green background, featuring a small pile of stacked wooden logs.
+
+> Stone: circular grey background with a large grey stone block in the center.
+
+- Manufactured goods (grey cards), these Buildings produce resources:
+> Glass: a hexagonal blue  with a glass jar in the center.
+
+> Papyrus: hexagonal beige  with an ancient rolled scroll
+
+- Civilian Buildings (blue cards), these Buildings are worth victory points:
+>Victory Points: green laurel wreath with a gap at the top.
+
+- Scientific Buildings (green cards), these Buildings allow you to score victory points and grant a scientific symbol:
+>Globe on a Stand small globe with visible latitudinal and longitudinal lines, held by a wooden or bronze-colored stand
+
+>Wagon Wheel large circular wheel with spokes, resembling an old-fashioned wooden wagon wheel
+
+>Shovel on Dirt a shovel is depicted resting on a small pile of dirt, symbolizing construction, agriculture, or manual labor.
+
+>Mortar and Pestle a rounded bowl (mortar) with a stick-like tool (pestle) inside
+
+>Set Square and Compass a triangular set square with a compass inside.
+
+>Quill and Inkpot A feather quill is placed next to a small inkpot
+
+
 - Commercial Buildings (yellow cards), these Buildings are worth coins, produce resources, change the trading rules, and are sometimes worth victory points.
-- Military Buildings (red cards), these Buildings increase your military power 
+
+- Military Buildings (red cards), these Buildings increase your military power: 
+
+
 - Guilds (purple cards), these Buildings allow you to score points based on specific criteria.
 
 Note: The Age III deck contains no Raw materials (brown cards) or Manufactured goods (grey cards), but it contains the Guild cards (purple cards).
@@ -327,15 +354,15 @@ This card produces two units of the raw goods represented.
 
 This card produces the manufactured goods represented.
 Glass Papyrus
-> Glass a hexagonal blue  with a glass jar in the center.
+> Glass, a hexagonal blue  with a glass jar in the center.
 
-> Papyrus is a hexagonal beige  with an ancient rolled scroll
+> Papyrus, a hexagonal beige  with an ancient rolled scroll
 
 This card grants the number of victory points represented.
->Victory Points: This symbol is a green laurel wreath with a gap at the top.
+>Victory Points, green laurel wreath with a gap at the top.
 
 This card grants the number of Shields indicated.
->Shields: This symbol is a red circle with two crossed swords inside
+>Shields, a red circle with two crossed swords inside
 
 
 This card grants the scientific symbol indicated.
