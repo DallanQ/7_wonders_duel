@@ -332,7 +332,7 @@ This card is worth 1 coin for each yellow card (including itself) in your city a
 This card is worth 1 coin for each red card in your city at the time it is constructed.
 
 Clarification: for all cards, the coins are taken from the bank, once and only once, at the moment when the card is constructed.
-
+   
 ### Guild Cards
 
 
@@ -433,41 +433,127 @@ Immediately play a second turn.
 
 ## LIST OF CARDS
 ### Age I
-1. **Clay Pool**  
-   >A dark brown card with two red clay pot icons, providing clay in **Age I**.
+- Clay Pool
+   >A dark brown card with two red clay pot icons.
 
-2. **Clay Pit**  
-   >A brown card with one red clay pot icon and a yellow circle showing **1**, indicating it produces **1 clay** resource in **Age I**.
+- Clay Pit  
+   >A brown card with one red clay pot icon and a golden coin circle showing 1, indicating it produces 1 clay resource.
 
-3. **Quarry**  
-    >A brown card with a gray stone block icon and a yellow circle showing **1**, indicating **1 stone** resource is produced in **Age I**.
+- Quarry 
+    >A brown card with a gray stone block icon and a golden coin circle showing 1, indicating 1 stone resource is produced.
 
-4. **Stone Pit**  
-    >A brown card with a gray stone block icon and a yellow circle showing **1**, producing **1 stone** resource in **Age I**.
+- Stone Pit  
+    >A brown card with a gray stone block icon and a golden coin circle showing 1, producing 1 stone resource.
 
-5. **Glassworks**  
-    >A gray card with a blue glass jar icon and a yellow circle showing **1**, indicating **glass production** in **Age I**.
+- Glassworks  
+    >A gray card with a blue glass jar icon and a golden coin circle showing 1, indicating glass production.
 
-6. **Press**  
-    >A gray card with a beige papyrus scroll icon and a yellow circle showing **1**, for **papyrus production** in **Age I**.
+- Press  
+    >A gray card with a beige papyrus scroll icon and a golden coin circle showing 1, for papyrus production.
 
-7. **Guard Tower**  
-    >A red card with a crossed swords icon, symbolizing **military strength** in **Age I**.
+- Guard Tower  
+    >A red card with a crossed swords icon
+- Workshop  
+    >A green card with a brown cogwheel and green triangle icons, providing 1 science symbol and 1 victory point.
 
-8. **Workshop**  
-    >A green card with a brown cogwheel and green triangle icons, providing **1 science symbol** and **1 victory point** in **Age I**.
+- Apothecary
+    >A green card with a glass vial and black wheel icon, offering 1 science symbol** and 1 victory point.
 
-9. **Apothecary**  
-    >A green card with a glass vial and black wheel icon, offering **1 science symbol** and **1 victory point** in **Age I**.
+- Stone Reserve  
+    >An orange card with a large gray stone icon, a coin marked with 3, and a yellow circle showing 1 stone available for purchase.
 
-10. **Stone Reserve**  
-    >An orange card with a large gray stone icon, a coin marked with **3**, and a yellow circle showing **1 stone** available for **purchase in Age I**.
+- Clay Reserve  
+    >An orange card with a large red clay icon, a coin marked with 3, and a yellow circle showing 1 clay available for purchase.
 
-11. **Clay Reserve**  
-    >An orange card with a large red clay icon, a coin marked with **3**, and a yellow circle showing **1 clay** available for **purchase in Age I**.
+- Wood Reserve  
+    >An orange card with a large green wood log icon, a coin marked with 3, and a yellow circle showing 1 wood available for purchase.
 
-12. **Wood Reserve**  
-    >An orange card with a large green wood log icon, a coin marked with **3**, and a yellow circle showing **1 wood** available for **purchase in Age I**.
+### Age II 
+- Sawmill 
+   >A brown card with two green wood log icons and a yellow circle showing 2, indicating it produces 2 wood.
+
+- Brickyard  
+   >A brown card with two red clay pot icons and a yellow circle showing 2, producing 2 clay.
+
+- Shelf Quarry  
+   >A brown card with two gray stone block icons and a yellow circle showing 2, producing 2 stone.
+
+- Glass-Blower
+   >A gray card with a blue glass jar icon, indicating glass production.
+
+- Drying Room
+   >A gray card with a beige papyrus scroll icon, representing papyrus production.
+
+- Walls  
+   >A red card with two crossed swords and two gray stone block icons, providing 2 military strength.
+
+- Forum   
+   >An orange card with icons for glass, papyrus, and coins. It produces one of these manufactured goods, and the number 3 coin icon suggests it also grants 3 coins.
+
+- Caravansery
+   >An orange card with icons for wood, clay, stone, papyrus, and coins. It provides one of each resource and has a 2 coin icon.
+
+- Customs House
+   >An orange card with a glass jar icon, a papyrus icon, and 4 coins symbol, indicating it provides coins and allows access to glass and papyrus.
+
+- ourthouse  
+   >A blue card with a large 5 victory points icon, indicating it grants 5 victory points when constructed.
+
+### Age III
+
+- Arsenal
+   >Bright red card with icons for two clay blocks, one log, and a military helmet, plus three crossed swords.
+
+- Pretorium
+   >Red card showing a stone block and crossed swords, with three crossed swords symbols and an "8" cost.
+
+- Academy
+   >Green card with icons for a stone block, blue glass jar, and two scrolls, featuring a compass symbol and "3" in a wreath.
+
+- Study
+   >Light green card showing a log, blue glass jar, and scroll, with a compass symbol and a "3" in a wreath.
+
+- Chamber of Commerce
+   >Orange card with two clay blocks, a brown resource block, and two "3" symbols for points.
+
+- Port
+   >Orange card with a camel, blue glass jar, two brown blocks, and points indicated by "2" and "3" in circles.
+
+- Armory
+   >Orange card with a red block, yellow "1," crossed swords, and a "3" in a wreath.
+
+- Palace
+    >Blue card with icons for a clay block, log, glass jar, stone block, and scroll, with a large "7" surrounded by laurel leaves.
+
+- Town Hall
+   >Blue card showing two stone blocks, one log, and a military helmet, with a large "7" in laurel leaves.
+
+- Obelisk
+    >Blue card featuring a "5" in laurel leaves.
+
+### Guilds
+
+
+- Merchants Guild
+    >Purple card with icons showing a log, clay block, glass jar, stone block, and scroll; grants 1 victory point for coins.
+
+- Shipowners Guild
+    >Purple card with icons showing a log, clay block, glass jar, and stone block; grants points for black and brown resources.
+
+- Builders Guild
+    >Purple card with icons showing three stone blocks and a glass jar; grants 2 points for building contributions.
+
+- Magistrates Guild
+   >Purple card with icons showing a log, two military helmets, and two clay blocks; grants 1 point for governance (blue).
+
+- Scientists Guild
+   >Purple card with icons showing two clay blocks, a log, and two green helmets; grants 1 science-related point (green).
+
+- Moneylenders Guild
+  >Purple card with icons showing two stone blocks, a green helmet, and a log; grants 3 points for money contributions.
+
+- Tacticians Guild
+  >urple card with icons showing a clay block, a log, and three crossed swords; grants 1 point for military achievements (red).
 
 
 ## Organization Of The Card Board Depending On The Age
