@@ -128,7 +128,7 @@ Often, you will want to construct a Building or a Wonder, while you're missing o
 
 COST = 2 + number of symbols of the same resources produced by the brown and grey cards of the opposing city
 
-#### Clarifications 
+#### Clarifications (Page 8)
 - Note that the purchasing cost is calculated according to the resources present in your opponent's city, but the purchases are paid to the bank. 
 - There is no limit to the number of resources you may purchase on your turn.
 - The resources produced by yellow cards and by Wonders aren't factored into trading costs.
