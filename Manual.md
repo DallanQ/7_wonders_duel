@@ -212,12 +212,19 @@ If the Conflict pawn reach the space of your opponent's capital, you immedi- ate
 ## Science & Progress   (Page 12)
 
 There are 7 different scientific symbols in the game.
+
 >An armillary sphere or celestial globe - a model of objects in the sky, 
+
 >A set of scales,
+
 >A wooden writing tablet or slate with a stylus
+
 >A mortar and pestle
+
 >A drafting triangle, set square
+
 >A quill pen and inkwell
+
 >A wagon wheel or ship's wheel
 
 Each time you gather a pair of identical scientific symbols, you may immediately choose one of the Progress tokens on the game board. That token will be kept in your city until the end of the game. Clarification: the scientific symbols are found on the scientific Buildings (green cards) and on a Progress token.
