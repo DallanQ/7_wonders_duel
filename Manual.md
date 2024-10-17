@@ -390,7 +390,7 @@ This Wonder is worth 2 Shields. This Wonder is worth 3 victory points.
 
 
 
-### The Great Library
+#### The Great Library
  Randomly draw 3 Progress tokens from among those discarded at the beginning of the game. Choose one, play it, and return the other 2 to the box. This Wonder is worth 4 victory points.
  >A brown card that Contains a green circle at the top, various icons in the middle, and a green laurel wreath with the number "4"
 
@@ -429,6 +429,45 @@ Put in the discard pile one brown card (Raw goods) of your choice con- structed 
 Immediately take 12 coins from the Bank.
 Immediately play a second turn.
 >Blue card hows a crown-like symbol at the top with a green laurel wreath at the bottom marked "12"
+
+
+## LIST OF CARDS
+### Age I
+1. **Clay Pool**  
+   >A dark brown card with two red clay pot icons, providing clay in **Age I**.
+
+2. **Clay Pit**  
+   >A brown card with one red clay pot icon and a yellow circle showing **1**, indicating it produces **1 clay** resource in **Age I**.
+
+3. **Quarry**  
+    >A brown card with a gray stone block icon and a yellow circle showing **1**, indicating **1 stone** resource is produced in **Age I**.
+
+4. **Stone Pit**  
+    >A brown card with a gray stone block icon and a yellow circle showing **1**, producing **1 stone** resource in **Age I**.
+
+5. **Glassworks**  
+    >A gray card with a blue glass jar icon and a yellow circle showing **1**, indicating **glass production** in **Age I**.
+
+6. **Press**  
+    >A gray card with a beige papyrus scroll icon and a yellow circle showing **1**, for **papyrus production** in **Age I**.
+
+7. **Guard Tower**  
+    >A red card with a crossed swords icon, symbolizing **military strength** in **Age I**.
+
+8. **Workshop**  
+    >A green card with a brown cogwheel and green triangle icons, providing **1 science symbol** and **1 victory point** in **Age I**.
+
+9. **Apothecary**  
+    >A green card with a glass vial and black wheel icon, offering **1 science symbol** and **1 victory point** in **Age I**.
+
+10. **Stone Reserve**  
+    >An orange card with a large gray stone icon, a coin marked with **3**, and a yellow circle showing **1 stone** available for **purchase in Age I**.
+
+11. **Clay Reserve**  
+    >An orange card with a large red clay icon, a coin marked with **3**, and a yellow circle showing **1 clay** available for **purchase in Age I**.
+
+12. **Wood Reserve**  
+    >An orange card with a large green wood log icon, a coin marked with **3**, and a yellow circle showing **1 wood** available for **purchase in Age I**.
 
 
 ## Organization Of The Card Board Depending On The Age
