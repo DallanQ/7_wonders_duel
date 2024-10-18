@@ -149,6 +149,7 @@ Return to the box, without looking at them, 3 cards from each Age deck. Then ran
 Throughout the game, you will construct Buildings and Wonders. Most of the Buildings have a resource cost. Some are free and others have a coin cost. Finally, some have a resource cost but also a free construction condition. The Wonders all have a resource cost.
 ### Free Construction (Page 8)
 Some cards have no cost and can be put into play for free. Example: The construction of the Lumber Yard is free.
+>Lumber Yard: a scene of logs being prepared in a sunset-lit yard with no cost.
 
 ### Resource Cost(Page 8)
 Some cards have a resource cost.   
@@ -157,6 +158,7 @@ To construct them, you must produce the corresponding resources AND/OR buy them 
 ### Production (Page 8)
 A city's resources are produced by its brown cards, its grey cards, some yellow cards, and some Wonders. 
 Example: Antoine produces 1 Stone, 3 Clay, and 1 Papyrus in his city.
+>Baths: has 3 victory points at the top left corner and a  stone , featuring a Roman bath scene where people are relaxing.
 
 If you have in your city all of the resources indicated on the Building, then you can construct that Building. 
 Example: Antoine can construct the Baths (1 Stone) or the Garrison (1 Clay) as his city produces the required resources. However, without trading, he can't build the Apothecary (1 Glass).
