@@ -97,6 +97,7 @@ The area located under the color strip on Age cards indicates the construction c
 >Arena: grants 2 victory points and 3 coins,  with clay, stone and one wood  at the left top corner, illustrating a gladiator performing in a bustling arena.
 
 Starting in Age II, some Buildings have both a cost and a free construction condi- tion: if the player has previously constructed the Building indicated via a symbol in the cost area, the construction is free. Example: the construction of the Horse Breeders requires 1 Clay and 1 Wood, OR the possession of the Stable.
+>Horse Breeders:  clay and wood and a symbol of to crossed sword on a red shield , featuring a majestic scene with horses in front of a palace.
 
 ## Preparation (Page 6)
 
