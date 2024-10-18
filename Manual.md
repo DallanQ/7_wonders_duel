@@ -88,6 +88,13 @@ Note: The Age III deck contains no Raw materials (brown cards) or Manufactured g
 
 #### Cost of cards (Page 5)
 The area located under the color strip on Age cards indicates the construction cost. If that area is empty, the Building is free and requires no resources to be constructed. Example: the Lumber Yard is free, the Stone Pit costs 1 coin, the Baths require 1 Stone to be built, and the Arena requires 1 Clay, 1 Stone and 1 Wood.
+>Lumber Yard: a scene of logs being prepared in a sunset-lit yard with no cost.
+
+>Stone Pit: has stone and costs 1 coin displayed at the left top corner, depicting a quarry where stone is extracted.
+
+>Baths: has 3 victory points at the top left corner and a  stone , featuring a Roman bath scene where people are relaxing.
+
+>Arena: grants 2 victory points and 3 coins,  with clay, stone and one wood  at the left top corner, illustrating a gladiator performing in a bustling arena.
 
 Starting in Age II, some Buildings have both a cost and a free construction condi- tion: if the player has previously constructed the Building indicated via a symbol in the cost area, the construction is free. Example: the construction of the Horse Breeders requires 1 Clay and 1 Wood, OR the possession of the Stable.
 
@@ -578,10 +585,10 @@ Immediately play a second turn.
 
 ## LIST OF CARDS  (Page 18)
 ### Age I (Page 18)
-- **Lumber Yard**  
+- Lumber Yard
    >A dark brown card with one green circular icon showing stacked wooden logs.
 
-- **Logging Camp**  
+- Logging Camp
    >A dark brown card with one green circular icon showing stacked wooden logs and a yellow coin circle displaying 1, indicating it produces wood at a cost of 1 coin.
 - Clay Pool
    >A dark brown card with two red clay pot icons.
