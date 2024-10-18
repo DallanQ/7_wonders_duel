@@ -141,6 +141,8 @@ For your first game, ignore the Wonders Selection phase and take the following W
 
 ### One deck per Age (page 7)
 Return to the box, without looking at them, 3 cards from each Age deck. Then randomly draw 3 Guild cards and add them to the Age III deck without looking at them. Return the remaining Guilds to the box.
+>The image illustrates the process of card rotation in a game, where players pass red cards to the right, blue cards to the right, and then purple cards to the left, indicating an alternating direction of card drafting between rounds.
+
 
 ## Constructing In 7 Wonders Duel (Page 8)
 
