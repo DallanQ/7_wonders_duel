@@ -99,7 +99,9 @@ Starting in Age II, some Buildings have both a cost and a free construction cond
 4. Shuffle the Progress tokens and place 5 of them randomly, face up, on the board. Return the rest to the box. 
 5. Each player takes 7 coins from the Bank.
 
-
+> Game interface featuring five key components: (1) a circular marker or dial on the left side (2) a red token or marker in the center that moves along a path of circles to track rounds or events, 
+ (3) three red markers along the lower section,(4) a series of green icons at the top and (5) coin tokens
+   on both sides with values of "1" and "2" used as currency or resources. 
 
 ### Wonders Selection Phase (Page 7)
 
@@ -236,7 +238,7 @@ Each shield represented on the military Buildings (red cards) or Wonders allows 
 ### Military Supremacy (Page 12)
 If the Conflict pawn reach the space of your opponent's capital, you immedi- ately win the game.
 
-## Science & Progress   (Page 12)
+## Science & Progress (Page 12)
 
 There are 7 different scientific symbols in the game.
 
@@ -244,7 +246,7 @@ There are 7 different scientific symbols in the game.
 
 >A set of scales,
 
->A wooden writing tablet or slate with a stylus
+>A wooden writing tablet or slate with a stylus.
 
 >A mortar and pestle
 
@@ -398,7 +400,7 @@ This card grants the linking symbol shown. During a later Age you will be able t
 
 >Blue Theater Mask: A traditional drama mask, symbolizing performance arts or theater.
 
->Blue Parthenon: An ancient Greek-style temple or building with columns
+>Blue Parthenon : an ancient Greek-style temple or building with columns
 
 >Blue Sun a bright sun with rays
 
@@ -576,6 +578,11 @@ Immediately play a second turn.
 
 ## LIST OF CARDS  (Page 18)
 ### Age I (Page 18)
+- **Lumber Yard**  
+   >A dark brown card with one green circular icon showing stacked wooden logs.
+
+- **Logging Camp**  
+   >A dark brown card with one green circular icon showing stacked wooden logs and a yellow coin circle displaying 1, indicating it produces wood at a cost of 1 coin.
 - Clay Pool
    >A dark brown card with two red clay pot icons.
 
