@@ -7,97 +7,89 @@ A game plays out over 3 Ages, each Age using one of the 3 decks of cards (first 
 These Ages are played out in a similar fashion, with each player having the chance to play approximately 10 cards per Age to earn coins, strengthen their armies, make scientific discoveries, and develop their city.
 
 In 7 Wonders Duel, there are 3 ways to claim victory: military supremacy, scien-tific supremacy, and civilian victory.
+
 Military and scientific victories can happen at any time and end the game immediately. If, by the end of the third Age, no one has yet won the game, the players add up their victory points, and the player with the highest score is declared the winner.
 
 ## GAME ELEMENTS (Page 4)
 
 ### Wonder card (Page 4)
+
 Each large card represents a Wonder from the Age of Antiquity. Each Wonder consists of a name, a construction cost, and an effect.
 
-> the cost shown on the left as coins icons , and the effect on the right, which gives 9 points when built. The background features a pyramid and a river scene
+> image of a card with the cost shown on the left as coins icons , and the effect on the right, which gives 9 points when built. The background features a pyramid and a river scene
 
 ### Military Tokens (Page 4)
-The Military tokens represent the benefits a city earns when it manages to gain the upper hand, militarily, over its opponent.
->Red rectangular tokens with split golden coins. The token has the number 2 or 5 with in the split golden coin.
 
+The Military tokens represent the benefits a city earns when it manages to gain the upper hand, militarily, over its opponent.
+
+> image of red rectangular tokens with split golden coins. The token has the number 2 or 5 with in the split golden coin.
 
 ### Progress Tokens (Page 4)
- The progress tokens represent effects which you can obtain by collecting iden- tical pairs of scientific symbols.
+
+The progress tokens represent effects which you can obtain by collecting identical pairs of scientific symbols.
 
 > circular icons, a "7" labeled "PHILOSOPHY," symbols for "ECONOMY," a yellow triangle for "ARCHITECTURE," and "MASONRY".
 
-
 ### Conflict Pawn (Page 4)
+
 The Conflict pawn indicates on the board one city’s military advantage over 
 the other.
->A red game piece shaped like a shield with two crossed swords behind it
+
+> image of a red game piece shaped like a shield with two crossed swords behind it
 
 ### Board (Page 4)
+
 The board represents the military rivalry between the two cities. It is divided into zones (9) and spaces (19). The last space on each end represents the player's capital. It also holds the Military tokens and the Progress tokens available for the cur- rent game.
-> board with Progress Tokens at the top, Military Tokens on the left, spaces on the right, and zones in the middle. The Conflict Pawn starts in the center of the board.
+
+> image of a board with Progress Tokens at the top, Military Tokens on the left, spaces on the right, and zones in the middle. The Conflict Pawn starts in the center of the board.
 
 ### Coins (Page 4)
- Coins allow you to construct certain Buildings, and to purchase resources through commerce. The Treasury, the accumulated coins, is worth victory points at the end of the game.
 
- > A large bronze coin with the number 6, a medium-sized gold coin with the number 3 and a small silver coin with the number 1.
+Coins allow you to construct certain Buildings, and to purchase resources through commerce. The Treasury, the accumulated coins, is worth victory points at the end of the game.
+
+> image of a large bronze coin with the number 6, a medium-sized gold coin with the number 3 and a small silver coin with the number 1.
 
 ### Guild and Age cards (Page 5)
+
 In 7 Wonders Duel, all of the Age and Guild cards represent Buildings. The Building cards all consist of a name, an effect and a construction cost.
+
+> image of a card with the effect at the top, the cost in the upper left under the effect, and the name at the bottom.
 
 There are 7 different types of Buildings, easily identifiable by their colored border.
 
-- Raw materials (brown cards), these Buildings produce resources:
->Clay: a circular orange background with two red clay bricks stacked on top of each other.
+- Raw materials (brown cards), these Buildings produce resources: (icons of Clay: a circular orange background with two red clay bricks stacked on top of each other, Wood: a circular green background, featuring a small pile of stacked wooden logs, and Stone: circular grey background with a large grey stone block in the center.)
 
-> Wood: a circular green background, featuring a small pile of stacked wooden logs.
+- Manufactured goods (grey cards), these Buildings produce resources: (icons of Glass: a hexagonal blue  with a glass jar in the center, and Papyrus: hexagonal beige  with an ancient rolled scroll)
 
-> Stone: circular grey background with a large grey stone block in the center.
+- Civilian Buildings (blue cards), these Buildings are worth victory points: (icon of Victory Points: green laurel wreath with a gap at the top.)
 
-- Manufactured goods (grey cards), these Buildings produce resources:
-> Glass: a hexagonal blue  with a glass jar in the center.
-
-> Papyrus: hexagonal beige  with an ancient rolled scroll
-
-- Civilian Buildings (blue cards), these Buildings are worth victory points:
->Victory Points: green laurel wreath with a gap at the top.
-
-- Scientific Buildings (green cards), these Buildings allow you to score victory points and grant a scientific symbol:
->Globe on a Stand small globe with visible latitudinal and longitudinal lines, held by a wooden or bronze-colored stand
-
->Wagon Wheel large circular wheel with spokes, resembling an old-fashioned wooden wagon wheel
-
->Shovel on Dirt a shovel is depicted resting on a small pile of dirt, symbolizing construction, agriculture, or manual labor.
-
->Mortar and Pestle a rounded bowl (mortar) with a stick-like tool (pestle) inside
-
->Set Square and Compass a triangular set square with a compass inside.
-
->Quill and Inkpot A feather quill is placed next to a small inkpot
-
+- Scientific Buildings (green cards), these Buildings allow you to score victory points and grant a scientific symbol: (icons of Globe on a Stand: small globe with visible latitudinal and longitudinal lines, held by a wooden or bronze-colored stand, Wagon Wheel: large circular wheel with spokes, resembling an old-fashioned wooden wagon wheel, Shovel on Dirt: a shovel is depicted resting on a small pile of dirt, symbolizing construction, agriculture, or manual labor, Mortar and Pestle: a rounded bowl (mortar) with a stick-like tool (pestle) inside, Set Square and Compass: a triangular set square with a compass inside, and Quill and Inkpot: A feather quill is placed next to a small inkpot)
 
 - Commercial Buildings (yellow cards), these Buildings are worth coins, produce resources, change the trading rules, and are sometimes worth victory points.
 
-- Military Buildings (red cards), these Buildings increase your military power: 
-
+- Military Buildings (red cards), these Buildings increase your military power: (icon of a red shield with two crossed swords)
 
 - Guilds (purple cards), these Buildings allow you to score points based on specific criteria.
 
 Note: The Age III deck contains no Raw materials (brown cards) or Manufactured goods (grey cards), but it contains the Guild cards (purple cards).
 
-
-
 #### Cost of cards (Page 5)
-The area located under the color strip on Age cards indicates the construction cost. If that area is empty, the Building is free and requires no resources to be constructed. Example: the Lumber Yard is free, the Stone Pit costs 1 coin, the Baths require 1 Stone to be built, and the Arena requires 1 Clay, 1 Stone and 1 Wood.
->Lumber Yard: a scene of logs being prepared in a sunset-lit yard with no cost.
 
->Stone Pit: has stone and costs 1 coin displayed at the left top corner, depicting a quarry where stone is extracted.
+The area located under the color strip on Age cards indicates the construction cost. If that area is empty, the Building is free and requires no resources to be constructed. 
 
->Baths: has 3 victory points at the top left corner and a  stone , featuring a Roman bath scene where people are relaxing.
+Example: the Lumber Yard is free, the Stone Pit costs 1 coin, the Baths require 1 Stone to be built, and the Arena requires 1 Clay, 1 Stone and 1 Wood.
 
->Arena: grants 2 victory points and 3 coins,  with clay, stone and one wood  at the left top corner, illustrating a gladiator performing in a bustling arena.
+> image of a Lumber Yard card: a scene of logs being prepared in a sunset-lit yard with no cost in the left top corner.
+
+> image of a Stone Pit card: has stone and costs 1 coin displayed at the left top corner, depicting a quarry where stone is extracted.
+
+> image of a Baths card: has 3 victory points at the top and a stone at the top left corner, featuring a Roman bath scene where people are relaxing.
+
+> image of an Arena card: grants 2 victory points and 3 coins, with clay, stone and one wood at the left top corner, illustrating a gladiator performing in a bustling arena.
 
 Starting in Age II, some Buildings have both a cost and a free construction condi- tion: if the player has previously constructed the Building indicated via a symbol in the cost area, the construction is free. Example: the construction of the Horse Breeders requires 1 Clay and 1 Wood, OR the possession of the Stable.
->Horse Breeders:  clay and wood and a symbol of to crossed sword on a red shield , featuring a majestic scene with horses in front of a palace.
+
+> image of a Horse Breeders card: clay and wood at the top left corner, and a symbol of a stable underneath them, featuring a majestic scene with horses in front of a palace.
 
 ## Preparation (Page 6)
 
@@ -107,9 +99,7 @@ Starting in Age II, some Buildings have both a cost and a free construction cond
 4. Shuffle the Progress tokens and place 5 of them randomly, face up, on the board. Return the rest to the box. 
 5. Each player takes 7 coins from the Bank.
 
-> Game interface featuring five key components: (1) a circular marker or dial on the left side (2) a red token or marker in the center that moves along a path of circles to track rounds or events, 
- (3) three red markers along the lower section,(4) a series of green icons at the top and (5) coin tokens
-   on both sides with values of "1" and "2" used as currency or resources. 
+> image of a Game interface featuring five key components: (1) a circular marker or dial on the left side (2) a red token or marker in the center that moves along a path of circles to track rounds or events, (3) three red markers along the lower section,(4) a series of green icons at the top and (5) coin tokens on both sides with values of "1" and "2" used as currency or resources. 
 
 ### Wonders Selection Phase (Page 7)
 
@@ -140,9 +130,10 @@ For your first game, ignore the Wonders Selection phase and take the following W
   - the Colossus
 
 ### One deck per Age (page 7)
-Return to the box, without looking at them, 3 cards from each Age deck. Then randomly draw 3 Guild cards and add them to the Age III deck without looking at them. Return the remaining Guilds to the box.
->The image illustrates the process of card rotation in a game, where players pass red cards to the right, blue cards to the right, and then purple cards to the left, indicating an alternating direction of card drafting between rounds.
 
+Return to the box, without looking at them, 3 cards from each Age deck. Then randomly draw 3 Guild cards and add them to the Age III deck without looking at them. Return the remaining Guilds to the box.
+
+> image illustrating removing three cards from the Age I deck, three cards from the Age II deck, three cards from the Age III deck, and adding three guild cards to the Age III deck.
 
 ## Constructing In 7 Wonders Duel (Page 8)
 
@@ -245,39 +236,39 @@ The player with the weakest military chooses which player begins the next Age. A
 
 ## Military (Page 12)
 
-Each shield represented on the military Buildings (red cards) or Wonders allows its owner to immediately move the Conflict pawn one space in the direction of the opposing capital. The Conflict pawn is therefore likely to move back and forth on the track. When the Conflict pawn enters a zone (defined by dotted lines), the active player applies the effect of the corresponding token, then returns it to the box. Example: Antoine constructs the Archery Range, a military Building which has 2 Shields. He immediately moves the Conflict pawn two spaces towards the opposing capital. As he enters in a new zone, he applies the Military token, Bruno discards 2 coins, and then the token is returned to the box.
+Each shield represented on the military Buildings (red cards) or Wonders allows its owner to immediately move the Conflict pawn one space in the direction of the opposing capital. The Conflict pawn is therefore likely to move back and forth on the track. 
+
+When the Conflict pawn enters a zone (defined by dotted lines), the active player applies the effect of the corresponding token, then returns it to the box. 
+
+*Example: Antoine constructs the Archery Range, a military Building which has 2 Shields. He immediately moves the Conflict pawn two spaces towards the opposing capital. As he enters in a new zone, he applies the Military token, Bruno discards 2 coins, and then the token is returned to the box.*
 
 ### Military Supremacy (Page 12)
-If the Conflict pawn reach the space of your opponent's capital, you immedi- ately win the game.
+
+If the Conflict pawn reach the space of your opponent's capital, you immediately win the game.
 
 ## Science & Progress (Page 12)
 
 There are 7 different scientific symbols in the game.
 
->An armillary sphere or celestial globe - a model of objects in the sky, 
+> images of an armillary sphere or celestial globe, a set of scales, a wooden writing tablet or slate with a stylus, a mortar and pestle, a drafting triangle, set square, a quill pen and inkwell, and a wagon wheel or ship's wheel
 
->A set of scales,
+Each time you gather a pair of identical scientific symbols, you may immediately choose one of the Progress tokens on the game board. That token will be kept in your city until the end of the game. 
 
->A wooden writing tablet or slate with a stylus.
+Clarification: the scientific symbols are found on the scientific Buildings (green cards) and on a Progress token.
 
->A mortar and pestle
-
->A drafting triangle, set square
-
->A quill pen and inkwell
-
->A wagon wheel or ship's wheel
-
-Each time you gather a pair of identical scientific symbols, you may immediately choose one of the Progress tokens on the game board. That token will be kept in your city until the end of the game. Clarification: the scientific symbols are found on the scientific Buildings (green cards) and on a Progress token.
 ### Scientific Supremacy (Page 12)
+
 If you gather 6 different scientific symbols, you immediately win the game.
 
-
 ## End Of Game And Victory (Page 13)
-A game ends immediately in the case of a military supremacy, a scientific suprem- acy, or at the end of Age III.
-### Civilian Victory (Page 13)
-If no player has won a victory through supremacy before the end of Age III, the player who has the most victory points wins the game. To determine your total, add:
 
+A game ends immediately in the case of a military supremacy, a scientific suprem- acy, or at the end of Age III.
+
+### Civilian Victory (Page 13)
+
+If no player has won a victory through supremacy before the end of Age III, the player who has the most victory points wins the game. 
+
+To determine your total, add:
 - Your military victory points (0, 2, 5, or 10 depending on the position of the Conflict pawn).
 - Victory points from your Buildings (blue, green, yellow, and purple cards).- Victory points from your Wonders. 
 - Your victory points from Progress.
@@ -287,450 +278,443 @@ In the case where both players are tied, the player who has the most victory poi
 
 Note: a scorebook is present in the box to help you total your points, or keep a record of your memorable games!
 
-
-
 ## Description Of The Symbols (Page 14)
 
 ### Military Token (Page 14)
 
 #### Looting 2 or 5 coins (Page 14)
+
 Your opponent loses 2 or 5 coins depending on the token. They are returned to the bank. Then the token is returned to the box. If your opponent doesn't have enough coins, they lose all of their coins.
 
-
 ### Progress Token (Page 14)
+
 #### Agriculture (Page 14)
- Immediately take 6 coins from the Bank. The token is worth 4 victory points.
->A gold coin with the number 6 on it next to a white parchment with an emblem.
+
+> image of a gold coin with the number 6 on it next to a white parchment with an emblem.
+
+Immediately take 6 coins from the Bank. The token is worth 4 victory points.
+
 #### Architecture (Page 14)
+
+> image of a figure holding a small pyramid
+
 Any future Wonders built by you will cost 2 fewer resources. At each construction, you are free to choose which resources this rebate affects.
->A figure holding a small pyramid
 
 #### Economy (Page 14)
+
+> image of a gold coin marked with an "X" alongside a treasure map and tools such as a compass and ruler
+
 You gain the money spent by your opponent when they trade for resources.
-> A gold coin marked with an "X" alongside a treasure map and tools such as a compass and ruler
 
-Be careful, this is only for the money spent obtaining resources, not for the coins which are part of Building costs. Clarification: the trade discounts of your opponent (Stone Reserve, Wood Reserve, Clay Reserve, and Customs House cards) change the purchase price, but the Economy Progress token allows you to gain the actual money spent by your opponent.
+Be careful, this is only for the money spent obtaining resources, not for the coins which are part of Building costs. 
 
+Clarification: the trade discounts of your opponent (Stone Reserve, Wood Reserve, Clay Reserve, and Customs House cards) change the purchase price, but the Economy Progress token allows you to gain the actual money spent by your opponent.
 
 #### Law (Page 14)
+
+> image of a set of scales
+
 This token is worth a scientific symbol.
-> A set of scales
 
 #### Masonry (Page 14)
+
+> image of a Circular token that has a closed blue book with a red bookmark, labeled Masonry.
+
 Any future blue cards constructed by you will cost 2 fewer resources. At each construction, you are free to choose which resources this rebate affects. 
-> A Circular token that has a closed blue book with a red bookmark, labeled Masonry.
 
 #### Mathematics  (Page 14)
+
+> image of a circular token that has badge with spiral and arrow and labeled Mathematics
+
 At the end of the game, score 3 victory points for each Progress token in your possession (including itself).
->A circular token that has badge with spiral and arrow and labeled Mathematics
 
 #### Philosophy (Page 14)
+
+> image of a Circular token that has number 7 with laurel wreath around it and labeled Philosophy
+
 The token is worth 7 victory points.
->A Circular token that has number 7 with laurel wreath around it and labeled Philosophy
 
 #### Strategy (Page 14)
+
+> image of a Circular token that has an arrow pointing to a red cube and gear ans labeled Strategy
+
 Once this token enters play, your new military Buildings (red cards) will benefit from 1 extra Shield.
-> A Circular token that has an arrow pointing to a red cube and gear ans labeled Strategy
 
+Example: a military Building with 2 shields will therefore allow the player to move the Conflict pawn 3 spaces towards the enemy capital.
 
- Example: a military Building with 2 shields will therefore allow the player to move the Conflict pawn 3 spaces towards the enemy capital.
- Clarification: 
+ larification: 
  - This Progress does not apply to Wonders which have the Shield symbol. 
  - This Progress has no effect on military cards built before it came into play.
 
 #### Theology (Page 14)
-All future Wonders constructed by you are all treated as though they have the "Play Again" effect. 
->A Circular token that has as pyramid with flag and labeled Theology
 
+> image of a Circular token that has as pyramid with flag and labeled Theology
+
+All future Wonders constructed by you are all treated as though they have the "Play Again" effect. 
 
 Be careful, Wonders which already have this effect are not affected (a given Wonder cannot have the "Play Again" effect twice).
 
 ####  Urbanism (Page 14)
+
+> image of a Circular token that has stacked bars and gold coin with the number 6 and labeled Ubarnism
+
 Immediately take 6 coins from the Bank. Each time you construct a Building for free through linking (free construction condition, chain), you gain 4 coins.
->A Circular token that has stacked bars and gold coin with the number 6 and labeled Ubarnism
 
 ### Age I, II, and III cards (Page 15)
+
 This card produces the raw goods represented. 
-Clay Wood Stone
->Clay is a circular orange background with two red clay bricks stacked on top of each other.
 
-> Wood is a circular green background, featuring a small pile of stacked wooden logs.
+- Clay (icon with a circular orange background with two red clay bricks stacked on top of each other)
 
-> Stone is icon has a circular grey background with a large grey stone block in the center.
+- Wood (icon with a circular green background, featuring a small pile of stacked wooden logs)
+
+- Stone (icon with a circular grey background with a large grey stone block in the center.)
 
 This card produces two units of the raw goods represented.
-2 Clays 2 Woods 2 Stones
->two Clay is a circular orange background with two red clay bricks stacked on top of each other.
 
-> two Wood is a circular green background, featuring a small pile of stacked wooden logs.
+- 2 Clays (two icons with a circular orange background with two red clay bricks stacked on top of each other)
 
-> two Stone is icon has a circular grey background with a large grey stone block in the center.
+- 2 Woods (two icons with a circular green background, featuring a small pile of stacked wooden logs)
+
+- 2 Stones (two icons with a circular grey background with a large grey stone block in the center)
 
 This card produces the manufactured goods represented.
-Glass Papyrus
-> Glass, a hexagonal blue  with a glass jar in the center.
 
-> Papyrus, a hexagonal beige  with an ancient rolled scroll
+- Glass (icon with a hexagonal blue  with a glass jar in the center)
+
+- Papyrus (icon of hexagonal beige  with an ancient rolled scroll)
 
 This card grants the number of victory points represented.
->Victory Points, green laurel wreath with a gap at the top.
+
+- Victory points (icon with green laurel wreath with a gap at the top)
 
 This card grants the number of Shields indicated.
->Shields, a red circle with two crossed swords inside
 
+- Shields (icon with a red circle with two crossed swords inside)
 
 This card grants the scientific symbol indicated.
->Globe on a Stand small globe with visible latitudinal and longitudinal lines, held by a wooden or bronze-colored stand.
 
->Wagon Wheel large circular wheel with spokes, resembling an old-fashioned wooden wagon wheel
+- Globe on a Stand (icon of a small globe with visible latitudinal and longitudinal lines, held by a wooden or bronze-colored stand)
 
->Shovel on Dirt a shovel is depicted resting on a small pile of dirt, symbolizing construction, agriculture, or manual labor.
+- Wagon Wheel (icon of a large circular wheel with spokes, resembling an old-fashioned wooden wagon wheel)
 
->Mortar and Pestle a rounded bowl (mortar) with a stick-like tool (pestle) inside
+- Shovel on Dirt (icon of a shovel is depicted resting on a small pile of dirt, symbolizing construction, agriculture, or manual labor)
 
->Set Square and Compass a triangular set square with a compass inside.
+- Mortar and Pestle (icon of a rounded bowl (mortar) with a stick-like tool (pestle) inside)
 
->Quill and Inkpot A feather quill is placed next to a small inkpot
+- Set Square and Compass (icon of a triangular set square with a compass inside)
 
+- Quill and Inkpot (icon of a feather quill is placed next to a small inkpot)
 
-This card changes the trading rules for the indicated resource. Starting on the following turn, you will pur- chase the indicated resource from the bank at the fixed cost of 1 coin per unit.
+This card changes the trading rules for the indicated resource. Starting on the following turn, you will purchase the indicated resource from the bank at the fixed cost of 1 coin per unit.
 
->Ore/Metal: A silver-colored ore with a golden coin labeled "1" in the top left corner.
+- Ore/Metal (icon of a silver-colored ore with a golden coin labeled "1" in the top left corner)
 
->Bricks: Two red bricks with a golden coin labeled "1" in the top right corner.
+- Bricks (icon of two red bricks with a golden coin labeled "1" in the top left corner)
 
->Wood (Logs): A stack of logs with a golden coin labeled "1" in the top center.
+- Wood (Logs) (icon of a stack of logs with a golden coin labeled "1" in the top left corner)
 
+This card changes the trading rule for the 2 resources indicated. Starting on the following turn, you will purchase the indicated resources from the bank at the fixed cost of 1 coin per unit.
 
-This card changes the trading rule for the 2 resources indi- cated. Starting on the following turn, you will purchase the indicated resources from the bank at the fixed cost of 1 coin per unit.
-
+- Papyrus (icon of an ancient scroll with a golden coin labeled "1" in the top left corner)
+- Glass (icon of a flask with a golden coin labeled "1" in the top left corner)
 
 This card grants the linking symbol shown. During a later Age you will be able to, using this symbol, construct a card with that symbol in its cost for free.
 
->Yellow Amphora a classic Greek or Roman vase with two handles
->Yellow Barrel: A simple wooden barrel, suggesting goods storage or wine trade.
-
->Blue Theater Mask: A traditional drama mask, symbolizing performance arts or theater.
-
->Blue Parthenon : an ancient Greek-style temple or building with columns
-
->Blue Sun a bright sun with rays
-
->Blue Water Drop asimple drop of water
-
->Blue Greek a detailed column from ancient architecture, possibly
-
->Blue Crescent Moon crescent moon
-
->Red Archery Target a circular target with a bullseye
-
->Red Spartan Helmet a  Greek or Spartan helmet
-
->Red Horseshoe a U-shaped horseshoe, representing luck, horse riding, or travel.
-
->Red Sword a simple sword, representing combat, warfare, or protection.
-
->Red Castle Wall a fortress or castle wall with battlements, symbolizing defense, protection, or military architecture.
-
->Green Lyre a stringed instrument, symbolizing music, arts, or poetry.
-
->Green Gear a mechanical gear, likely symbolizing technology, industry, or craftsmanship.
-
->Green Open Book a book lying open, representing knowledge, education, or literature.
-
->Green Magic Lamp a genie’s lamp, symbolizing magic, myth, or storytelling.
+> Yellow Amphora a classic Greek or Roman vase with two handles, 
+> Yellow Barrel: A simple wooden barrel, suggesting goods storage or wine trade.
+> Blue Theater Mask: A traditional drama mask, symbolizing performance arts or theater.
+> Blue Parthenon : an ancient Greek-style temple or building with columns
+> Blue Sun a bright sun with rays
+> Blue Water Drop asimple drop of water
+> Blue Greek a detailed column from ancient architecture, possibly
+> Blue Crescent Moon crescent moon
+> Red Archery Target a circular target with a bullseye
+> Red Spartan Helmet a  Greek or Spartan helmet
+> Red Horseshoe a U-shaped horseshoe, representing luck, horse riding, or travel.
+> Red Sword a simple sword, representing combat, warfare, or protection.
+> Red Castle Wall a fortress or castle wall with battlements, symbolizing defense, protection, or military architecture.
+> Green Lyre a stringed instrument, symbolizing music, arts, or poetry.
+> Green Gear a mechanical gear, likely symbolizing technology, industry, or craftsmanship.
+> Green Open Book a book lying open, representing knowledge, education, or literature.
+> Green Magic Lamp a genie’s lamp, symbolizing magic, myth, or storytelling.
 
 This card produces, each turn, one unit of one of the 3 raw goods represented. 
-
 Clarification: This production has no impact on trading costs.
 
-
->Logs (Wood): A stack of wooden logs in a green-bordered circular icon, followed by a vertical gray card-like icon.
-
->Bricks: Two red bricks inside a red-bordered circular icon, also followed by a vertical gray card-like icon.
-
->Ore/Metal: A chunk of silver-colored ore or metal in a gray-bordered circular icon, followed by the same vertical gray card-like icon.
+- Logs (Wood) / Bricks / Ore/Metal (icon of a stack of wooden logs in a green-bordered circular icon, followed by a /, followed by a two red bricks inside a red-bordered circular icon, also followed by a /, followed by a chunk of silver-colored ore or metal in a gray-bordered circular icon)
 
 This card produces, each turn, one unit of one of the 2 manufactured goods represented.
 Clarification: This production has no impact on trading costs.
 
->Glass: A glass jar or container in a blue-bordered hexagonal icon, followed by a vertical gray card-like icon.
-
->Papyrus/Scroll: A parchment or scroll symbol in a beige hexagonal icon, again followed by a vertical gray card-like icon.
-
+- Glass / Papyrus (icon of a glass jar or container in a blue-bordered hexagonal icon, followed by a /, followed by an icon of a parchment or scroll symbol in a beige hexagonal icon)
 
 The card is worth the number of coins shown.
 
->Coin: A simple golden circular coin.
+- Coin (icon of a  simple golden circular coin)
 
 The card is worth 2 coins per Wonder constructed in your city at the time it is constructed.
 
->Pyramid: A yellow pyramid icon outlined in black with the number 2 
+- Pyramid ( icon of a yellow pyramid icon outlined in black with the number 2)
 
 This card is worth 3 coins for each grey card constructed in the player's city at the moment when it is constructed.
 
->on a coin overlaying the top right corner.
+- Grey card (icon of grey card with a golden coin showing the number 3 overlaying its right side)
 
 This card is worth 2 coins for each brown card in your city at the time it is constructed
 
-> Gray square: A solid gray square with a golden coin showing the number 3 overlaying its right side.
-
-This card is worth 2 coins for each brown card in your city at the time it is constructed.
-
->Brown square: A solid brown square with a golden coin showing the number 2 overlaying its right side.
+- Brown card (icon of a brown card with a golden coin showing the number 2 overlaying its right side.
 
 This card is worth 1 coin for each yellow card (including itself) in your city at the time it is constructed.
 
->Yellow square: A solid yellow square with a golden coin showing the number 1 overlaying its right side.
+- Yellow card (icon of a yellow card with a golden coin showing the number 1 overlaying its right side).
 
 This card is worth 1 coin for each red card in your city at the time it is constructed.
 
->Red square: A solid red square with a golden coin showing the number 1 overlaying its right side.
+- Red card (icon of a red card with a golden coin showing the number 1 overlaying its right side)
 
-##### Clarification: (Page 16) 
+#### Clarification: (Page 16) 
+
 for all cards, the coins are taken from the bank, once and only once, at the moment when the card is constructed.
    
-
-
 ### Guild Cards (Page 16)
+
 #### Builders Guild (Page 16)
+
+> icon of a pyramid with laurel wreath and number 2
+
 At the end of the game, this card is worth 2 victory points for each Wonder constructed in the city which has the most wonders.
->Pyramid with laurel wreath and number 2
 
 #### Moneylenders (Page 16)
+
+> icon of a Gold coin with number 3, laurel wreath, and smaller coin labeled 1
+
 Guild At the end of the game, this card is worth 1 victory point for each set of 3 coins in the richest city.
->Gold coin with number 3, laurel wreath, and smaller coin labeled 1
 
 #### Scientists Guild (Page 16)
+
+> icon of a Green card with gold coin (number 1) and laurel wreath
+
 At the time it is constructed, this card earns you 1 coin for each green card in the city which has the most green cards. At the end of the game, this card is worth 1 victory point for each green card in the city which has the most green cards.
->Green rectangle with gold coin (number 1) and laurel wreath
 
 #### Shipowners Guild (Page 16)
-At the time it is constructed, this card grants you 1 coin for each brown and each grey card in the city which has the most brown and grey cards. At the end of the game, this card is worth 1 victory point for each brown and grey card in the city which has the most brown and grey cards.
->Brown and gray rectangles with gold coin (number 1) and laurel wreath+
 
-##### Clarification: (Page 16)
-the player is forced to choose one, and only one, city for both colors of cards.
+> icon of Brown and gray cards with gold coin (number 1) and laurel wreath
 
+At the time it is constructed, this card grants you 1 coin for each brown and each grey card in the city which has the most brown and grey cards. 
 
+At the end of the game, this card is worth 1 victory point for each brown and grey card in the city which has the most brown and grey cards.
 
+Clarification: the player is forced to choose one, and only one, city for both colors of cards.
 
 #### Traders Guild (Page 16)
+
+> icon of a yellow card with a token "1", green laurel wreath "1", and windmill symbol on top
+
 At the time it is constructed, the card grants you 1 coin for each yellow card in the city which has the most yellow cards. At the end of the game, this card is worth 1 victory point for each yellow card in the city which has the most yellow cards.
-> Yellow rectangle with a token "1", green laurel wreath "1", and windmill symbol on top
 
 #### Magistrates Guild (Page 16)
+
+>icon of a blue card with token "1", laurel wreath "1", and windmill symbol on top
+
 At the time it is constructed, this card grants you 1 coin for each blue card in the city which has the most blue cards. At the end of the game, this card is worth 1 victory point for each blue card in the city which has the most blue cards.
->Blue rectangle with token "1", laurel wreath "1", and windmill symbol on top
 
 #### Tacticians Guild (Page 16)
+
+> icon of a red card with token "1", laurel wreath (with red mark), and windmill symbol on top
+
 At the time it is constructed, this card grants you 1 coin for each red card in the city which has the most red cards. At the end of the game, this card is worth 1 victory point for each red card in the city which has the most red cards.
->Red rectangle with token "1", laurel wreath (with red mark), and windmill symbol on top
 
 #### Clarifications:  (Page 16)
+
 - For all guild cards which grant coins, the coins are taken from the bank, once and only once, at the moment in which the card is constructed. 
 - At the end of the game, the city chosen for the victory point gain can be dif- ferent from the one previously chosen for the coin gain.
 
 ### Wonders (Page 17)
 
 #### The Appian Way (Page 17)
+
+> image of a green card that displays a set of symbols including a moon, fire, and a numerical value of "3" within a circular badge
+
 You take 3 coins from the bank. Your opponent loses 3 coins, which are returned to the bank. Immediately play a second turn. This Wonder is worth 3 victory points.
->A green card that displays a set of symbols including a moon, fire, and a numerical value of "3" within a circular badge
 
 #### Circus Maximus (Page 17)
+
+> image of an Orange card that Shows a number "1" at the top, followed by crossed swords and other icons, ending with a "3" inside a green laurel wreath
+
 Place in the discard pile a grey card (manufactured goods) of your choice constructed by your opponent. This Wonder is worth 1 Shield. This Wonder is worth 3 victory points.
->Orange card that Shows a number "1" at the top, followed by crossed swords and other icons, ending with a "3" inside a green laurel wreath
 
 #### The Colossus (Page 17)
+
+> image of a teal card that features crossed swords with additional symbols and concludes with a green laurel wreath marked "3"
+
 This Wonder is worth 2 Shields. This Wonder is worth 3 victory points.
->Teal card that features crossed swords with additional symbols and concludes with a green laurel wreath marked "3"
-
-
 
 #### The Great Library (Page 17)
- Randomly draw 3 Progress tokens from among those discarded at the beginning of the game. Choose one, play it, and return the other 2 to the box. This Wonder is worth 4 victory points.
- >A brown card that Contains a green circle at the top, various icons in the middle, and a green laurel wreath with the number "4"
+
+> image of a brown card that Contains a green circle at the top, various icons in the middle, and a green laurel wreath with the number "4"
+
+Randomly draw 3 Progress tokens from among those discarded at the beginning of the game. Choose one, play it, and return the other 2 to the box. This Wonder is worth 4 victory points.
 
 #### The Great Lighthouse (Page 17)
- This Wonder produces one unit of the resources shown (Stone, Clay, or Wood) for you each turn. Clarification: This production has no impact on the cost of trading. This Wonder is worth 4 victory points.
- >Black crad that displays three circular tokens, golden ,blue, red and and also having a number 4
+
+> image of a black card that displays three circular tokens, golden, blue, red and also having a number 4
+
+This Wonder produces one unit of the resources shown (Stone, Clay, or Wood) for you each turn. Clarification: This production has no impact on the cost of trading. This Wonder is worth 4 victory points.
 
 #### The Hanging Gardens (Page 17)
- You take 6 coins from the bank. Immediately play a second turn. This Wonder is worth 3 victory points.
 
+> image of a breen card that displays a golden coin with a "6", a circle with a line through it, and a "3" inside laurel leaves.
+
+You take 6 coins from the bank. Immediately play a second turn. This Wonder is worth 3 victory points.
 
 #### The Mausoleum (Page 17)
+
+> image of a dark Green card that features a set of three hand icons with a green laurel wreath marked with "2" at the bottom.
+
 Take all of the cards which have been discarded since the beginning of the game and immediately construct one of your choice for free. Clarification: The cards discarded during setup are not part of the discard. This Wonder is worth 2 victory points.
->Dark Green card that features a set of three hand icons with a green laurel wreath marked with "2" at the bottom.
 
 #### Piraeus (Page 17)
+
+> image of a Light Blue card that displays two sets of circular symbols with a green laurel wreath at the bottom marked "2"
+
 This Wonder produces one unit of one of the resources shown (Glass or Papyrus) for you each turn. 
 Clarification: This production has no impact on the cost of trading. Immediately play a second turn.
 This Wonder is worth 2 victory points.
->Light Blue that displays two sets of circular symbols with a green laurel wreath at the bottom marked "2"
 
 #### The Pyramids (Page 17)
-This Wonder is worth 9 victory points.
-> golden card that Shows a set of icons with a green laurel wreath labeled "9"
 
+> image of a golden card that Shows a set of icons with a green laurel wreath labeled "9"
+
+This Wonder is worth 9 victory points.
 
 #### The Sphinx (Page 17)
+
+> image of a Purple card that contains a white circular icon and a brown rectangle, with a green laurel wreath marked "6
+
 Immediately play a second turn. This Wonder is worth 6 victory points.
->Purple card that contains a white circular icon and a brown rectangle, with a green laurel wreath marked "6
 
 #### The Statue of Zeus (Page 17)
+
+> image of a Gray card that displays crossed swords and other icons, concluding with a green laurel wreath labeled "3"
+
 Put in the discard pile one brown card (Raw goods) of your choice con- structed by their opponent. This Wonder is worth 1 Shield. This Wonder is worth 3 victory points.
->Gray card that displays crossed swords and other icons, concluding with a green laurel wreath labeled "3"
 
 #### The Temple of Artemis (Page 17)
+
+> image of a Blue card hows a crown-like symbol at the top with a green laurel wreath at the bottom marked "12"
+
 Immediately take 12 coins from the Bank.
 Immediately play a second turn.
->Blue card hows a crown-like symbol at the top with a green laurel wreath at the bottom marked "12"
-
 
 ## LIST OF CARDS  (Page 18)
+
 ### Age I (Page 18)
-- Lumber Yard
-   >A dark brown card with one green circular icon showing stacked wooden logs.
 
-- Logging Camp
-   >A dark brown card with one green circular icon showing stacked wooden logs and a yellow coin circle displaying 1, indicating it produces wood at a cost of 1 coin.
-- Clay Pool
-   >A dark brown card with two red clay pot icons.
+- Lumber Yard (image of a dark brown card with one green circular icon showing stacked wooden logs.)
 
-- Clay Pit  
-   >A brown card with one red clay pot icon and a golden coin circle showing 1, indicating it produces 1 clay resource.
+- Logging Camp (image of a dark brown card with one green circular icon showing stacked wooden logs and a yellow coin circle displaying 1, indicating it produces wood at a cost of 1 coin.)
+ 
+- Clay Pool (image of a dark brown card with two red clay pot icons.)
 
-- Quarry 
-    >A brown card with a gray stone block icon and a golden coin circle showing 1, indicating 1 stone resource is produced.
+- Clay Pit (image of a brown card with one red clay pot icon and a golden coin circle showing 1, indicating it produces 1 clay resource.)
 
-- Stone Pit  
-    >A brown card with a gray stone block icon and a golden coin circle showing 1, producing 1 stone resource.
+- Quarry (image of a brown card with a gray stone block icon and a golden coin circle showing 1, indicating 1 stone resource is produced)
 
-- Glassworks  
-    >A gray card with a blue glass jar icon and a golden coin circle showing 1, indicating glass production.
+- Stone Pit (image of a brown card with a gray stone block icon and a golden coin circle showing 1, producing 1 stone resource.)
 
-- Press  
-    >A gray card with a beige papyrus scroll icon and a golden coin circle showing 1, for papyrus production.
+- Glassworks (image of a gray card with a blue glass jar icon and a golden coin circle showing 1, indicating glass production.)
 
-- Guard Tower  
-    >A red card with a crossed swords icon
-- Workshop  
-    >A green card with a brown cogwheel and green triangle icons, providing 1 science symbol and 1 victory point.
+- Press (image of a gray card with a beige papyrus scroll icon and a golden coin circle showing 1, for papyrus production.)
 
-- Apothecary
-    >A green card with a glass vial and black wheel icon, offering 1 science symbol** and 1 victory point.
+- Guard Tower (image of a red card with a crossed swords icon)
 
-- Stone Reserve  
-    >An orange card with a large gray stone icon, a coin marked with 3, and a yellow circle showing 1 stone available for purchase.
+- Workshop (image of a green card with a brown cogwheel and green triangle icons, providing 1 science symbol and 1 victory point.)
 
-- Clay Reserve  
-    >An orange card with a large red clay icon, a coin marked with 3, and a yellow circle showing 1 clay available for purchase.
+- Apothecary (image of a green card with a glass vial and black wheel icon, offering 1 science symbol** and 1 victory point.)
 
-- Wood Reserve  
-    >An orange card with a large green wood log icon, a coin marked with 3, and a yellow circle showing 1 wood available for purchase.
+- Stone Reserve (image of an orange card with a large gray stone icon, a coin marked with 3, and a yellow circle showing 1 stone available for purchase.)
+
+- Clay Reserve (image of an orange card with a large red clay icon, a coin marked with 3, and a yellow circle showing 1 clay available for purchase.)
+
+- Wood Reserve (image of an orange card with a large green wood log icon, a coin marked with 3, and a yellow circle showing 1 wood available for purchase.)
 
 ### Age II  (Page 18)
-- Sawmill 
-   >A brown card with two green wood log icons and a yellow circle showing 2, indicating it produces 2 wood.
 
-- Brickyard  
-   >A brown card with two red clay pot icons and a yellow circle showing 2, producing 2 clay.
+- Sawmill (image of a brown card with two green wood log icons and a yellow circle showing 2, indicating it produces 2 wood.)
 
-- Shelf Quarry  
-   >A brown card with two gray stone block icons and a yellow circle showing 2, producing 2 stone.
+- Brickyard  (image of a brown card with two red clay pot icons and a yellow circle showing 2, producing 2 clay.)
 
-- Glass-Blower
-   >A gray card with a blue glass jar icon, indicating glass production.
+- Shelf Quarry (image of a brown card with two gray stone block icons and a yellow circle showing 2, producing 2 stone.)
 
-- Drying Room
-   >A gray card with a beige papyrus scroll icon, representing papyrus production.
+- Glass-Blower (image of a gray card with a blue glass jar icon, indicating glass production.)
 
-- Walls  
-   >A red card with two crossed swords and two gray stone block icons, providing 2 military strength.
+- Drying Room (image of a gray card with a beige papyrus scroll icon, representing papyrus production.)
 
-- Forum   
-   >An orange card with icons for glass, papyrus, and coins. It produces one of these manufactured goods, and the number 3 coin icon suggests it also grants 3 coins.
+- Walls  (image of a red card with two crossed swords and two gray stone block icons, providing 2 military strength.)
 
-- Caravansery
-   >An orange card with icons for wood, clay, stone, papyrus, and coins. It provides one of each resource and has a 2 coin icon.
+- Forum  (image of an orange card with icons for glass, papyrus, and coins. It produces one of these manufactured goods, and the number 3 coin icon suggests it also grants 3 coins.)
 
-- Customs House
-   >An orange card with a glass jar icon, a papyrus icon, and 4 coins symbol, indicating it provides coins and allows access to glass and papyrus.
+- Caravansery (image of an orange card with icons for wood, clay, stone, papyrus, and coins. It provides one of each resource and has a 2 coin icon.)
 
-- ourthouse  
-   >A blue card with a large 5 victory points icon, indicating it grants 5 victory points when constructed.
+- Customs House (image of an orange card with a glass jar icon, a papyrus icon, and 4 coins symbol, indicating it provides coins and allows access to glass and papyrus.
+
+- Courthouse (image of a blue card with a large 5 victory points icon, indicating it grants 5 victory points when constructed.)
 
 ### Age III (Page 18)
 
-- Arsenal
-   >Bright red card with icons for two clay blocks, one log, and a military helmet, plus three crossed swords.
+- Arsenal (image of a Bright red card with icons for two clay blocks, one log, and a military helmet, plus three crossed swords.)
 
-- Pretorium
-   >Red card showing a stone block and crossed swords, with three crossed swords symbols and an "8" cost.
+- Pretorium (image of a Red card showing a stone block and crossed swords, with three crossed swords symbols and an "8" cost.)
 
-- Academy
-   >Green card with icons for a stone block, blue glass jar, and two scrolls, featuring a compass symbol and "3" in a wreath.
+- Academy (image of a Green card with icons for a stone block, blue glass jar, and two scrolls, featuring a compass symbol and "3" in a wreath.)
 
-- Study
-   >Light green card showing a log, blue glass jar, and scroll, with a compass symbol and a "3" in a wreath.
+- Study (image of a Light green card showing a log, blue glass jar, and scroll, with a compass symbol and a "3" in a wreath.)
 
-- Chamber of Commerce
-   >Orange card with two clay blocks, a brown resource block, and two "3" symbols for points.
+- Chamber of Commerce (image of an Orange card with two clay blocks, a brown resource block, and two "3" symbols for points.)
 
-- Port
-   >Orange card with a camel, blue glass jar, two brown blocks, and points indicated by "2" and "3" in circles.
+- Port (image of an Orange card with a camel, blue glass jar, two brown blocks, and points indicated by "2" and "3" in circles.)
 
-- Armory
-   >Orange card with a red block, yellow "1," crossed swords, and a "3" in a wreath.
+- Armory (image of an Orange card with a red block, yellow "1," crossed swords, and a "3" in a wreath.)
 
-- Palace
-    >Blue card with icons for a clay block, log, glass jar, stone block, and scroll, with a large "7" surrounded by laurel leaves.
+- Palace (image of a Blue card with icons for a clay block, log, glass jar, stone block, and scroll, with a large "7" surrounded by laurel leaves.)
 
-- Town Hall
-   >Blue card showing two stone blocks, one log, and a military helmet, with a large "7" in laurel leaves.
+- Town Hall (image of a Blue card showing two stone blocks, one log, and a military helmet, with a large "7" in laurel leaves.)
 
-- Obelisk
-    >Blue card featuring a "5" in laurel leaves.
+- Obelisk (image of a Blue card featuring a "5" in laurel leaves.)
 
 ### Guilds (Page 18)
 
+- Merchants Guild (image of a Purple card with icons showing a log, clay block, glass jar, stone block, and scroll; grants 1 victory point for coins.)
 
-- Merchants Guild
-    >Purple card with icons showing a log, clay block, glass jar, stone block, and scroll; grants 1 victory point for coins.
+- Shipowners Guild (image of a Purple card with icons showing a log, clay block, glass jar, and stone block; grants points for black and brown resources.)
 
-- Shipowners Guild
-    >Purple card with icons showing a log, clay block, glass jar, and stone block; grants points for black and brown resources.
+- Builders Guild  (image of a Purple card with icons showing three stone blocks and a glass jar; grants 2 points for building contributions.)
 
-- Builders Guild
-    >Purple card with icons showing three stone blocks and a glass jar; grants 2 points for building contributions.
+- Magistrates Guild (image of a Purple card with icons showing a log, two military helmets, and two clay blocks; grants 1 point for governance (blue).)
 
-- Magistrates Guild
-   >Purple card with icons showing a log, two military helmets, and two clay blocks; grants 1 point for governance (blue).
+- Scientists Guild (image of a Purple card with icons showing two clay blocks, a log, and two green helmets; grants 1 science-related point (green).)
 
-- Scientists Guild
-   >Purple card with icons showing two clay blocks, a log, and two green helmets; grants 1 science-related point (green).
+- Moneylenders Guild (image of a Purple card with icons showing two stone blocks, a green helmet, and a log; grants 3 points for money contributions.)
 
-- Moneylenders Guild
-  >Purple card with icons showing two stone blocks, a green helmet, and a log; grants 3 points for money contributions.
-
-- Tacticians Guild
-  >urple card with icons showing a clay block, a log, and three crossed swords; grants 1 point for military achievements (red).
-
+- Tacticians Guild (image of a Purple card with icons showing a clay block, a log, and three crossed swords; grants 1 point for military achievements (red).)
 
 ## Organization Of The Card Board Depending On The Age (Page 19)
  
 At the beginning of each Age, shuffle the corresponding deck, then lay out the 20 cards according to the structure of the current Age. Be careful, some cards are laid out face up, and others face down. To make things easier, start at the indicated point.
 
 ### Age I:  (Page 19)
->The cards are arranged in a pyramid shape with 6 rows. The bottom row has 5 face-up cards, while the remaining 5 rows above consist entirely of face-down cards, starting with a single card at the top and increasing by one card per row.
+
+> image of cards arranged in a pyramid shape with 6 rows. The bottom row has 5 face-up cards, while the remaining 5 rows above consist entirely of face-down cards, starting with a single card at the top and increasing by one card per row.
 
 ### Age II:  (Page 19)
->The cards are arranged in an inverted triangle with 5 rows. The top 3 rows consist of face-down cards, while the bottom 2 rows feature face-up cards. The arrangement begins with 3 cards at the top and increases until reaching 5 cards in the middle, then decreases back to 4 cards in the bottom row
+
+> image of cards arranged in an inverted triangle with 5 rows. The top 3 rows consist of face-down cards, while the bottom 2 rows feature face-up cards. The arrangement begins with 3 cards at the top and increases until reaching 5 cards in the middle, then decreases back to 4 cards in the bottom row
 
 ### Age III:  (Page 19)
-The cards are arranged in a diamond shape with 6 rows. The top 4 rows are face-down, starting with 1 card and increasing to 4. The bottom 2 rows are face-up, with 5 cards in each row forming the widest part of the diamond.
 
->Card when face Up: The cards have visible white faces, with different (Brown, Blue, Purple ) border colors representing the different ages:
+> image of cards arranged in a diamond shape with 6 rows. The top 4 rows are face-down, starting with 1 card and increasing to 4. The bottom 2 rows are face-up, with 5 cards in each row forming the widest part of the diamond.
 
->Card when face Down: The cards are color filled, it could be either Brown, Blue, Purple , with the same border colors
+> image of Cards when face Up: The cards have visible white faces, with different (Brown, Blue, Purple ) border colors representing the different ages:
+
+> image of Cards when face Down: The cards are color filled, it could be either Brown, Blue, Purple , with the same border colors
