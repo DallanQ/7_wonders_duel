@@ -1,32 +1,97 @@
 [rule-clarification-of-progress-token-named-theolog](https://boardgamegeek.com/thread/2401098/rule-clarification-of-progress-token-named-theolog)
 
+>help me to understand how theology progress token works in the game?
+Theology token give you the “play again” bonus to all your wonders, so it’s useless for wonders that already have it. It basically improves some of the wonders giving it an extra ability.
+In addition, theology doesn't add an additional "play again" bonus to a wonder that already has one. It just ensures that every wonder has one (and only one) "play again" bonus. You can find this clarification on page. 14 of the english rules, "description of the symbols
+
+>play again means I can construct future wonder twice or thrice?
+Play again refers to your turn, not the wonder itself. So you get to take a second, normal turn - drawing another card from the middle and playing or selling it
+
 [yellow-trade-card-effect-plus-1-gold-per-yellow-bu](https://boardgamegeek.com/thread/1746769/yellow-trade-card-effect-plus-1-gold-per-yellow-bu)
+
+>Do I gain 2 or 3 gold (counting the trade card which i only just recently built)?
+
+Near the bottom of page 15 in the rules:
+This card is worth 1 coin for each yellow card (including itself) in your city at the time it is constructed.You'd get 3 coins in your example
 
 [do-you-replace-progress-science-tokens-with-new-on](https://boardgamegeek.com/thread/1498672/do-you-replace-progress-science-tokens-with-new-on)
 
+>do you replace progress (science) tokens with new ones as they are acquired?
+
+You do not replace the green progress tokens as they are collected.
+
+This is not the same as collecting six unique sciences. On the green science cards you will find various symbols. There are seven different symbols. If you collect 6 unique science symbols from these green cards you win automatically.
+
+There is overlap between the two with the Law progress token. This counts as a science if you collect i
+
+
 [yellow-buildings-which-give-gold-for-cards-of-spec](https://boardgamegeek.com/thread/2717414/yellow-buildings-which-give-gold-for-cards-of-spec)
+
+>If I build a yellow building which gives me gold for each building of a specific color, in this example also yellow, does the new building count as well? 
+
+See the card guide on page 15.
+Quote:This card is worth 1 coin for each yellow card (including itself) in your city at the time it is constructed.
 
 [yellow-cards-providing-resources](https://boardgamegeek.com/thread/2524677/yellow-cards-providing-resources)
 
+>Yellow cards - If a resource is at the top of a yellow card, it is producing that resource and if it is a resource with a coin value of 1 next to it, it changes the trading rules but does not produce that resource? Yes? No?
+
+Yes. It is like a "Members Reward" card and means you can buy the needed resource for a buck each, instead of two+ bucks.
+
+
 [does-stonehenge-replace-pyramids-or-do-they-coexis](https://boardgamegeek.com/thread/1818084/does-stonehenge-replace-pyramids-or-do-they-coexis)
 
-[yellow-cards-producing-resources](https://boardgamegeek.com/thread/3126510/yellow-cards-producing-resources)
 
 [what-happens-when-the-first-military-strike-is-a-3](https://boardgamegeek.com/thread/1507687/what-happens-when-the-first-military-strike-is-a-3)
 
+> What happens when the first military strike is a 3?
+
+You move the military marker 3 spaces towards your opponent. It would cost them 2 coins, if the marker was at the starting point (middle) and the marker had not previously entered this zone
+
+
 [urbanism](https://boardgamegeek.com/thread/1485147/urbanism)
+>Do I also get the 4 coins if I build a building that doesn't have a cost, like the Drying Room?
+
+Some buildings have a Free Construction Condition on them. If you already have the required symbol on another building, then you construct it for free, thus activating a Chain.
+
 
 [construct-a-wonder](https://boardgamegeek.com/thread/1505890/construct-a-wonder)
+>Can I construct only anyone of my own left wonders or all left wonders even from the opponent?
+
+Only yours.
 
 [pay-for-a-card-even-if-i-have-matching-symbol](https://boardgamegeek.com/thread/1810744/pay-for-a-card-even-if-i-have-matching-symbol)
 
+>Was wondering if the designers intended for you to be able to pay the cost for a card even if in possession of the matching symbol that would give it for free? 
+
+No, you are not allowed to pay for something which is free !
+
 [descartar-para-conseguir-monedas-construir-una-mar](https://boardgamegeek.com/thread/1517780/descartar-para-conseguir-monedas-construir-una-mar)
+
+>Usas una carta de las presente en la mesa, o seleccionas una construida de tu mano?
+
+La segunda: se usas una carta presente en la mesa.
+Se puede siempre descartar una carta para conseguir monedas
 
 [stacking-more-than-one-extra-turn-from-wonders](https://boardgamegeek.com/thread/2540732/stacking-more-than-one-extra-turn-from-wonders)
 
+> Can you stack more than one extra turn from Wonders if you can continue to pay the costs to build them?
+
+Yes
+
 [coins](https://boardgamegeek.com/thread/1544878/coins)
 
+>what happens when you need to pay 5 coins, but you have only 3?
+
+Any time you would have to lose more coins than you have, you lose all your coins. You cannot, however, buy a card that you do not have enough coins to pay for.
+
+
 [do-the-discarded-cards-used-for-wonders-count-for](https://boardgamegeek.com/thread/2271105/do-the-discarded-cards-used-for-wonders-count-for)
+
+>Do the discarded cards used for Wonders count for victory points?
+
+The card goes facedown and doesn't count for anything; it just shows that the wonder has been completed.
+
 
 [economy-progress-token](https://boardgamegeek.com/thread/2035041/economy-progress-token)
 
