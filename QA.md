@@ -219,7 +219,10 @@ You only score the points where the marker ends up. Only one player will score m
 
 [is-robbing-the-bank-covered-by-any-rule-update-tha](https://boardgamegeek.com/thread/2658322/is-robbing-the-bank-covered-by-any-rule-update-tha)
 
+
 [money-public-knowledge](https://boardgamegeek.com/thread/2543905/money-public-knowledge)
+
+> 
 
 [keep-buildings-from-age-to-age](https://boardgamegeek.com/thread/1479780/keep-buildings-from-age-to-age)
 
@@ -227,15 +230,52 @@ You only score the points where the marker ends up. Only one player will score m
 
 [can-you-trade-to-build-wonders](https://boardgamegeek.com/thread/1472554/can-you-trade-to-build-wonders)
 
+> If you are short on resources can you trade to build wonders just as when you build buildings?
+
+yes you can !
+
 [questions-about-science](https://boardgamegeek.com/thread/2346256/questions-about-science)
+> 1. You can win if you get 6 different science cards immediately. In a game I had, I finally got all 6 science on the very last card of the very last round III.Do I win? 
+
+Yes. You won.
+
+>The Law science progress token is wild. So if you get the Law science progress token, you can use it as another symbol to count towards the 6 symbol victory condition. However, can you also use it simultaneously to count as a double symbol of your choice to get another progress token?
+
+You can't use it to double symbols (unless you got a second Law token from the Pantheon expansion god that provides one - Ishtar, I think). It's not really a wild, just another, different symbol.
 
 [great-lighthouse-question](https://boardgamegeek.com/thread/2794252/great-lighthouse-question)
 
+> So with the Great Lighthouse wonder, do you get all of the resources shown on the card per turn or just one?
+
+See page 15. The slash symbol ( / ) on the other card iconography means you get one of only one of the resources (you choose which resource).
+
+
 [2-questions-yellow-cards-and-vp-calculation](https://boardgamegeek.com/thread/2027136/2-questions-yellow-cards-and-vp-calculation)
+
+> There are yellow cards that clearly produce goods,for example the forum which produces either glass or papyrus.But the yellow cards that change the trading rules, such as the customs house for example. It changes the trading rules but does it ALSO produce papyrus and glass?
+
+No. Those cards only affect the trading rules.
+
+> The rules are quite OK when it comes to calculating VPs but the checkboxes in the red and green rows beneath the sigma got us puzzled. We couldn't find anything to go in those boxes?
+
+There are two ways you can win the game instantly. If at any point a player triggers a military or technological victory you tick the the red or green boxes, respectively, instead of calculating scores.
+
 
 [7-wonders-duel-pay-the-bank-or-pay-the-player](https://boardgamegeek.com/thread/2308081/7-wonders-duel-pay-the-bank-or-pay-the-player)
 
+>Buying a resource straight up costs 2 coins which are paid to the bank.
+If I have a card that acts like ..trading post, for example... that allows me to purchase a resource from my neighbor for 1 coin. Is that coin paid to the neighbor or paid to the bank?
+
+Also it doesn't allow you to buy it for 1 coin. It only lowers the basevalue of 2 coins per resource to one. But if your opponent has 3 stone cards, one stone costs you 5 coins normally. With that -1 market card, it would now cost you 4 coins per stone.
+
+
 [whos-next](https://boardgamegeek.com/thread/2240056/whos-next)
+
+>Player 1 gets a symbol "play again" after he completes a step of a wonder. But it was the last card of the era.
+Player 2 should normaly start since he is the weakest player in war. Who should play next at the start of next era?
+
+The play again power has no effect at the end of an age, so the weaker player will still start. See Page 10, second bullet point, upper right
+
 
 [moneylenders-guild](https://boardgamegeek.com/thread/2534228/moneylenders-guild)
 
