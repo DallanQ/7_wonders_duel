@@ -313,8 +313,9 @@ You only consider brown and grey buildings. These do not have options. page 8, t
 
 [effect-of-lighthouse-is-the-played-card-also-affec](https://boardgamegeek.com/thread/3061681/effect-of-lighthouse-is-the-played-card-also-affec)
 
+>When I play lighthouse and already have three yellow cards in my city, do I get 3 coins (cards already played) or 4 coins (cards already played + lighthouse) from the bank?
 
-
+4, the card counts itself too. This is explicitly noted in the description of the symbol, on page 15. 
 
 [wonders-questions](https://boardgamegeek.com/thread/2618532/wonders-questions)
 
