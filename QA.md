@@ -212,6 +212,11 @@ Think of it this way. Each turn, one card comes out of the display. The active p
 
 [military-zones-question](https://boardgamegeek.com/thread/1868645/military-zones-question)
 
+> During the game, the conflict marker has been moved on both opponents' side revealing VP signs on both (A-B) sides (2VP & 2VP). In the end of the game, finally, the conflict marker is situated on B-player's side (on favor of A-player). Should the A-player get both sides' VPs? (e.g. 2+2VPs?)
+
+You only score the points where the marker ends up. Only one player will score military points. Note the word "OR". No mention of multiple scoring for this. (Also see page 13)
+
+
 [is-robbing-the-bank-covered-by-any-rule-update-tha](https://boardgamegeek.com/thread/2658322/is-robbing-the-bank-covered-by-any-rule-update-tha)
 
 [money-public-knowledge](https://boardgamegeek.com/thread/2543905/money-public-knowledge)
