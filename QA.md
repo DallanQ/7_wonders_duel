@@ -290,14 +290,31 @@ At the end of the game, the person who holds moneylenders guild scores his own c
 
 [progress-tokens-points](https://boardgamegeek.com/thread/2530709/progress-tokens-points)
 
-> 
 
 
 [guild-of-the-moneylenders](https://boardgamegeek.com/thread/1461482/guild-of-the-moneylenders)
 
+> You get points at the end of the game: 1 point for each 3 Coins and you get points for the Guild of the Moneylenders: 1 point for each 3 coins. 
+When you own the Guild do you get both points - for coins and the guild?
+Or do you only get once the Coin-Bonus?
+Example: I have 12 Coins and the Guild of the Moneylenders:
+Do i get 4 Points (coin end game bonus) or 8 points (coin end game bonus + moneylender bonus) If both bonuses apply isn't that a little bit overpowered?
+
+
+You need 3 coins to make only 1 point. Imagine you have 7 yellow cards, which is a lot (and happens quite never)
+Each time you burn a card in age 3, you get 9 coins, which means 3 points, + 3 extra points due to the guild.
+That means a total of 6 VP each time you burn a card. This is to compare to the blue cards of the same age. And with this strategy, that means that you just burn red cards, and not build them, and this can lead easily to a military loss
+
 [trading](https://boardgamegeek.com/thread/2524219/trading)
 
+>When I'm trading and have to count how many symbols of that ressource my opponent has, do I also have to count the cards where he can choose what he likes to produce? .I mean some cards produce stone AND wood. If I now want to trade for stone, does this card count as 1 stone or not?
+
+You only consider brown and grey buildings. These do not have options. page 8, the red text under "Trading" section.
+
 [effect-of-lighthouse-is-the-played-card-also-affec](https://boardgamegeek.com/thread/3061681/effect-of-lighthouse-is-the-played-card-also-affec)
+
+
+
 
 [wonders-questions](https://boardgamegeek.com/thread/2618532/wonders-questions)
 
@@ -334,6 +351,24 @@ At the end of the game, the person who holds moneylenders guild scores his own c
 [stone-reserve-question](https://boardgamegeek.com/thread/1518721/stone-reserve-question)
 
 [ways-to-get-the-law-progress-token](https://boardgamegeek.com/thread/2257221/ways-to-get-the-law-progress-token)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [no-money-or-resources-then-what](https://boardgamegeek.com/thread/1500036/no-money-or-resources-then-what)
 
