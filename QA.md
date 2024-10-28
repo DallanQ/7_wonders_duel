@@ -107,15 +107,52 @@ The ONLY time you'll give gold back to the bank will be if the card you're getti
 
 [adding-guild-cards](https://boardgamegeek.com/thread/1587048/adding-guild-cards)
 
+>When adding Guild cards to Age III deck, they stay 'on top' or they are 'shuffled in' ?
+
+You shuffle them in. They have different backs, so you know which face down cards are Guild cards, but you don't know which guild.
+
+
 [7-wonders-duel-rules-clarification-please](https://boardgamegeek.com/thread/1636209/7-wonders-duel-rules-clarification-please)
+
+> If you have a resource that costs 1 to get (e.g: the card has a stone with a little 1 coin at the top) you can purchase as many as needed to construct the card you have chosen.
+ 
+Yes
+
+> If paying for a resource you don't have its 2 coins plus a coin for each one of the resource your opponent has - is this only the pure resources of that card or any card with that resource e.g: during later stages where you get cards which say have papyrus or glass etc
+
+brown/grey cards
+
+> Can you only pay for resources you don't have to construct cards into your city or can you do the same for wonders? My fiancée ended up with no stone making facilities and therefore we thought couldn't build 2/4 wonders.
+Is that right or could she have paid 2 + amount of stone I had to cover why she needed in that respect?
+
+you can buy resources for whatever use: buildings or wonders.
 
 [do-you-play-with-all-wonder-cards](https://boardgamegeek.com/thread/2558350/do-you-play-with-all-wonder-cards)
 
+>As there are cards like Stonehenge (goodies) and Pyramids which are the same (9PV) do you play with both cards in deck or do you remove one of those cards?
+
+It is intended to replace them but it still works with both.
+
+
 [apply-military-token-looting-first-time-or-every-t](https://boardgamegeek.com/thread/2978343/apply-military-token-looting-first-time-or-every-t)
+
+>When you breach the dotted line/zone with the Conflict token, do you apply the Looting 2/5 coins the first time you cross this line or every time, because your opponent can push it back across the line?
+
+Only the first time
+
+
 
 [new-player-question-about-purchasing-resources](https://boardgamegeek.com/thread/2636396/new-player-question-about-purchasing-resources)
 
+>Let's say I am trying to build something. I can produce 1 stone and need 2. My opponent has 2 cards which produce 1 stone each. I do not have a yellow card with a stone discount. Is my total cost to purchase the extra stone 2 to the bank + 2 for the two stone resources my opponent has or 2 for the bank + the difference in stone producing resources of 1 gold (I have 1 resource, they can produce 2)?, Same example but now I have a yellow card which reduces the cost to purchase stone to 1 gold. Do I only pay 1 gold to the bank for each I cannot produce and ignore any stone producing resources my opponent has?
+
+Only grey or brown production cards count for raising the price for the other player.If you need 1 Stone and the other player produce 2 stone on brown cards, you would have to pay 4 Gold (2+2). If you need two stone, you would need to pay 8 Gold.
+If you have the yellow building you have a fixed price for 1 Gold for each stone, no matter how much stone the other player produce.
+ 
 [law-progress-token-question](https://boardgamegeek.com/thread/2629133/law-progress-token-question)
+
+
+
 
 [restriction-on-isiss-power](https://boardgamegeek.com/thread/2829192/restriction-on-isiss-power)
 
