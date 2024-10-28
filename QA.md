@@ -155,13 +155,12 @@ If you have the yellow building you have a fixed price for 1 Gold for each stone
 
 It doesn't count as another symbol, it is its own symbol. So you will never pair it with anything to earn another progress token, but it can be one of your six different symbols for a science victory.
  
+
+
 [restriction-on-isiss-power](https://boardgamegeek.com/thread/2829192/restriction-on-isiss-power)
 
->I think I played it wrong... I thought you can't discard a card you haven't bought. So, instead, I discarded cards I already owned for getting the money.
 
-Is it true that you don't need to pay for the card you dicsard for getting 2 money?
 
-Effect would be: "I can't afford the card.. so you, dear opponent, won't get it either.. even if you can afford."
 
 [can-i-build-a-wonder-using-a-guild-card](https://boardgamegeek.com/thread/3104046/can-i-build-a-wonder-using-a-guild-card)
 
@@ -201,6 +200,15 @@ You don't lock yourself into one of the resources. If one thing requires wood yo
 
 
 [played-it-the-first-time-last-evening-few-question](https://boardgamegeek.com/thread/2042297/played-it-the-first-time-last-evening-few-question)
+
+>I think I played it wrong... I thought you can't discard a card you haven't bought. So, instead, I discarded cards I already owned for getting the money. Is it true that you don't need to pay for the card you dicsard for getting 2 money?
+Effect would be: "I can't afford the card.. so you, dear opponent, won't get it either.. even if you can afford."
+
+Think of it this way. Each turn, one card comes out of the display. The active player selects an available card, removes it, and does one of the following:
+1) Burns the card for coins. This is your only option if you can't afford 2) and 3).
+2) Pays the card's cost and adds it to their empire.
+3) Builds one of their four Wonders (paying all costs) and marks the built Wonder with the selected card to show the Wonder is complete.
+
 
 [military-zones-question](https://boardgamegeek.com/thread/1868645/military-zones-question)
 
