@@ -339,7 +339,11 @@ The guild gives points based on the number of cards in a city, but the city does
 
 [end-of-game-scoring-confused-about-military-board](https://boardgamegeek.com/thread/1495232/end-of-game-scoring-confused-about-military-board)
 
-> 
+> How do you determine what vp's each player receive?
+
+At most 1 person will receive victory points from the military board at game end providing you haven't won a military victory. If the military marker is in the first section of your opponents side you will gain 2 victory points; the middle section 5 victory points and the final section 10 victory points.
+On page 13 it says 0, 2, 5 or 10 points so you get 1 of them and not all added together.
+
 
 [statue-of-zeus-plus-mausoleum-combination](https://boardgamegeek.com/thread/2621523/statue-of-zeus-plus-mausoleum-combination)
 
