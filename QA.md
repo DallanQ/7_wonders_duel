@@ -151,18 +151,43 @@ If you have the yellow building you have a fixed price for 1 Gold for each stone
  
 [law-progress-token-question](https://boardgamegeek.com/thread/2629133/law-progress-token-question)
 
+> When you get the law token , do you have to declare which symbol it is or can you wait till declare at the end of the game?
 
-
-
+It doesn't count as another symbol, it is its own symbol. So you will never pair it with anything to earn another progress token, but it can be one of your six different symbols for a science victory.
+ 
 [restriction-on-isiss-power](https://boardgamegeek.com/thread/2829192/restriction-on-isiss-power)
+
+>I think I played it wrong... I thought you can't discard a card you haven't bought. So, instead, I discarded cards I already owned for getting the money.
+
+Is it true that you don't need to pay for the card you dicsard for getting 2 money?
+
+Effect would be: "I can't afford the card.. so you, dear opponent, won't get it either.. even if you can afford."
 
 [can-i-build-a-wonder-using-a-guild-card](https://boardgamegeek.com/thread/3104046/can-i-build-a-wonder-using-a-guild-card)
 
+>can i build a wonder using a guild card?
+
+Yes, a guild card works just like any other card; you can build it, discard it for coins, or use it to build a wonder. (the three options listed on page 10 of the rulebook)
+
 [play-again-after-last-card](https://boardgamegeek.com/thread/2614766/play-again-after-last-card)
+
 
 [economy-token](https://boardgamegeek.com/thread/1635284/economy-token)
 
+> Clarification needed - how do you understand Economy token? Do I get as many coins as my opponent would need to spend to buy 1 unit of each 5 resources? = 2x5 = 10 coins at the beggining of the game?
+
+Whenever the opponent buys resources and pays any money for them, that money goes to you instead of to the bank (where it would normally go).
+
+
 [extra-turn-at-end-of-age](https://boardgamegeek.com/thread/1492980/extra-turn-at-end-of-age)
+
+>Let's say Player 1 is losing in Military. Player 2 draws the last card of Age 1, and uses it to build a wonder that gives him an extra turn. 
+What happens at the start of Age 2? Does Player 2 get his extra turn or is it lost to the rule that says Player 1 gets to decide who goes first?
+One might guess that Player 2 loses his extra turn benefit, but I'm wondering if there is an official ruling on this.
+
+Rulebook page 10 above "1. construct a building
+
+
 
 [yellow-resource-cards-with-two-or-more-resources](https://boardgamegeek.com/thread/2299549/yellow-resource-cards-with-two-or-more-resources)
 
