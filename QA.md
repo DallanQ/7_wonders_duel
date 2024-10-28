@@ -47,6 +47,7 @@ However, you can only do this if your other cards provide enough resources (or i
 [does-stonehenge-replace-pyramids-or-do-they-coexis](https://boardgamegeek.com/thread/1818084/does-stonehenge-replace-pyramids-or-do-they-coexis)
 
 
+
 [what-happens-when-the-first-military-strike-is-a-3](https://boardgamegeek.com/thread/1507687/what-happens-when-the-first-military-strike-is-a-3)
 
 > What happens when the first military strike is a 3?
@@ -90,6 +91,17 @@ The card goes facedown and doesn't count for anything; it just shows that the wo
 
 
 [economy-progress-token](https://boardgamegeek.com/thread/2035041/economy-progress-token)
+
+>Straight from the rulebook: "You gain the money spent by your opponent when they trade
+for resources. Be careful, this is only for the money spent obtaining resources,
+not for the coins which are part of Building costs. Clarification: the trade discounts of your opponent (Stone Reserve,
+Wood Reserve, Clay Reserve, and Customs House cards) change the purchase price, but the Economy Progress token allows you
+to gain the actual money spent by your opponent" What happens in the following example? Player A has the economy token and is producing two bricks in his city. Player B produces no bricks but has the clay reserve that lets him buy clay for 1 gold each ignoring what his opponent is producing. Would B have to pay A 4 gold for every brick he purchases?
+
+If you have to buy a ressource (be it clay, or bricks or glass or whatever), the money you are spending WILL GO to you opponent (be it 1 gold if you have the reserve or 4 gold if your opponent produce 2).
+The ONLY time you'll give gold back to the bank will be if the card you're getting is specifically asking for gold (like when you have to pay 1 gold to get a reserve).
+
+
 
 [guild-cards-who-gets-the-vp-if-tied](https://boardgamegeek.com/thread/2387134/guild-cards-who-gets-the-vp-if-tied)
 
