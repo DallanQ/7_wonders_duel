@@ -191,7 +191,14 @@ Rulebook page 10 above "1. construct a building
 
 [yellow-resource-cards-with-two-or-more-resources](https://boardgamegeek.com/thread/2299549/yellow-resource-cards-with-two-or-more-resources)
 
+>Ended up having a heated discussion about the rules of the yellow cards with 2 and/or 3 resources (for example the Forum). We understand that the card rewards the owner with 1 resource each continuous round.
+If the card produces stone or wood, I can choose wood for example. The disagreement is about wether or not one is allowed to change the chosen resource the next round. If I chose wood previously, am I allowed in the next round to change to stone and vice versa?
+
+You don't lock yourself into one of the resources. If one thing requires wood you can use it to build that one and then the next time you need the card you can pick a different resource listed on it instead. The restriction is that you can only use one of them each time.
+
 [resources-discount](https://boardgamegeek.com/thread/1440806/resources-discount)
+
+
 
 [played-it-the-first-time-last-evening-few-question](https://boardgamegeek.com/thread/2042297/played-it-the-first-time-last-evening-few-question)
 
