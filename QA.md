@@ -279,9 +279,19 @@ The play again power has no effect at the end of an age, so the weaker player wi
 
 [moneylenders-guild](https://boardgamegeek.com/thread/2534228/moneylenders-guild)
 
+>The description of this card in the rulebook says: "At the end of the game, this card is worth 1 victory point for each set of 3 coins in the richest city."
+Sets of 3 coins at the end of the game are normally worth 1 VP. So can it be understood that this guild card doubles the VPs from money for the card holder?
+Also, does this description mean that the cardholder only gets the moneylenders guild VP bonus if he has MORE money than his opponent at the end of the game? So if he does NOT have as much money as his opponent, does his card do nothing? In that case would his opponent get the bonus VPs, despite not being the cardholder?. 
+Many have wording where the city which has the most of a given thing gets the reward. The Builders Guild for example says: "...2 VPs for each Wonder constructed in the city which has the most Wonders." So again, if player A has this card, but player B has more constructed Wonders, does player B get the bonus VPs?
 
+Yes. This card doubles your points from money.
+Each guild give the points to CARD'S OWNER even he doesn't have the city that fulfill it's requirement.
+At the end of the game, the person who holds moneylenders guild scores his own coins as normal. Then, you check to see which player has the most coins. The person that holds the moneylenders guild scores 1VP for each 3 coins in this city as well. Essentially they will either score their own coins twice or score the coins in both cities
 
 [progress-tokens-points](https://boardgamegeek.com/thread/2530709/progress-tokens-points)
+
+> 
+
 
 [guild-of-the-moneylenders](https://boardgamegeek.com/thread/1461482/guild-of-the-moneylenders)
 
