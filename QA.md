@@ -319,9 +319,27 @@ You only consider brown and grey buildings. These do not have options. page 8, t
 
 [wonders-questions](https://boardgamegeek.com/thread/2618532/wonders-questions)
 
+> Say I have all the resources I need to construct a Wonder, but I forgot to do it when I got the last required resource. In my next turn, can I use any card (literally any) available in the structure, placing it under the Wonder card and build it?
+
+Sure thing. You do not have to build a wonder as you get the exact resources to build it. As a mater of fact, you can build a wonder without having any of the needed resources, as long as you have enough money.
+
+>Sure thing. You do not have to build a wonder as you get the exact resources to build it. As a mater of fact, you can build a wonder without having any of the needed resources, as long as you have enough money (see next question).
+
+All of them. Not just 1 or 2. No problem. Gold solves every resource problem in this game.
+
+
 [guild-card](https://boardgamegeek.com/thread/1815179/guild-card)
 
+>I was reading 7 wonders duel rules waiting for it to arrive tomorrow and reading it i had a doubt about one of the cards/rules. In one of the guilds' card (Shipowners Guild), it says:
+"Clarification: the player is forced to choose one, and only one, city for both colors of cards". What i do not understand is "the city" choice, i understood that each player has 1 city, so how could i have a doubt about which city to choose?
+
+
+The guild gives points based on the number of cards in a city, but the city doesn't have to be your city, it can be your opponents. But you can't choose one city for one colour of card and the other city for the other.
+
+
 [end-of-game-scoring-confused-about-military-board](https://boardgamegeek.com/thread/1495232/end-of-game-scoring-confused-about-military-board)
+
+> 
 
 [statue-of-zeus-plus-mausoleum-combination](https://boardgamegeek.com/thread/2621523/statue-of-zeus-plus-mausoleum-combination)
 
