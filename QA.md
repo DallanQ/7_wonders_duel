@@ -279,6 +279,8 @@ The play again power has no effect at the end of an age, so the weaker player wi
 
 [moneylenders-guild](https://boardgamegeek.com/thread/2534228/moneylenders-guild)
 
+
+
 [progress-tokens-points](https://boardgamegeek.com/thread/2530709/progress-tokens-points)
 
 [guild-of-the-moneylenders](https://boardgamegeek.com/thread/1461482/guild-of-the-moneylenders)
