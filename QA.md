@@ -411,8 +411,25 @@ The white cards are the cards face up and the colored cards are face down.
 As a reminder: 'The last row, with the accessible cards at the start of an age is always face up.' 
 
 [are-resources-consumed-when-used](https://boardgamegeek.com/thread/2609219/are-resources-consumed-when-used)
+> Are the resources indicated on cards 'consumable' when used?
+> For exaample: If i've as card resource a card that produce clay and another that produce wood and suppose that in same turn i want build a wonder that require them plus take a card that also require them can't do both things?
+
+The resources are not consumable in the sense that they get used up and cannot be used for next turn (your next card draft).
+
+The resources shown on a card can only be used once per turn, so if a card has wood and another card has clay, you do not have sufficient resources to play/build a card that requires you to have 2 wood and a clay (you’d have to trade/borrow). You can play/build a card that requires 1 wood and 1 clay, then on a next turn use that 1 wood and/or 1 clay again as needed.
 
 [7-wonders-duel-doubts](https://boardgamegeek.com/thread/2322700/7-wonders-duel-doubts)
+> In the middle of a game, when it becomes my turn, I choose an available card. Let's suppose that the cost of its construction is a papyrus and 2 stones. If I have two brown cards that produce stones and a yellow card that produces payrus/glass, I can always built the structure? My resources don't accumulate, right? I mean, if I didn't spend all the stones that I can produce by turn, when my next turn arrives I can't count with the previous stones, right?
+
+Your resources aren't "used up".
+Your resources are what you have available for construction per turn.
+So if after turn 3 you have two stone and one papyrus, then you can build a card that costs a stone and a papyrus on turn 4, and on turn 5 you can use the same stone and the second stone to build a card that costs 2 stone.
+
+> When in the middle of the game I want to discard a card, can it be one that it was already played? And if it is, if it's ared card with one military symbol, as I am in the middle of the game, should I lose one position in military fight or it continues in the same position?
+
+You can only discard cards for money from the "unused" structure.
+You always take a card from the structure and do one of 3 of the following with it: build it and add it to your "civilisation"; bury it under your wonder to build that wonder or discard it for money.
+
 
 [guild-cards-to-construct-wonders](https://boardgamegeek.com/thread/3259945/guild-cards-to-construct-wonders)
 
