@@ -346,22 +346,69 @@ On page 13 it says 0, 2, 5 or 10 points so you get 1 of them and not all added t
 
 
 [statue-of-zeus-plus-mausoleum-combination](https://boardgamegeek.com/thread/2621523/statue-of-zeus-plus-mausoleum-combination)
+> Can my opponent recover a resource card with Mausoleum after its destruction by Statue of Zeus?
+
+Yes, he can.
 
 [go-again-on-an-age-change](https://boardgamegeek.com/thread/2791076/go-again-on-an-age-change)
+> What happens if you build a wonder with a go again power using the last card of age one. Do you lose that go again since Age 2 must be setup first? Given the other player has a weaker military and can decide who goes first?
+
+Yes, you lose it. You do not get another turn, regardless of who decides who goes first in the new age. 
+Page 10 of the rules states:
+Quote:
+If a player has a replay effect that would allow them to take another turn at the end of an Age (when the structure is empty), the effect is lost.
 
 [wonder-card-knossos](https://boardgamegeek.com/thread/2572867/wonder-card-knossos)
 
 [removal-8th-wonder](https://boardgamegeek.com/thread/1812074/removal-8th-wonder)
+> When my opponent has build her 4 wonders, and I haven't build one, do I have to remove one of my wonders immediatly or can I decide later in the game?
+
+The rulebook answers this on page 11:
+
+Quote:
+Only 7 Wonders may be built over the course of the game. As soon as either
+player constructs the game’s 7th Wonder, the last Wonder, which has not yet been built, is immediately returned to the box.
+
+So if the other player has built all four of their Wonders, you'll be the one to build the seventh Wonder, and the choice will be yours.
 
 [law-token-variable-or-fixed](https://boardgamegeek.com/thread/1451937/law-token-variable-or-fixed)
+> The rules say the Law token is "worth a scientific symbol". Is this only used for scientific win?
+>  i.e: to determine if a player has 6 different symbols? Or can it be used to create a pair of symbols, to give the player another token?
+
+The Law token is only used for the 6 different symbols.
+You cannot have a pair of Law Symbols: there is only one of them among the Progress tokens.
 
 [economy-token](https://boardgamegeek.com/thread/2830497/economy-token)
+> If my opponent have economy token, all my discount commercial cards lose their effects?
+> Eg: I need to pay more than 1 coin for stone regardless I have Stone Reserve.
+
+No. If you have to pay for Ressources other than through Yellow Cards the money goes to the opposite player instead of the Bank. The Yellow Cards keep their effect.
 
 [discard-my-resource-card](https://boardgamegeek.com/thread/1514986/discard-my-resource-card)
 
 [caravansery](https://boardgamegeek.com/thread/1477637/caravansery)
+> Does the Caravansery allow production of 3 resources (wood, brick, and stone) or a choice of 1 of the 3?
+
+A choice of 1 of 3.
+From the Rulebook (page 13):
+
+"This card produces, each turn, one unit of one of the 3 raw goods represented."
 
 [question-about-the-card-supply-formation](https://boardgamegeek.com/thread/1496486/question-about-the-card-supply-formation)
+> In the rules, it shows the different formations the cards are laid out in for each age. Some go face up, some go face down. I assume in the picture in the rulebook that the cards with shaded colors showing are face down? Also, when do the face down cards get turned face up?
+
+You can choose an accessible card. Accissible means (in 7 Wonders Duel that is ) that the card isn't partialy covered by other cards.
+
+Rulebook page 10, Game turn wrote:
+On your turn, you must choose an "accessible" card in the card structure and play it. An accessible card is a card which isn't partially covered by other cards.
+
+Some cards are face down. When they become accessible, they are turned face up, so any you may choose a card all the cards you may choose are face up.
+
+Rulebook page 10, Game turn, top of second column wrote:
+After having played your card, you must reveal any cards which may have been hidden and which are now accessible.
+
+The white cards are the cards face up and the colored cards are face down. 
+As a reminder: 'The last row, with the accessible cards at the start of an age is always face up.' 
 
 [are-resources-consumed-when-used](https://boardgamegeek.com/thread/2609219/are-resources-consumed-when-used)
 
