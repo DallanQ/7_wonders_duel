@@ -436,36 +436,50 @@ You always take a card from the structure and do one of 3 of the following with 
 [does-destroying-opponents-military-building-affect](https://boardgamegeek.com/thread/1575993/does-destroying-opponents-military-building-affect)
 
 [stone-reserve-question](https://boardgamegeek.com/thread/1518721/stone-reserve-question)
+> Can you purchase multiples of the resource for 1 coin apiece? or only just one per turn?
+
+You can purchase as many resources as you like in a turn, and a reserve card makes you pay 1 for each of its type of resource. (See Trading on page 8.)
 
 [ways-to-get-the-law-progress-token](https://boardgamegeek.com/thread/2257221/ways-to-get-the-law-progress-token)
+> Is the following statement correct, or am I really missing something:
+> The only way to get the Law Token is to fish it out of the unused token pile with a wonder like the Great Library. Therefore, if you deal out Law to the “in play” token slots on the board at the start of the game, it will never be obtained by either player in that game.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+No. If a player gets two of the same science symbol, and Law is one of the options, they may claim it, adding another science symbol to their total. It counts as a unique science symbol toward a science victory.
 
 [no-money-or-resources-then-what](https://boardgamegeek.com/thread/1500036/no-money-or-resources-then-what)
+> If on my turn, I don't have enough money for trade or resources to purchase a card then what can I do? Do I pass on my turn? The way I read the rules is that you must purchase an active card before you either build a wonder, add to city, or discard for money. If I have to purchase in order to discard and get money... what happens if i have no money or resources to purchase in the first place?
+
+You don't purchase the Card.
+
+You have 3 options with each card:
+1) Purchase and build the Card in your city
+2) user the Card to build a Wonder, you don't pay for the Card, but you do pay for the Wonder.
+3) Discard the card, receiving 2 (+1 per yellow card you already own) gold
 
 [urbanism-chainning-mandatory](https://boardgamegeek.com/thread/1569278/urbanism-chainning-mandatory)
+> The urbanism science token says: "each time you construct a building for free through linking (free construction condition, chain), you gain 4 coins"
+> This brought some questions, if someone has all the material and the free icon condition, can they pick the method of building?
+> If they are missing the material but they have the icon for chaining, can they buy the missing material to avoid giving the other player 4 gold?
+> Or if you have the free icon condition, it automatically apply?
+
+Yes, you can pick the method of building.
+To your second question, I think you're misunderstanding the science token. It's only when the player who has the token builds anything through chaining that they gain 4 gold. If the other player builds something for free, then that doesn't affect them.
+Also, yes. You would technically be able to buy resources to build something instead of building it for free.
 
 [progress-tokens-limit](https://boardgamegeek.com/thread/2970355/progress-tokens-limit)
+> Is there a limit to how many progress tokens a player may gain? Obviously not more than 6, because then he would win the game due to having 6 different scientific symbols.
+
+There is no limit to the amount of progress tokens you are allowed to have. Theoretically the maximum you can gain in the base game is 6.
 
 [shipowners-guild](https://boardgamegeek.com/thread/2699836/shipowners-guild)
 
 [wonder-construction-cost](https://boardgamegeek.com/thread/1650116/wonder-construction-cost)
+> The rules syas, cards used to pay the construction costs are out of play and placed under the wonder.
+> How does this work for cards with multiple resources, such as a resource card with wood/stone/brick?
+> Does it take out just the resource paid or does it take the entire card out of play?
+
+You are misreading this. You pay the construction costs via resources, commodities, and money from your supply, then you place the card you drew from the pyramid under the wonder. You do not put the resource and commodity cards under the wonder. The resources and commodities can be used over and over again throughout the ages of the game. They never run out (although they are limited to a one use per purchase basis).
 
 [points-in-case-o-military-or-scientific-victory](https://boardgamegeek.com/thread/2313583/points-in-case-o-military-or-scientific-victory)
 
@@ -474,6 +488,9 @@ You always take a card from the structure and do one of 3 of the following with 
 [economy-token-question](https://boardgamegeek.com/thread/1467502/economy-token-question)
 
 [do-yellow-cards-wresource-modifier-produce-that-re](https://boardgamegeek.com/thread/2722179/do-yellow-cards-wresource-modifier-produce-that-re)
+>  Does the yellow stone cost modifier card produce a stone resource for me, or does it simply modify the trade cost only?
+
+It only modifies the stone price when trading.
 
 [coins-for-card-type-timing](https://boardgamegeek.com/thread/2868010/coins-for-card-type-timing)
 
