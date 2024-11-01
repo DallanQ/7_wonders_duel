@@ -138,6 +138,7 @@ Return to the box, without looking at them, 3 cards from each Age deck. Then ran
 ## Constructing In 7 Wonders Duel (Page 8)
 
 Throughout the game, you will construct Buildings and Wonders. Most of the Buildings have a resource cost. Some are free and others have a coin cost. Finally, some have a resource cost but also a free construction condition. The Wonders all have a resource cost.
+
 ### Free Construction (Page 8)
 Some cards have no cost and can be put into play for free. Example: The construction of the Lumber Yard is free.
 >Lumber Yard: a scene of logs being prepared in a sunset-lit yard with no cost.
@@ -149,18 +150,26 @@ To construct them, you must produce the corresponding resources AND/OR buy them 
 ### Production (Page 8)
 A city's resources are produced by its brown cards, its grey cards, some yellow cards, and some Wonders. 
 Example: Antoine produces 1 Stone, 3 Clay, and 1 Papyrus in his city.
+
 >Baths: has 3 victory points at the top left corner and a  stone , featuring a Roman bath scene where people are relaxing.
 
 If you have in your city all of the resources indicated on the Building, then you can construct that Building. 
 Example: Antoine can construct the Baths (1 Stone) or the Garrison (1 Clay) as his city produces the required resources. However, without trading, he can't build the Apothecary (1 Glass).
 
+> Image of Baths card: Blue and requires one stone to build, granting 3 points and depicting a Roman-style bathhouse scene.
+
+> Image of Garrison card: Red and costs one clay to build, providing one military strength and showing a soldier standing in an archway.
+
+> Image of Apothecary card: A green, requires one glass to build, offers one science symbol, and depicts an apothecary surrounded by herbs and medicines.
+
 Important: resources aren't spent during construction. They can be used each turn, for the entire game. Unless there's an exception, a city's pro- duction is never reduced.
+
 ### Trading (Page 8)
 Often, you will want to construct a Building or a Wonder, while you're missing one or more required resources. In that case, you can always purchase the miss- ing resources from the bank. The cost of each missing resource varies over the course of the game. It is calculated as follows:
 
 COST = 2 + number of symbols of the same resources produced by the brown and grey cards of the opposing city
 
-#### Clarifications (Page 8)
+#### Clarifications (Page  and page 9 )
 - Note that the purchasing cost is calculated according to the resources present in your opponent's city, but the purchases are paid to the bank. 
 - There is no limit to the number of resources you may purchase on your turn.
 - The resources produced by yellow cards and by Wonders aren't factored into trading costs.
@@ -170,22 +179,43 @@ Example: Bruno produces 2 Stones with his Quarry.
  - If Antoine wants to purchase one or more stones, he must pay 4 coins for each. 
  - If Bruno needs a third Stone, he must pay 2 coins, as Antoine doesn't produce any with his brown cards.
 
+
+
+
 Bruno wants to construct the Fortificaitons, which has the following cost: 2 Stone, 1 Clay and 1 Papyrus. He has in his city 2 Stone. He must therefore purchase the missing Clay and Papyrus. As his opponent, Antoine, has 1 Clay in his city, but no Papyrus, Bruno must therefore pay 5 coins to the bank: 3 for the Clay (base 2+1), and 2 for the Papyrus (base 2+0).
+
+> Image shows an example where Bruno wants to construct Fortifications that require 2 stones, 1 clay, and 1 papyrus. Bruno only produces 1 stone himself, so he must buy additional resources from Antoine:
+He buys 1 clay for 3 coins (2 for the base cost + 1 because Antoine has it), and 2 papyrus for 2 coins each.
+The total cost for Bruno is 5 coins
+
+
+Antoine wants to construct the Aqueduct, which costs 3 Stones. As he produces none, he must pay 12 coins to the bank. That's because Bruno produces 2 Stones with his brown cards, which give a price of 4 coins per Stone (2+2), and Antoine needs 3.
+
+> Image shows Antoine wanting to build the Aqueduct, which requires 3 stones. Since he only produces one, he buys the additional stones from Bruno for 4 coins each (2 coins per stone). The total cost for Antoine is 12 coins.
 
 ### Cost in coins (Page 9)
 Some cards have a cost in coins, which must then be paid to the bank when they are constructed. Example: The construction of the Scriptorium costs 2 coins, the construction of the Stone Pit costs 1 coin.
+
+> Image Shows an example of two cards: the Scriptorium card, which costs 2 coins, and the Stone Pit card, which costs 1 coin. The coins are indicated by a coin symbol on each card.
 
 ### Cost in coins and in resources (Page 9)
 Some cards have a cost in coins and in resources. To build these cards, you must pay the coin cost to the bank and must either produce the resources, or get them through trading. 
 Example: Bruno wants to construct the Caravansery, which costs 2 coins, 1 Glass and 1 Papyrus. Bruno must pay 7 coins in all. 2 coins for the card's cost, 3 coins for the Glass (Antoine produces 1), 2 coins for the Papyrus (Antoine does not produce any).
 
 
-Antoine wants to construct the Aqueduct, which costs 3 Stones. As he produces none, he must pay 12 coins to the bank. That's because Bruno produces 2 Stones with his brown cards, which give a price of 4 coins per Stone (2+2), and Antoine needs 3.
+> Image shows an example where Bruno wants to construct the Caravansary card, which requires 2 coins, 1 glass, and 1 papyrus.
+
+
 
 ### Free construction condition (chains) (Page 9)
 Some Buildings grant a chain symbol (white). Some Buildings in Ages II and III contain, under their resource cost, a white symbol linked to a Building from a previous Age. If you have the Building containing this symbol in your city, you can construct the new one for free. Example: Antoine has constructed the Baths. During Age II, he can build the Aqueduct for free as the icon is on the Baths.
 
 Bruno has constructed the Palisade. During Age III, he'll be able to build the Fortifications for free.
+
+
+> Image illustrate two scenarios: 
+1: Antoine previously constructed the Baths card. In Age II, he can now build the Aqueduct for free because it has the chain symbol matching the Baths.
+2: Bruno previously built the Palisade. During Age III, this allows him to build the Fortifications for free because of the chain symbol connection.
 
 
 ## Game Overview (Page 10)
