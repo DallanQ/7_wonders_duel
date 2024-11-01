@@ -226,11 +226,15 @@ A game begins in Age I, continues in Age II, and ends with Age III. In case of a
 #### Preparation of the structure  (Page 10)
 At the beginning of each Age, shuffle the corresponding deck, then display the 20 cards according to the structure of the current Age (see Game Aid on the last page of this rulebook). Be careful, some cards are displayed face up, while others should be face down.
 
+> The images illustrating three different card formations in various colors, each representing the setup for a different Age. The first formation, on the left, is pyramid-shaped, with cards arranged in rows, some face-up and some face-down. The second formation, in the center, has a more rectangular shape with alternating rows of face-up and face-down cards. The third formation, on the right, is another pyramid structure with more rows, also combining face-up and face-down cards.
+
 #### Game Turn  (Page 10)
 In 7 Wonders Duel, the players each play in turn. 
 The first player begins Age I.
 On your turn, you must choose an "accessible" card in the card structure and play it. An accessible card is a card which isn't partially covered by other cards. 
 Example: the Baths, the Stone Pit, the Lumber Yard, and the Scriptorium are acces- sible. The other cards are not accessible at the moment.
+
+> Image illustrating example layout with various cards. Specific cards are marked as accessible, including the Baths, Stone Pit, Lumber Yard, and Scriptorium. Other cards are stacked on top of each other, indicating they are not accessible until the cards on top are removed.
 
 You can play the card you've chosen in one of three different ways:
 1. Construct the Building
@@ -245,15 +249,23 @@ Note:
 #### 1. Construct a Building  (Page 10)
  To construct a Building, you pay the cost of the Building and place it in front of yourself. This Building now belongs to your city. As the game progresses, sort your Buildings by color in order to help you read your city.
 
-
+> The image illustracting  each color-coded to represent a different category: a red military building, a blue civic building, a brown resource-producing building, an orange marketplace-type building, and a green science building.
 
 #### 2. Discard to obtain coins  (Page 10)
 You discard the card and take 2 coins + 1 coin per yellow card in your city from the bank. The money is added to your city's treasury. The discarded cards are placed face-down next to the board. Players are free to consult the discard pile at any point. Example: Bruno discards the Aqueduct. He earns 4 coins as he has in his city the Tavern and the Clay Reserve.
 
+> The image illustating a player discarding a yellow card to a face-down discard pile to gain coins. The player receives a total of 4 coins: 2 base coins plus 2 additional coins from the yellow buildings they already own.
+
 #### 3. Construct a Wonder  (Page 11)
  You pay the cost of the Wonder (not the one of the Age card), then place your Age card face down partially covered by the Wonder card which is being constructed. The used Age card has no effect, it is simply used to show that the Wonder has been built. Example: Antoine takes an accessible card of his choice to construct the Colossus, which costs 3 Clay and 1 Glass. After having paid the cost of the Colossus (not the card's), he slips it, face down, under the right-side of the Colossus and moves the Conflict pawn 2 spaces.
+
+ > Image OF a close-up of The Colossus Wonder card, which features an illustration of a large statue standing with one foot raised over water, a reference to the historical Colossus of Rhodes. On the left side of the card, there are four circular icons, with the first three showing red markers that signify the military strength gained from building this Wonder. This military strength moves the Conflict pawn two spaces toward the opponent. At the top of the Wonder card, there are symbols indicating the resources required to construct it: 3 Clay (represented by brown circles) and 1 Glass (a clear white circle). To the right of the Wonder card, an Age card is partially tucked underneath, serving only to show that the Wonder has been constructed, without impacting gameplay.
+
 7 Wonders, not one more!
 Only 7 Wonders may be built over the course of the game. As soon as either player constructs the game's 7th Wonder, the last Wonder, which has not yet been built, is immediately returned to the box. Example: Antoine has just constructed the Colossus. 7 Wonders have been built du- ring the game (4 by Bruno, 3 by Antoine). Antoine returns the Pyramids to the box.
+
+> Image illustrates a series of constructed Wonders, arranged in two columns—one for each player. A hand, accompanied by a red arrow, is shown taking a Wonder card and moving it toward a yellow background, indicating that this Wonder is being returned to the box. This image represents the rule that, after 7 Wonders have been built, any remaining Wonder card that hasn’t been constructed is immediately removed from the game and returned to the box.
+
 
 ## End Of An Age (Page 11) 
 
