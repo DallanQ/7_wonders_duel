@@ -485,6 +485,7 @@ You are misreading this. You pay the construction costs via resources, commoditi
 
 [progress-tokens-very-strong](https://boardgamegeek.com/thread/1488628/progress-tokens-very-strong)
 
+
 [economy-token-question](https://boardgamegeek.com/thread/1467502/economy-token-question)
 
 [do-yellow-cards-wresource-modifier-produce-that-re](https://boardgamegeek.com/thread/2722179/do-yellow-cards-wresource-modifier-produce-that-re)
@@ -494,53 +495,192 @@ It only modifies the stone price when trading.
 
 [coins-for-card-type-timing](https://boardgamegeek.com/thread/2868010/coins-for-card-type-timing)
 
+> Let's say I have this situation: I have 3 gold cards in my city. I claim and build a gold card that gives me 1 coin per gold card in my city. Do I get 3 coins, only for the ones that are already built? Or do I get 4, including the one I just built?
+
+You get 4. 
+Page 15 of the rulebook: "This card is worth 1 coin for each yellow card (including itself) in your city at the time it is constructed."
+
 [guild-scoring-question](https://boardgamegeek.com/thread/1472344/guild-scoring-question)
+> I've read the section about this scoring several times, and I keep confusing myself. So, do the points and money ALWAYS go to the owner of the guild card, regardless which player has the city with the most of X (e.g., red cards)? It could be read that the money and points go to the player whose city has the most of X cards (whatever the guild is for). It reminds me of some cards in Nations. I'm guessing it's the former. But it seems like it would be a really interesting variant to do the latter--much more tension ("I'm going to lose this guild. Do I spend a turn trashing it or build a building that really benefits me?")
+
+The points and money always go to the player who builds the card.
+.The points and money are based on whichever city has the most of that type of card.
 
 [what-if-there-are-no-cards-left-and-you-want-to-bu](https://boardgamegeek.com/thread/1787599/what-if-there-are-no-cards-left-and-you-want-to-bu)
 
+> What if there are no cards left and you want to build a wonder, for example, during the last age and there are no cards left to place under your Wonder?
+
+Each turn you draft/choose a card from the display. With this card you can build it OR discard it for coins OR put it under your wonder to build it. So, you can only build your wonder IF you have a card to build it.
+
 [cost-to-build-cardswonders-with-resourcescoins](https://boardgamegeek.com/thread/2558264/cost-to-build-cardswonders-with-resourcescoins)
+
+> 1. When building a wonder do I pay extra in my opponent has those resources?.
+
+Yes, if you need to trade for resources to build a wonder, you pay the premium based on your opponents resources, same as for constructing a building.
+
+2. A card cost 1 brick. I have 2 and my opponent has 1 in front of them. What is the cost to me.
+
+Zero. If you have two brick and the card only costs one, you already have sufficient resources. You only need to pay if you lack the appropriate resources and need to pay for them.
+   
 
 [are-players-allowed-to-look-through-the-cards-of-t](https://boardgamegeek.com/thread/2665112/are-players-allowed-to-look-through-the-cards-of-t)
 
+> Are players allowed to look through the cards of the discard pile?
+
+page 10: "The discarded cards are placed face-down next to the board. Players are free to consult the discard pile at any point."
+
+
 [do-i-need-to-pay-the-cost-of-the-structure-even-if](https://boardgamegeek.com/thread/3136402/do-i-need-to-pay-the-cost-of-the-structure-even-if)
+
+> This, example: It is my turn and I must take a card, but I don't need to build it, but exchange it for money. Should I first pay its cost in coins to take it from the pyramid and then discard it for other coins? Or do I only pay its cost in coins if I'm going to build it and not scrap it?
+
+No. You do not pay for cards you are scrapping. You only pay a resource cost on the card if you are constructing the card.
 
 [player-cant-afford-the-available-cards-what-to-do](https://boardgamegeek.com/thread/1797875/player-cant-afford-the-available-cards-what-to-do)
 
+> The player have no money. And the only two options costs three money. What to do?
+
+Just follow the rules. In addition to purchasing a card you can ALWAYS choose to discard an accessible card and take some gold.
+
+
 [face-down-cards](https://boardgamegeek.com/thread/2101747/face-down-cards)
+
+> After one of the face down cards becomes "available", does it also becomes revealed or is it meant to be selected "blindly"? The rulebook states nothing(i think), so i assume its the latter?
+
+it's revealed immediately. Page 10, right column, first paragraph:
+Quote:
+After having played your card, you must reveal any cards which may have been hidden and which are now accessible.
+
+
 
 [typo-on-the-helpsheet](https://boardgamegeek.com/thread/1542239/typo-on-the-helpsheet)
 
 [how-many-guild-cards-do-i-include-in-age-iii](https://boardgamegeek.com/thread/1561093/how-many-guild-cards-do-i-include-in-age-iii)
 
+> Seven Wonders original limits how many guilds are present in Age III. In Seven Wonders: Duel, how many guild cards do I include in Age III, or is how many are present the result of chance (no limit)? I cannot find anything about this in the rule book.
+
+3 in age 3
+Pg 7 under "One deck per Age":
+"Return to the box, without looking at them, 3 cards from each Age deck.
+Then randomly draw 3 Guild cards and add them to the Age III deck without
+looking at them. Return the remaining Guilds to the box."
+
+
 [when-scanning-left-or-right-for-cards-for-the-ai-d](https://boardgamegeek.com/thread/2681678/when-scanning-left-or-right-for-cards-for-the-ai-d)
+
+> hen scanning left or right for cards for the AI, does it go by row starting from the bottom?.
+Like if it's going left to right and there's an exposed red card in the second row, that comes before an exposed red card in the first row, which one is chosen?
+
+If you're talking about the official solo mode, then every revealed card is eligible to be taken. Only the left-right order matters, not the row on which you find the card.
 
 [resources-and-cost](https://boardgamegeek.com/thread/2549323/resources-and-cost)
 
-[guild-cards-tie](https://boardgamegeek.com/thread/1877960/guild-cards-tie)
+> I have been playing this game for a while but it appears that I had a wrong understanding of the rules in terms of cost of resources.
+I make a quick example:
+if you I have one wood producing card and the card I want to build has a requirement of two wood, I only have one so I have to pay for the other one. This clear.
+Now if my opponent has a wood as well what cost will I have for the remaining wood? 3 based on the fact that he has one wood or 2 because in the end I have a wood as well, meaning the difference with the resources is 0
+
+If you need to buy the resource, it's cost it equal to: 2 + amount of the resource produced by opponent's gray/brown cards.
+You production provides you with given number of that resource for free, but does not influence the cost of buying more.
+
+[guild-cards-tie](https://boardgamegeek.com/thread/1877960/guild-cards-tie) 
+> Tactician's guild card says - 'At the time it is constructed, this card grants you 1 coin per red card in the city with most red cards.'. Me and my opponent both had two red cards when I built the guild. Do we then both get two coins, do I get it for building or do we both get nothing?
+
+The rule clearly says "this card grants you". You are you.
+The amount of your reward depends on the city with the most red cards, which might be your city or might be your opponent's city.
 
 [having-another-turn-when-you-complete-a-wonder-whe](https://boardgamegeek.com/thread/2338197/having-another-turn-when-you-complete-a-wonder-whe)
 
+> Completing a wonder to get another turn, if there are no more cards that era, do you go first in the next era even if you don't have the lower military and thus can't dictate?. Assuming lower military chooses to starts before new cards are revealed
+
+if you complete a wonder to get another turn at the end of a round when there is no more cards left then you lose your bonus. It doesn't change anything for the start of the next round.
+
 [can-i-choose-to-not-take-a-card-and-pass](https://boardgamegeek.com/thread/2547309/can-i-choose-to-not-take-a-card-and-pass)
+
+> can choiche to NOT take a card passing choiche to other player?
+
+Rules page 10, "Game Turn". Quote:
+In 7 Wonders Duel, the players each play in turn.
+On your turn, you must choose an “accessible” card in the card structure and play it.
 
 [who-is-the-starting-player](https://boardgamegeek.com/thread/3042285/who-is-the-starting-player)
 
+> f in the first era, no one advances the war track,
+Who is the starting player? I saw on the BGA that if there is a tie, the original starting player decides the order.
+
+In a situation where the pawn is in the middle of the board, the player who begins the next Age is the last active player (meaning whoever played the last card of the previous Age)
+
+
 [6th-pair-of-science-gets-nothing](https://boardgamegeek.com/thread/2053393/6th-pair-of-science-gets-nothing)
 
+ 
+
 [wonder-cost](https://boardgamegeek.com/thread/1499468/wonder-cost)
+> If the card I pick up provides a resource, can I use that resource in building the wonder before placing the card under the wonder, or do I have to have (or buy) all the necessary resources and then draw and sacrifice a card by placing it under the wonder ?
+
+The second. You can't use anything from the sacrificed card.
 
 [wonders-resources](https://boardgamegeek.com/thread/2197415/wonders-resources)
 
+> The resources on the wonders are they all available each turn or only one of them.you have cards to with those things on them.is there a difference between them being on cards and the wonders?
+second question: and if you use resources from the wonders can you use 2 wonders and a card where there is also a choose to pick from?
+
+
+1.Only one resource per card per turn. There is no difference between resource on card and the one on wonder.
+2.Yes, you can.
+
+
 [quick-rule-check](https://boardgamegeek.com/thread/2224009/quick-rule-check)
+
+> When you construct a wonder, you just essentially burn a card by placing it underneath the wonder, but you need to have the cost of the wonder (not the card) is that right?
+
+Correct.
+
+> IS it right that When built, you get the benefit of the wonder on the right hand side of the card?
+
+Correct.
+
+> I take it you can’t count the wonder as a resource when buying other cards?
+
+No, none of them are resources. The Lighthouse and Piraeus allow you access to a resource each turn for building other cards, but they don't count as resources when determining trading costs for your opponent.
+
+> Lastly. The wonder benefits are “one time only”?
+
+Yes, except for the Lighthouse and Piraeus, whose resource ability you gain each turn (you don't gain their other benefits more than once).
 
 [nonsensical-discard-rule](https://boardgamegeek.com/thread/1506933/nonsensical-discard-rule)
 
+
 [solo-automa-question](https://boardgamegeek.com/thread/2538516/solo-automa-question)
+
+> One question on solo automa: when he take green token it apply effect on it?
+
+Yes, you apply the effect of any green progress token the automa gets.
+
 
 [plus-1-gold-for-every-yellow-cards-already-built-m](https://boardgamegeek.com/thread/1487278/plus-1-gold-for-every-yellow-cards-already-built-m)
 
+ > our last game I had the guild that gives PV depending on the money in the richest city.
+ During last move, my opponent discarded one card (no orther chioices) but with 4 yellow cards he could obtain 2 gold plus other 4 coins.Is allowed to obtain, in this case, only 2 coins, without using yellow cards? or is mandatory?
+
 [confuse-about-yellow-card](https://boardgamegeek.com/thread/2800622/confuse-about-yellow-card)
 
+> Confuse about yellow card.
+
+when you buy resouce from bank it cost u 2 + each symbol of that resouce in enemy city
+example :
+enemy have 3 stone in they city then I will pay 2+3 = 5 gold to the bank.
+if I have yellow card (Stone Reserve, Wood Reserve, etc)
+ - I pay 3 gold for each stone i want (2 base + 1 becuz of yellow card i have)
+ - I pay 1 gold for each stone i want ( yellow card discount every stone to be 1 gold )
+which choice is correct ? i'm not sure .
+just played 3 game and use first choice , it cost so much to paid for build something.
 [tradeyellow-buildings-resource-symbol-with-a-coin](https://boardgamegeek.com/thread/1475721/tradeyellow-buildings-resource-symbol-with-a-coin)
 
 [7-wonders-duel-rules](https://boardgamegeek.com/thread/1815154/7-wonders-duel-rules)
 
+> For the resource symbol that also has a coin, I know it means that resources of that type only cost a coin but does it also provide a resource?
+
+No, it doesn't.
+Those cards only provide you a fixed and favorable cost when buying resources.
+Plus, as all yellow cards, a +1 coin whenever you discard a card for coins.
