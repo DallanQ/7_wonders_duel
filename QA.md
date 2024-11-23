@@ -111,8 +111,6 @@ You can play the card you’ve chosen in one of three different ways
 - 2. Discard the card to obtain coins
 - 3. Construct a Wonder
 
-[does-stonehenge-replace-pyramids-or-do-they-coexis](https://boardgamegeek.com/thread/1818084/does-stonehenge-replace-pyramids-or-do-they-coexis)
-
 
 
 [what-happens-when-the-first-military-strike-is-a-3](https://boardgamegeek.com/thread/1507687/what-happens-when-the-first-military-strike-is-a-3)
@@ -163,27 +161,18 @@ Page 9
 Free construction condition (chains)Some Buildings grant a chain symbol (white).Some Buildings in Ages II and III contain, under their resource cost, a white symbol linked to a Building from a previous Age. If you have the Building containing this symbol in your city, you can construct the new one for free.
 
 
-[construct-a-wonder](https://boardgamegeek.com/thread/1505890/construct-a-wonder)
-
->Can I construct only anyone of my own left wonders or all left wonders even from the opponent?
-
-Only yours.
-
-[pay-for-a-card-even-if-i-have-matching-symbol](https://boardgamegeek.com/thread/1810744/pay-for-a-card-even-if-i-have-matching-symbol)
-
-> Can you pay the cost for a card even if in possession of the matching symbol that would give it for free? 
-
-No, you are not allowed to pay for something which is free !
-
-[descartar-para-conseguir-monedas-construir-una-mar](https://boardgamegeek.com/thread/1517780/descartar-para-conseguir-monedas-construir-una-mar)
-
-[stacking-more-than-one-extra-turn-from-wonders](https://boardgamegeek.com/thread/2540732/stacking-more-than-one-extra-turn-from-wonders)
-
 [coins](https://boardgamegeek.com/thread/1544878/coins)
 
 >what happens when you need to pay 5 coins, but you have only 3?
 
 Any time you would have to lose more coins than you have, you lose all your coins. You cannot, however, buy a card that you do not have enough coins to pay for.
+
+----
+page 14
+
+**Looting**
+2 or 5 coinsYour opponent loses 2 or 5 coins depending on the token. They are returned to the bank. Then the token is returned 
+to the box. If your opponent doesn’t have enough coins, they lose all of their coins.
 
 
 [do-the-discarded-cards-used-for-wonders-count-for](https://boardgamegeek.com/thread/2271105/do-the-discarded-cards-used-for-wonders-count-for)
@@ -205,25 +194,75 @@ Page 10
 for resources. Be careful, this is only for the money spent obtaining resources,
 not for the coins which are part of Building costs. Clarification: the trade discounts of your opponent (Stone Reserve,
 Wood Reserve, Clay Reserve, and Customs House cards) change the purchase price, but the Economy Progress token allows you
-to gain the actual money spent by your opponent" What happens in the following example? Player A has the economy token and is producing two bricks in his city. Player B produces no bricks but has the clay reserve that lets him buy clay for 1 gold each ignoring what his opponent is producing. Would B have to pay A 4 gold for every brick he purchases?
+to gain the actual money spent by your opponent" What happens in the following example? Player A has the economy token and
+ is producing two bricks in his city. Player B produces no bricks but has the clay reserve that lets him buy clay for 
+ 1 gold each ignoring what his opponent is producing. Would B have to pay A 4 gold for every brick he purchases?
 
 If you have to buy a ressource (be it clay, or bricks or glass or whatever), the money you are spending WILL GO to you opponent (be it 1 gold if you have the reserve or 4 gold if your opponent produce 2).
 The ONLY time you'll give gold back to the bank will be if the card you're getting is specifically asking for gold (like when you have to pay 1 gold to get a reserve).
 
+----
+page 8
+
+**Trading**
+Often, you will want to construct a Building or a Wonder, while you’re missing one or more required resources. 
+In that case, you can always purchase the miss-ing resources from the bank. 
+Clarifications:
+- Note that the purchasing cost is calculated according to the resources present 
+in your opponent’s city, but the purchases are paid to the bank. 
+- There is no limit to the number of resources you may purchase on your turn.
+- The resources produced by yellow cards and by Wonders aren’t factored into 
+trading costs.
+- Some commercial Buildings (yellow cards) change the trading rules and set the cost of some resources to 1 coin.
+
+----
+Page 9
+
+**Cost in coins**
+Some cards have a cost in coins, which must then be paid to the bank when they are constructed
+
+**Cost in coins and in resources**
+Some cards have a cost in coins and in resources. To build these cards, you must pay
+the  coin  cost  to  the  bank  and  must  either  produce  the  resources,  or  get  them through trading.
 
 
-[guild-cards-who-gets-the-vp-if-tied](https://boardgamegeek.com/thread/2387134/guild-cards-who-gets-the-vp-if-tied)
 
 [adding-guild-cards](https://boardgamegeek.com/thread/1587048/adding-guild-cards)
 
->When adding Guild cards to Age III deck, they stay 'on top' or they are 'shuffled in' ?
+> When adding Guild cards to Age III deck, they stay 'on top' or they are 'shuffled in' ?
 
 You shuffle them in. They have different backs, so you know which face down cards are Guild cards, but you don't know which guild.
+
+----
+page 7
+
+**One deck per Age**
+Return to the box, without looking at them, 3 cards from each Age deck.Then randomly draw 3 Guild cards and add them to the Age III deck without looking at them. Return the remaining Guilds to the box.
+
+
+
+[construct-a-wonder](https://boardgamegeek.com/thread/1505890/construct-a-wonder)
+
+>Can I construct only anyone of my own left wonders or all left wonders even from the opponent?
+
+Only yours.
+
+[pay-for-a-card-even-if-i-have-matching-symbol](https://boardgamegeek.com/thread/1810744/pay-for-a-card-even-if-i-have-matching-symbol)
+
+> Can you pay the cost for a card even if in possession of the matching symbol that would give it for free? 
+
+No, you are not allowed to pay for something which is free !
+
+[descartar-para-conseguir-monedas-construir-una-mar](https://boardgamegeek.com/thread/1517780/descartar-para-conseguir-monedas-construir-una-mar)
+
+[stacking-more-than-one-extra-turn-from-wonders](https://boardgamegeek.com/thread/2540732/stacking-more-than-one-extra-turn-from-wonders)
+
 
 
 [7-wonders-duel-rules-clarification-please](https://boardgamegeek.com/thread/1636209/7-wonders-duel-rules-clarification-please)
 
-> If you have a resource that costs 1 to get (e.g: the card has a stone with a little 1 coin at the top) you can purchase as many as needed to construct the card you have chosen.
+> If you have a resource that costs 1 to get (e.g: the card has a stone with a little 1 coin at the top) you can purchase as 
+many as needed to construct the card you have chosen.
  
 Yes
 
