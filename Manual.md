@@ -649,7 +649,7 @@ Put in the discard pile one brown card (Raw goods) of your choice con- structed 
 Immediately take 12 coins from the Bank.
 Immediately play a second turn.
 
-## LIST OF CARDS  (Page 18)
+## LIST OF CARDS: with links (free construction conditions)  (Page 18) 
 
 ### Age I (Page 18)
 

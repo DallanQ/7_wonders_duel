@@ -1,10 +1,25 @@
 [rule-clarification-of-progress-token-named-theolog](https://boardgamegeek.com/thread/2401098/rule-clarification-of-progress-token-named-theolog)
 
-> help me to understand how theology progress token works in the game? play again means I can construct future wonder twice or thrice?
+> Help me to understand how theology progress token works in the game?. Does play again means I can construct future wonder twice or thrice?
 
 Theology token give you the “play again” bonus to all your wonders, so it’s useless for wonders that already have it. It basically improves some of the wonders giving it an extra ability.
 "Play again" means that you get to take another turn after building a wonder. You don't get to repeat any effects or bonuses from your previous turn.
 In addition, theology doesn't add an additional "play again" bonus to a wonder that already has one. It just ensures that every wonder has one (and only one) "play again" bonus. You can find this clarification on page. 14 of the english rules, "description of the symbols"
+
+
+----
+page 14
+
+**Theology**
+All future Wonders constructed by you are all treated as though they have the “Play Again” effect.
+Be careful, Wonders which already have this effect are not 
+affected  (a  given  Wonder  cannot  have  the  “Play  Again”  
+effect twice).
+----
+page 10 
+Note: Some Wonders allow you to play again. You start your new turn after having revealed the newly accessible cards.•  If a player has a replay effect that would allow them to take another turn at the end of an Age (when the structure is empty), the effect is lost.
+
+
 
 [yellow-trade-card-effect-plus-1-gold-per-yellow-bu](https://boardgamegeek.com/thread/1746769/yellow-trade-card-effect-plus-1-gold-per-yellow-bu)
 
@@ -13,36 +28,88 @@ In addition, theology doesn't add an additional "play again" bonus to a wonder t
 Near the bottom of page 15 in the rules:
 This card is worth 1 coin for each yellow card (including itself) in your city at the time it is constructed. You'd get 3 coins in your example
 
+-----
+page 15
+
+This card is worth 1 coin for each yellow card (including itself) in your city at the time it is constructed
+
+---- 
+page 16
+
+**Traders Guild**
+At the time it is constructed, the card grants you 1 coin for each yellow card in the city which has the most yellow cards.At the end of the game, this card is worth 1 victory point for each yellow card in the city which has the most yellow cards.
+
 [do-you-replace-progress-science-tokens-with-new-on](https://boardgamegeek.com/thread/1498672/do-you-replace-progress-science-tokens-with-new-on)
 
->do you replace progress (science) tokens with new ones as they are acquired?
+> Do you replace progress (science) tokens with new ones as they are acquired?
 
 You do not replace the green progress tokens as they are collected.
+This is not the same as collecting six unique sciences. On the green science cards you will find various symbols. There are seven different symbols. If you collect 6 unique science symbols from these green cards you win automatically. There is overlap between the two with the Law progress token. This counts as a science if you collect it.
 
-This is not the same as collecting six unique sciences. On the green science cards you will find various symbols. There are seven different symbols. If you collect 6 unique science symbols from these green cards you win automatically.
 
-There is overlap between the two with the Law progress token. This counts as a science if you collect it
+----
+page 2
+
+**Progress Tokens**
+The progress tokens represent effects which you can obtain by collecting iden-
+tical pairs of scientific symbols.
+
+----
+page 5
+
+**SCIENCE & PROGRESS**
+There are 7 different scientific symbols in the game.Each time you gather a pair of identical scientific symbols, you may immediately 
+choose one of the Progress tokens on the game board. That token will be kept in your city until the end of the game.
+Clarification: the scientific symbols are found on the scientific Buildings (green cards) and on a Progress token
+
+
 
 
 [yellow-buildings-which-give-gold-for-cards-of-spec](https://boardgamegeek.com/thread/2717414/yellow-buildings-which-give-gold-for-cards-of-spec)
 
->If I build a yellow building which gives me gold for each building of a specific color, in this example also yellow, does the new building count as well? 
+> If I build a yellow building which gives me gold for each building of a specific color, in this example also yellow, does the new building count as well? E.g. I already have 3 yellow buildings and the new one would be no. 4, would I get 4 gold?
 
-Yes. See the card guide on page 15.
-Quote: This card is worth 1 coin for each yellow card (including itself) in your city at the time it is constructed.
+That is the lighthouse. Yes you would get 4 gold.
+
+----
+page 15
+
+This card is worth 1 coin for each yellow card (including itself) in your city at the time it is constructed.
+
+----
+page 16
+
+**Traders Guild**
+At the time it is constructed, the card grants you 1 coin for each yellow card in the city which has the most yellow cards.At the end of the game, this card is worth 1 victory point for each yellow card in the city which has the most yellow cards
 
 [yellow-cards-providing-resources](https://boardgamegeek.com/thread/2524677/yellow-cards-providing-resources)
 
-> I understand that a yellow card with wood / brick / stone symbols at the top provide 
-wood OR a brick OR a stone, etc. but can they be used for buying wonders and if so, do you have to discard them (or stash under the wonder) as you'd discard a gray or brown card?
+> I understand that a yellow card with wood / brick / stone symbols at the top provide wood OR a brick OR a stone, etc. but can they be used for buying wonders and if so, do you have to discard them (or stash under the wonder) as you'd discard a gray or brown card?
 
 You are correct that they provide 1 resource of the available choices.
+When you draft a card, you can build it (and gain the benefits), OR discard for coins OR use it to build a wonder. When you use it to build a wonder you don't get to use the resources or any other benefits it would provide, as you haven't built the card.
 
-However, I get the feeling you are misunderstanding how building a wonder works.
 
-You only use one card to build a wonder - the ONE card you just drafted and are placing under. This card has never been built and thus what is on there doesn't matter.
+----
+Page 15
 
-However, you can only do this if your other cards provide enough resources (or if you're willing to pay). These cards are NOT discarded. They are not a single resource, they are a "supply" of resources, so they aren't used up.
+wood / brick / stone
+This card produces, each turn, one unit of one of the 3 raw goods represented.
+Clarification: This production has no impact on trading costs
+
+----
+page 10
+
+**Game Turn**
+In 7 Wonders Duel, the players each play in turn. 
+The first player begins Age I.
+On your turn, you must choose an “accessible” card in the card structure and 
+play it. An accessible card is a card which isn’t partially covered by other cards. Example: the Baths, the Stone Pit, the Lumber Yard, and the Scriptorium are acces-sible. The other cards are not accessible at the moment
+
+You can play the card you’ve chosen in one of three different ways
+- 1. Construct the Building
+- 2. Discard the card to obtain coins
+- 3. Construct a Wonder
 
 [does-stonehenge-replace-pyramids-or-do-they-coexis](https://boardgamegeek.com/thread/1818084/does-stonehenge-replace-pyramids-or-do-they-coexis)
 
@@ -54,11 +121,47 @@ However, you can only do this if your other cards provide enough resources (or i
 
 You move the military marker 3 spaces towards your opponent. If the marker was at the starting point (middle) and the marker had not previously entered this zone, then your opponent loses 2 coins and you may get 5 VP at the end of the game.
 
+
+----
+Page 14
+
+**Military Token**
+Looting 2 or 5 coins
+Your opponent loses 2 or 5 coins depending on the token. They are returned to the bank. Then the token is returned to the box. If your opponent doesn’t have enough coins, they lose all of their coins.
+
+----
+Page 12
+
+**MILITARY**
+Each shield represented on the military Buildings (red cards) or Wonders allows its owner to immediately move the Conflict pawn one space in the direction of the opposing capital. The Conflict pawn is therefore likely to move back and forth on the track. When the Conflict pawn enters a zone (defined by dotted lines), the active player applies the effect of the corresponding token, then returns it to the box
+Example: Antoine constructs the Archery Range, a military Building which has  
+2 Shields. He immediately moves the Conflict pawn two spaces towards the opposing capital. As he enters in a new zone, he applies the Military token, Bruno discards  2 coins, and then the token is returned to the box.
+
+**Military Supremacy**
+If the Conflict pawn reach the space of your opponent’s capital, you immedi-ately win the game.
+
+
 [urbanism](https://boardgamegeek.com/thread/1485147/urbanism)
 
 > If I have the Urbanism token, the rules say: each time you construct a building for free through linking (free construction condition, chain), you gain 4 coins. Do I also get the 4 coins if I build a building that doesn't have a cost, like the Drying Room?
 
 No. Free construction condition and chain are the same thing. Some buildings have a Free Construction Condition on them. If you already have the required symbol on another building, then you construct it for free, thus activating a Chain. You get the 4 coins only when you construct a building for free through linking.
+
+
+----
+Page 15
+
+Ubanism
+Immediately take 6 coins from the Bank.
+Each time you construct a Building for free through linking (free 
+construction condition, chain), you gain 4 coins.
+
+
+----
+Page 9
+
+Free construction condition (chains)Some Buildings grant a chain symbol (white).Some Buildings in Ages II and III contain, under their resource cost, a white symbol linked to a Building from a previous Age. If you have the Building containing this symbol in your city, you can construct the new one for free.
+
 
 [construct-a-wonder](https://boardgamegeek.com/thread/1505890/construct-a-wonder)
 
@@ -88,6 +191,12 @@ Any time you would have to lose more coins than you have, you lose all your coin
 >Do the discarded cards used for Wonders count for victory points?
 
 The card goes facedown and doesn't count for anything; it just shows that the wonder has been completed.
+
+-----
+Page 10
+
+ The discarded cards are placed face-down next to the board. Players are free to consult the discard pile at any point.
+
 
 
 [economy-progress-token](https://boardgamegeek.com/thread/2035041/economy-progress-token)
@@ -232,7 +341,7 @@ You only score the points where the marker ends up. Only one player will score m
 
 > If you are short on resources can you trade to build wonders just as when you build buildings?
 
-yes you can !
+yes you can!
 
 [questions-about-science](https://boardgamegeek.com/thread/2346256/questions-about-science)
 > 1. You can win if you get 6 different science cards immediately. In a game I had, I finally got all 6 science on the very last card of the very last round III.Do I win? 
