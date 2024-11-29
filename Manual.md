@@ -6,7 +6,7 @@ A game plays out over 3 Ages, each Age using one of the 3 decks of cards (first 
 
 These Ages are played out in a similar fashion, with each player having the chance to play approximately 10 cards per Age to earn coins, strengthen their armies, make scientific discoveries, and develop their city.
 
-In 7 Wonders Duel, there are 3 ways to claim victory: military supremacy, scien-tific supremacy, and civilian victory.
+In 7 Wonders Duel, there are 3 ways to claim victory: military supremacy, scientific supremacy, and civilian victory.
 
 Military and scientific victories can happen at any time and end the game immediately. If, by the end of the third Age, no one has yet won the game, the players add up their victory points, and the player with the highest score is declared the winner.
 
@@ -41,7 +41,7 @@ the other.
 
 The board represents the military rivalry between the two cities. It is divided into zones (9) and spaces (19). The last space on each end represents the player's capital. It also holds the Military tokens and the Progress tokens available for the cur- rent game.
 
-> image of a board with Progress Tokens at the top, Military Tokens on the left, spaces on the right, and zones in the middle. The Conflict Pawn starts in the center of the board.
+> image of a board with Progress Tokens at the top, Military Tokens on the bottom left, spaces on the right, and zones in the middle. The Conflict Pawn starts in the center of the board.
 
 ### Coins (Page 4)
 
