@@ -364,14 +364,15 @@ Money must always be public knowledge according to the rulebook. Players should 
 
 > If you are short on resources can you trade to build wonders just as when you build buildings?
 
-yes you can!
+Yes, you can trade for resources to build Wonders, following the same rules as when building buildings. You pay your opponent or the bank the appropriate amount based on their resources and the trade costs outlined in the game rules.
 
 [questions-about-science](https://boardgamegeek.com/thread/2346256/questions-about-science)
-> 1. You can win if you get 6 different science cards immediately. In a game I had, I finally got all 6 science on the very last card of the very last round III.Do I win? 
 
-Yes. You won.
+> Do you win if you get all 6 different science symbols on the very last card of Age III?
 
->The Law science progress token is wild. So if you get the Law science progress token, you can use it as another symbol to count towards the 6 symbol victory condition. However, can you also use it simultaneously to count as a double symbol of your choice to get another progress token?
+Yes, you win. Achieving 6 different science symbols immediately triggers a Science Victory, regardless of when it happens during the game. Even if it occurs on the very last card of Age III, the Science Victory takes precedence over any other endgame conditions.
+
+> The Law science progress token is wild. So if you get the Law science progress token, you can use it as another symbol to count towards the 6 symbol victory condition. However, can you also use it simultaneously to count as a double symbol of your choice to get another progress token?
 
 You can't use it to double symbols (unless you got a second Law token from the Pantheon expansion god that provides one - Ishtar, I think). It's not really a wild, just another, different symbol.
 
@@ -384,87 +385,79 @@ See page 15. The slash symbol ( / ) on the other card iconography means you get 
 
 [2-questions-yellow-cards-and-vp-calculation](https://boardgamegeek.com/thread/2027136/2-questions-yellow-cards-and-vp-calculation)
 
-> There are yellow cards that clearly produce goods,for example the forum which produces either glass or papyrus.But the yellow cards that change the trading rules, such as the customs house for example. It changes the trading rules but does it ALSO produce papyrus and glass?
+> There are yellow cards that clearly produce goods, for example the forum which produces either glass or papyrus.But the yellow cards that change the trading rules, such as the customs house for example. It changes the trading rules but does it ALSO produce papyrus and glass?
 
 No. Those cards only affect the trading rules.
 
-> The rules are quite OK when it comes to calculating VPs but the checkboxes in the red and green rows beneath the sigma got us puzzled. We couldn't find anything to go in those boxes?
+> What are the checkboxes in the red and green rows beneath the sigma used for?
 
-There are two ways you can win the game instantly. If at any point a player triggers a military or technological victory you tick the the red or green boxes, respectively, instead of calculating scores.
+The checkboxes in the red and green rows are used to mark an instant Military Victory (red) or an instant Science Victory (green). If a player triggers either of these victories, you tick the corresponding box instead of proceeding to calculate Victory Points. These checkboxes help indicate that the game ended before scoring.
 
 
 [7-wonders-duel-pay-the-bank-or-pay-the-player](https://boardgamegeek.com/thread/2308081/7-wonders-duel-pay-the-bank-or-pay-the-player)
 
->Buying a resource straight up costs 2 coins which are paid to the bank.
-If I have a card that acts like ..trading post, for example... that allows me to purchase a resource from my neighbor for 1 coin. Is that coin paid to the neighbor or paid to the bank?
+> If a card like the Trading Post allows me to purchase a resource for 1 coin, is that coin paid to the neighbor or the bank?
 
-Also it doesn't allow you to buy it for 1 coin. It only lowers the basevalue of 2 coins per resource to one. But if your opponent has 3 stone cards, one stone costs you 5 coins normally. With that -1 market card, it would now cost you 4 coins per stone.
+The coin is still paid to the bank, not the neighbor. However, the Trading Post does not let you buy resources for a flat 1 coin. Instead, it reduces the base cost of purchasing resources from 2 coins per resource to 1 coin.
+
+If your opponent has resources (e.g., 3 stone cards), the cost to purchase a resource includes an additional cost of 1 coin per resource they have. So, normally, one stone would cost 5 coins (2 base + 3 opponent's resources). With the Trading Post reducing the base cost by 1, the cost would now be 4 coins per stone.
 
 
 [whos-next](https://boardgamegeek.com/thread/2240056/whos-next)
 
->Player 1 gets a symbol "play again" after he completes a step of a wonder. But it was the last card of the era.
-Player 2 should normaly start since he is the weakest player in war. Who should play next at the start of next era?
+> Who should play first at the start of the next age if Player 1 gets a "play again" symbol at the end of the previous age?
 
-The play again power has no effect at the end of an age, so the weaker player will still start. See Page 10, second bullet point, upper right
+The "play again" power has no effect at the end of an age. At the start of the next age, the player with the weaker military strength (as determined by the Conflict token position) begins.
 
 
 [moneylenders-guild](https://boardgamegeek.com/thread/2534228/moneylenders-guild)
 
->The description of this card in the rulebook says: "At the end of the game, this card is worth 1 victory point for each set of 3 coins in the richest city."
-Sets of 3 coins at the end of the game are normally worth 1 VP. So can it be understood that this guild card doubles the VPs from money for the card holder?
-Also, does this description mean that the cardholder only gets the moneylenders guild VP bonus if he has MORE money than his opponent at the end of the game? So if he does NOT have as much money as his opponent, does his card do nothing? In that case would his opponent get the bonus VPs, despite not being the cardholder?. 
-Many have wording where the city which has the most of a given thing gets the reward. The Builders Guild for example says: "...2 VPs for each Wonder constructed in the city which has the most Wonders." So again, if player A has this card, but player B has more constructed Wonders, does player B get the bonus VPs?
+> Does the Moneylenders Guild double your points from money?
 
-Yes. This card doubles your points from money.
-Each guild give the points to CARD'S OWNER even he doesn't have the city that fulfill it's requirement.
-At the end of the game, the person who holds moneylenders guild scores his own coins as normal. Then, you check to see which player has the most coins. The person that holds the moneylenders guild scores 1VP for each 3 coins in this city as well. Essentially they will either score their own coins twice or score the coins in both cities
+Yes, the Moneylenders Guild effectively doubles the points from money for its owner. The cardholder scores their own coins normally (1 VP for every 3 coins) and then scores an additional 1 VP for every 3 coins in the richest city (whether it's theirs or their opponent's).
+
+> Does the Moneylenders Guild only provide its bonus if the cardholder has the richest city? 
+
+No, the Moneylenders Guild always provides its bonus to the cardholder, regardless of whether they have the richest city. At the end of the game, you determine which city (yours or your opponent's) has the most coins, and the cardholder gains the bonus VP from that city.
+
+> For cards like the Builders Guild, does the cardholder get the bonus if their city doesn’t fulfill the condition?
+
+Yes, the cardholder always receives the bonus VPs from the guild card they own, even if their opponent’s city fulfills the condition. For example, if Player A owns the Builders Guild and Player B has more Wonders, Player A still scores the bonus VP based on Player B’s Wonders.
 
 [progress-tokens-points](https://boardgamegeek.com/thread/2530709/progress-tokens-points)
 
-
-
 [guild-of-the-moneylenders](https://boardgamegeek.com/thread/1461482/guild-of-the-moneylenders)
 
-> You get points at the end of the game: 1 point for each 3 Coins and you get points for the Guild of the Moneylenders: 1 point for each 3 coins. 
-When you own the Guild do you get both points - for coins and the guild?
-Or do you only get once the Coin-Bonus?
-Example: I have 12 Coins and the Guild of the Moneylenders:
-Do i get 4 Points (coin end game bonus) or 8 points (coin end game bonus + moneylender bonus) If both bonuses apply isn't that a little bit overpowered?
+> Do you get points for both coins and the Moneylenders Guild at the end of the game?
 
-
-You need 3 coins to make only 1 point. Imagine you have 7 yellow cards, which is a lot (and happens quite never)
-Each time you burn a card in age 3, you get 9 coins, which means 3 points, + 3 extra points due to the guild.
-That means a total of 6 VP each time you burn a card. This is to compare to the blue cards of the same age. And with this strategy, that means that you just burn red cards, and not build them, and this can lead easily to a military loss
+Yes, you get points for both. For example, if you have 12 coins and the Guild of the Moneylenders, you earn 4 points for the coins (1 point per 3 coins) and an additional 4 points from the guild (1 point per 3 coins), for a total of 8 points.
 
 [trading](https://boardgamegeek.com/thread/2524219/trading)
 
->When I'm trading and have to count how many symbols of that ressource my opponent has, do I also have to count the cards where he can choose what he likes to produce? .I mean some cards produce stone AND wood. If I now want to trade for stone, does this card count as 1 stone or not?
+> When trading, do cards that produce multiple resources count for all the resources they produce?
 
-You only consider brown and grey buildings. These do not have options. page 8, the red text under "Trading" section.
+No, only brown and gray cards are considered, as they do not have optional resources. (See page 8 under "Trading," red text.)
 
 [effect-of-lighthouse-is-the-played-card-also-affec](https://boardgamegeek.com/thread/3061681/effect-of-lighthouse-is-the-played-card-also-affec)
 
->When I play lighthouse and already have three yellow cards in my city, do I get 3 coins (cards already played) or 4 coins (cards already played + lighthouse) from the bank?
+> When playing the Lighthouse with three existing yellow cards, do you gain coins for the Lighthouse itself?
 
-4, the card counts itself too. This is explicitly noted in the description of the symbol, on page 15. 
+Yes, you gain 4 coins: 1 coin for each existing yellow card, plus 1 for the Lighthouse itself (page 15).
 
 [wonders-questions](https://boardgamegeek.com/thread/2618532/wonders-questions)
 
-> Say I have all the resources I need to construct a Wonder, but I forgot to do it when I got the last required resource. In my next turn, can I use any card (literally any) available in the structure, placing it under the Wonder card and build it?
+> Can you build a Wonder using any card, even after gathering all necessary resources?
 
-Sure thing. You do not have to build a wonder as you get the exact resources to build it. As a mater of fact, you can build a wonder without having any of the needed resources, as long as you have enough money.
+Yes, you can use any card from the structure to build a Wonder. You are not required to build it immediately upon having the resources.
 
->Sure thing. You do not have to build a wonder as you get the exact resources to build it. As a mater of fact, you can build a wonder without having any of the needed resources, as long as you have enough money (see next question).
+> Can you build a Wonder without resources if you have enough money?
 
-All of them. Not just 1 or 2. No problem. Gold solves every resource problem in this game.
+Yes, money can replace resources for Wonder construction.
 
 
 [guild-card](https://boardgamegeek.com/thread/1815179/guild-card)
 
->I was reading 7 wonders duel rules waiting for it to arrive tomorrow and reading it i had a doubt about one of the cards/rules. In one of the guilds' card (Shipowners Guild), it says:
-"Clarification: the player is forced to choose one, and only one, city for both colors of cards". What i do not understand is "the city" choice, i understood that each player has 1 city, so how could i have a doubt about which city to choose?
-
+> What does the Shipowners Guild's "city choice" mean?
 
 The guild gives points based on the number of cards in a city, but the city doesn't have to be your city, it can be your opponents. But you can't choose one city for one colour of card and the other city for the other.
 
@@ -480,7 +473,7 @@ On page 13 it says 0, 2, 5 or 10 points so you get 1 of them and not all added t
 [statue-of-zeus-plus-mausoleum-combination](https://boardgamegeek.com/thread/2621523/statue-of-zeus-plus-mausoleum-combination)
 > Can my opponent recover a resource card with Mausoleum after its destruction by Statue of Zeus?
 
-Yes, he can.
+Yes, the Mausoleum allows recovery of discarded cards, even if they were destroyed by the Statue of Zeus.
 
 [go-again-on-an-age-change](https://boardgamegeek.com/thread/2791076/go-again-on-an-age-change)
 > What happens if you build a wonder with a go again power using the last card of age one. Do you lose that go again since Age 2 must be setup first? Given the other player has a weaker military and can decide who goes first?
@@ -493,6 +486,7 @@ If a player has a replay effect that would allow them to take another turn at th
 [wonder-card-knossos](https://boardgamegeek.com/thread/2572867/wonder-card-knossos)
 
 [removal-8th-wonder](https://boardgamegeek.com/thread/1812074/removal-8th-wonder)
+
 > When my opponent has build her 4 wonders, and I haven't build one, do I have to remove one of my wonders immediatly or can I decide later in the game?
 
 The rulebook answers this on page 11:
@@ -504,29 +498,29 @@ player constructs the game’s 7th Wonder, the last Wonder, which has not yet be
 So if the other player has built all four of their Wonders, you'll be the one to build the seventh Wonder, and the choice will be yours.
 
 [law-token-variable-or-fixed](https://boardgamegeek.com/thread/1451937/law-token-variable-or-fixed)
-> The rules say the Law token is "worth a scientific symbol". Is this only used for scientific win?
->  i.e: to determine if a player has 6 different symbols? Or can it be used to create a pair of symbols, to give the player another token?
 
-The Law token is only used for the 6 different symbols.
-You cannot have a pair of Law Symbols: there is only one of them among the Progress tokens.
+> Can the Law token be used to create pairs for Progress tokens?
 
-[economy-token](https://boardgamegeek.com/thread/2830497/economy-token)
+The Law token is only used for the 6 different symbols. You cannot have a pair of Law Symbols: there is only one of them among the Progress tokens.
+
+[economy-token](https://boardgamegeek.com/thread/2830497/economy-token) 
+
 > If my opponent have economy token, all my discount commercial cards lose their effects?
 > Eg: I need to pay more than 1 coin for stone regardless I have Stone Reserve.
 
-No. If you have to pay for Ressources other than through Yellow Cards the money goes to the opposite player instead of the Bank. The Yellow Cards keep their effect.
+No. If you have to pay for Ressources other than through Yellow Cards the money goes to the opposite player instead of the Bank. The Yellow Cards keep their effect. 
 
 [discard-my-resource-card](https://boardgamegeek.com/thread/1514986/discard-my-resource-card)
 
 [caravansery](https://boardgamegeek.com/thread/1477637/caravansery)
+
 > Does the Caravansery allow production of 3 resources (wood, brick, and stone) or a choice of 1 of the 3?
 
 A choice of 1 of 3.
-From the Rulebook (page 13):
-
-"This card produces, each turn, one unit of one of the 3 raw goods represented."
+From the Rulebook (page 13): "This card produces, each turn, one unit of one of the 3 raw goods represented."
 
 [question-about-the-card-supply-formation](https://boardgamegeek.com/thread/1496486/question-about-the-card-supply-formation)
+
 > In the rules, it shows the different formations the cards are laid out in for each age. Some go face up, some go face down. I assume in the picture in the rulebook that the cards with shaded colors showing are face down? Also, when do the face down cards get turned face up?
 
 You can choose an accessible card. Accissible means (in 7 Wonders Duel that is ) that the card isn't partialy covered by other cards.
@@ -543,14 +537,15 @@ The white cards are the cards face up and the colored cards are face down.
 As a reminder: 'The last row, with the accessible cards at the start of an age is always face up.' 
 
 [are-resources-consumed-when-used](https://boardgamegeek.com/thread/2609219/are-resources-consumed-when-used)
-> Are the resources indicated on cards 'consumable' when used?
-> For exaample: If i've as card resource a card that produce clay and another that produce wood and suppose that in same turn i want build a wonder that require them plus take a card that also require them can't do both things?
+
+> Are the resources indicated on cards 'consumable' when used? For example: If I have a card resource that produce clay and another that produce wood and suppose that in same turn i want build a wonder that require them plus take a card that also require them can't do both things?
 
 The resources are not consumable in the sense that they get used up and cannot be used for next turn (your next card draft).
 
 The resources shown on a card can only be used once per turn, so if a card has wood and another card has clay, you do not have sufficient resources to play/build a card that requires you to have 2 wood and a clay (you’d have to trade/borrow). You can play/build a card that requires 1 wood and 1 clay, then on a next turn use that 1 wood and/or 1 clay again as needed.
 
 [7-wonders-duel-doubts](https://boardgamegeek.com/thread/2322700/7-wonders-duel-doubts)
+
 > In the middle of a game, when it becomes my turn, I choose an available card. Let's suppose that the cost of its construction is a papyrus and 2 stones. If I have two brown cards that produce stones and a yellow card that produces payrus/glass, I can always built the structure? My resources don't accumulate, right? I mean, if I didn't spend all the stones that I can produce by turn, when my next turn arrives I can't count with the previous stones, right?
 
 Your resources aren't "used up".
@@ -568,18 +563,19 @@ You always take a card from the structure and do one of 3 of the following with 
 [does-destroying-opponents-military-building-affect](https://boardgamegeek.com/thread/1575993/does-destroying-opponents-military-building-affect)
 
 [stone-reserve-question](https://boardgamegeek.com/thread/1518721/stone-reserve-question)
+
 > Can you purchase multiples of the resource for 1 coin apiece? or only just one per turn?
 
 You can purchase as many resources as you like in a turn, and a reserve card makes you pay 1 for each of its type of resource. (See Trading on page 8.)
 
 [ways-to-get-the-law-progress-token](https://boardgamegeek.com/thread/2257221/ways-to-get-the-law-progress-token)
-> Is the following statement correct, or am I really missing something:
-> The only way to get the Law Token is to fish it out of the unused token pile with a wonder like the Great Library. Therefore, if you deal out Law to the “in play” token slots on the board at the start of the game, it will never be obtained by either player in that game.
 
+> Is the Law token only obtained through the Great Library?
 
-No. If a player gets two of the same science symbol, and Law is one of the options, they may claim it, adding another science symbol to their total. It counts as a unique science symbol toward a science victory.
+No, a player may also claim the Law token by forming a pair of identical scientific symbols, provided it is available.
 
 [no-money-or-resources-then-what](https://boardgamegeek.com/thread/1500036/no-money-or-resources-then-what)
+
 > If on my turn, I don't have enough money for trade or resources to purchase a card then what can I do? Do I pass on my turn? The way I read the rules is that you must purchase an active card before you either build a wonder, add to city, or discard for money. If I have to purchase in order to discard and get money... what happens if i have no money or resources to purchase in the first place?
 
 You don't purchase the Card.
@@ -590,40 +586,48 @@ You have 3 options with each card:
 3) Discard the card, receiving 2 (+1 per yellow card you already own) gold
 
 [urbanism-chainning-mandatory](https://boardgamegeek.com/thread/1569278/urbanism-chainning-mandatory)
-> The urbanism science token says: "each time you construct a building for free through linking (free construction condition, chain), you gain 4 coins"
-> This brought some questions, if someone has all the material and the free icon condition, can they pick the method of building?
-> If they are missing the material but they have the icon for chaining, can they buy the missing material to avoid giving the other player 4 gold?
-> Or if you have the free icon condition, it automatically apply?
+
+> The urbanism science token says: "each time you construct a building for free through linking (free construction condition, chain), you gain 4 coins". This brought some questions, if someone has all the material and the free icon condition, can they pick the method of building?
 
 Yes, you can pick the method of building.
+
+> If they are missing the material but they have the icon for chaining, can they buy the missing material to avoid giving the other player 4 gold? 
+
 To your second question, I think you're misunderstanding the science token. It's only when the player who has the token builds anything through chaining that they gain 4 gold. If the other player builds something for free, then that doesn't affect them.
-Also, yes. You would technically be able to buy resources to build something instead of building it for free.
+
+> Or if you have the free icon condition, it automatically apply?
+
+Also, yes. You would technically be able to buy resources to build something instead of building it for free. 
 
 [progress-tokens-limit](https://boardgamegeek.com/thread/2970355/progress-tokens-limit)
+
 > Is there a limit to how many progress tokens a player may gain? Obviously not more than 6, because then he would win the game due to having 6 different scientific symbols.
 
 There is no limit to the amount of progress tokens you are allowed to have. Theoretically the maximum you can gain in the base game is 6.
 
 [shipowners-guild](https://boardgamegeek.com/thread/2699836/shipowners-guild)
 
-[wonder-construction-cost](https://boardgamegeek.com/thread/1650116/wonder-construction-cost)
-> The rules syas, cards used to pay the construction costs are out of play and placed under the wonder.
-> How does this work for cards with multiple resources, such as a resource card with wood/stone/brick?
+[wonder-construction-cost](https://boardgamegeek.com/thread/1650116/wonder-construction-cost) 
+
+> The rules syas, cards used to pay the construction costs are out of play and placed under the wonder. How does this work for cards with multiple resources, such as a resource card with wood/stone/brick? 
+
+You are misreading this. You pay the construction costs via resources, commodities, and money from your supply, then you place the card you drew from the pyramid under the wonder. You do not put the resource and commodity cards under the wonder. The resources and commodities can be used over and over again throughout the ages of the game. 
+
 > Does it take out just the resource paid or does it take the entire card out of play?
 
-You are misreading this. You pay the construction costs via resources, commodities, and money from your supply, then you place the card you drew from the pyramid under the wonder. You do not put the resource and commodity cards under the wonder. The resources and commodities can be used over and over again throughout the ages of the game. They never run out (although they are limited to a one use per purchase basis).
+They never run out (although they are limited to a one use per purchase basis).
 
 [points-in-case-o-military-or-scientific-victory](https://boardgamegeek.com/thread/2313583/points-in-case-o-military-or-scientific-victory)
 
 [progress-tokens-very-strong](https://boardgamegeek.com/thread/1488628/progress-tokens-very-strong)
 
-
 [economy-token-question](https://boardgamegeek.com/thread/1467502/economy-token-question)
 
-[do-yellow-cards-wresource-modifier-produce-that-re](https://boardgamegeek.com/thread/2722179/do-yellow-cards-wresource-modifier-produce-that-re)
->  Does the yellow stone cost modifier card produce a stone resource for me, or does it simply modify the trade cost only?
+[do-yellow-cards-wresource-modifier-produce-that-re](https://boardgamegeek.com/thread/2722179/do-yellow-cards-wresource-modifier-produce-that-re) 
 
-It only modifies the stone price when trading.
+> Does the yellow stone cost modifier card produce a stone resource for me, or does it simply modify the trade cost only? 
+
+It only modifies the stone price when trading. 
 
 [coins-for-card-type-timing](https://boardgamegeek.com/thread/2868010/coins-for-card-type-timing)
 
@@ -633,10 +637,10 @@ You get 4.
 Page 15 of the rulebook: "This card is worth 1 coin for each yellow card (including itself) in your city at the time it is constructed."
 
 [guild-scoring-question](https://boardgamegeek.com/thread/1472344/guild-scoring-question)
-> I've read the section about this scoring several times, and I keep confusing myself. So, do the points and money ALWAYS go to the owner of the guild card, regardless which player has the city with the most of X (e.g., red cards)? It could be read that the money and points go to the player whose city has the most of X cards (whatever the guild is for). It reminds me of some cards in Nations. I'm guessing it's the former. But it seems like it would be a really interesting variant to do the latter--much more tension ("I'm going to lose this guild. Do I spend a turn trashing it or build a building that really benefits me?")
 
-The points and money always go to the player who builds the card.
-.The points and money are based on whichever city has the most of that type of card.
+> Who receives the points and coins from guild cards? 
+
+The player who owns the guild card receives the points and coins, regardless of which city fulfills the guild’s condition. For example, if the card gives points based on red cards, the card owner scores based on the city with the most red cards, which could be their opponent's city.
 
 [what-if-there-are-no-cards-left-and-you-want-to-bu](https://boardgamegeek.com/thread/1787599/what-if-there-are-no-cards-left-and-you-want-to-bu)
 
@@ -650,7 +654,7 @@ Each turn you draft/choose a card from the display. With this card you can build
 
 Yes, if you need to trade for resources to build a wonder, you pay the premium based on your opponents resources, same as for constructing a building.
 
-2. A card cost 1 brick. I have 2 and my opponent has 1 in front of them. What is the cost to me.
+2. A card cost 1 brick. I have 2 and my opponent has 1 in front of them. What is the cost to me?
 
 Zero. If you have two brick and the card only costs one, you already have sufficient resources. You only need to pay if you lack the appropriate resources and need to pay for them.
    
@@ -700,22 +704,14 @@ looking at them. Return the remaining Guilds to the box."
 
 [when-scanning-left-or-right-for-cards-for-the-ai-d](https://boardgamegeek.com/thread/2681678/when-scanning-left-or-right-for-cards-for-the-ai-d)
 
-> hen scanning left or right for cards for the AI, does it go by row starting from the bottom?.
-Like if it's going left to right and there's an exposed red card in the second row, that comes before an exposed red card in the first row, which one is chosen?
-
-If you're talking about the official solo mode, then every revealed card is eligible to be taken. Only the left-right order matters, not the row on which you find the card.
-
 [resources-and-cost](https://boardgamegeek.com/thread/2549323/resources-and-cost)
 
-> I have been playing this game for a while but it appears that I had a wrong understanding of the rules in terms of cost of resources.
-I make a quick example:
-if you I have one wood producing card and the card I want to build has a requirement of two wood, I only have one so I have to pay for the other one. This clear.
-Now if my opponent has a wood as well what cost will I have for the remaining wood? 3 based on the fact that he has one wood or 2 because in the end I have a wood as well, meaning the difference with the resources is 0
+> If I have one wood-producing card and need two wood to build a card, how much do I pay if my opponent has one wood-producing card?
 
-If you need to buy the resource, it's cost it equal to: 2 + amount of the resource produced by opponent's gray/brown cards.
-You production provides you with given number of that resource for free, but does not influence the cost of buying more.
+If you need to buy the second wood, the cost is 2 coins + the amount of that resource produced by your opponent's brown/gray cards. So, in this case, if your opponent produces 1 wood, the total cost for the second wood is 3 coins (2 base cost + 1 for the opponent’s wood).
 
 [guild-cards-tie](https://boardgamegeek.com/thread/1877960/guild-cards-tie) 
+
 > Tactician's guild card says - 'At the time it is constructed, this card grants you 1 coin per red card in the city with most red cards.'. Me and my opponent both had two red cards when I built the guild. Do we then both get two coins, do I get it for building or do we both get nothing?
 
 The rule clearly says "this card grants you". You are you.
