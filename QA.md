@@ -15,6 +15,7 @@ All future Wonders constructed by you are all treated as though they have the �
 Be careful, Wonders which already have this effect are not 
 affected  (a  given  Wonder  cannot  have  the  “Play  Again”  
 effect twice).
+
 ----
 page 10 
 Note: Some Wonders allow you to play again. You start your new turn after having revealed the newly accessible cards.•  If a player has a replay effect that would allow them to take another turn at the end of an Age (when the structure is empty), the effect is lost.
@@ -39,6 +40,7 @@ page 16
 **Traders Guild**
 At the time it is constructed, the card grants you 1 coin for each yellow card in the city which has the most yellow cards.At the end of the game, this card is worth 1 victory point for each yellow card in the city which has the most yellow cards.
 
+
 [do-you-replace-progress-science-tokens-with-new-on](https://boardgamegeek.com/thread/1498672/do-you-replace-progress-science-tokens-with-new-on)
 
 > Do you replace progress (science) tokens with new ones as they are acquired?
@@ -51,8 +53,7 @@ This is not the same as collecting six unique sciences. On the green science car
 page 2
 
 **Progress Tokens**
-The progress tokens represent effects which you can obtain by collecting iden-
-tical pairs of scientific symbols.
+The progress tokens represent effects which you can obtain by collecting identical pairs of scientific symbols.
 
 ----
 page 5
@@ -60,8 +61,7 @@ page 5
 **SCIENCE & PROGRESS**
 There are 7 different scientific symbols in the game.Each time you gather a pair of identical scientific symbols, you may immediately 
 choose one of the Progress tokens on the game board. That token will be kept in your city until the end of the game.
-Clarification: the scientific symbols are found on the scientific Buildings (green cards) and on a Progress token
-
+Clarification: the scientific symbols are found on the scientific Buildings (green cards) and on a Progress token.
 
 
 
@@ -80,7 +80,7 @@ This card is worth 1 coin for each yellow card (including itself) in your city a
 page 16
 
 **Traders Guild**
-At the time it is constructed, the card grants you 1 coin for each yellow card in the city which has the most yellow cards.At the end of the game, this card is worth 1 victory point for each yellow card in the city which has the most yellow cards
+At the time it is constructed, the card grants you 1 coin for each yellow card in the city which has the most yellow cards. At the end of the game, this card is worth 1 victory point for each yellow card in the city which has the most yellow cards
 
 [yellow-cards-providing-resources](https://boardgamegeek.com/thread/2524677/yellow-cards-providing-resources)
 
@@ -136,7 +136,7 @@ Example: Antoine constructs the Archery Range, a military Building which has
 2 Shields. He immediately moves the Conflict pawn two spaces towards the opposing capital. As he enters in a new zone, he applies the Military token, Bruno discards  2 coins, and then the token is returned to the box.
 
 **Military Supremacy**
-If the Conflict pawn reach the space of your opponent’s capital, you immedi-ately win the game.
+If the Conflict pawn reach the space of your opponent’s capital, you immediately win the game.
 
 
 [urbanism](https://boardgamegeek.com/thread/1485147/urbanism)
@@ -163,7 +163,7 @@ Free construction condition (chains)Some Buildings grant a chain symbol (white).
 
 [coins](https://boardgamegeek.com/thread/1544878/coins)
 
->what happens when you need to pay 5 coins, but you have only 3?
+> What happens when you need to pay 5 coins, but you have only 3?
 
 Any time you would have to lose more coins than you have, you lose all your coins. You cannot, however, buy a card that you do not have enough coins to pay for.
 
@@ -177,26 +177,20 @@ to the box. If your opponent doesn’t have enough coins, they lose all of their
 
 [do-the-discarded-cards-used-for-wonders-count-for](https://boardgamegeek.com/thread/2271105/do-the-discarded-cards-used-for-wonders-count-for)
 
->Do the discarded cards used for Wonders count for victory points?
+> Do the discarded cards used for Wonders count for victory points?
 
 The card goes facedown and doesn't count for anything; it just shows that the wonder has been completed.
 
------
+----
 Page 10
 
- The discarded cards are placed face-down next to the board. Players are free to consult the discard pile at any point.
+The discarded cards are placed face-down next to the board. Players are free to consult the discard pile at any point.
 
 
 
 [economy-progress-token](https://boardgamegeek.com/thread/2035041/economy-progress-token)
 
->Straight from the rulebook: "You gain the money spent by your opponent when they trade
-for resources. Be careful, this is only for the money spent obtaining resources,
-not for the coins which are part of Building costs. Clarification: the trade discounts of your opponent (Stone Reserve,
-Wood Reserve, Clay Reserve, and Customs House cards) change the purchase price, but the Economy Progress token allows you
-to gain the actual money spent by your opponent" What happens in the following example? Player A has the economy token and
- is producing two bricks in his city. Player B produces no bricks but has the clay reserve that lets him buy clay for 
- 1 gold each ignoring what his opponent is producing. Would B have to pay A 4 gold for every brick he purchases?
+> Straight from the rulebook: "You gain the money spent by your opponent when they trade for resources. Be careful, this is only for the money spent obtaining resources, not for the coins which are part of Building costs. Clarification: the trade discounts of your opponent (Stone Reserve, Wood Reserve, Clay Reserve, and Customs House cards) change the purchase price, but the Economy Progress token allows youto gain the actual money spent by your opponent" What happens in the following example? Player A has the economy token and is producing two bricks in his city. Player B produces no bricks but has the clay reserve that lets him buy clay for 1 gold each ignoring what his opponent is producing. Would B have to pay A 4 gold for every brick he purchases?
 
 If you have to buy a ressource (be it clay, or bricks or glass or whatever), the money you are spending WILL GO to you opponent (be it 1 gold if you have the reserve or 4 gold if your opponent produce 2).
 The ONLY time you'll give gold back to the bank will be if the card you're getting is specifically asking for gold (like when you have to pay 1 gold to get a reserve).
@@ -222,14 +216,13 @@ Page 9
 Some cards have a cost in coins, which must then be paid to the bank when they are constructed
 
 **Cost in coins and in resources**
-Some cards have a cost in coins and in resources. To build these cards, you must pay
-the  coin  cost  to  the  bank  and  must  either  produce  the  resources,  or  get  them through trading.
+Some cards have a cost in coins and in resources. To build these cards, you must pay the coin cost to the bank and must either produce the resources, or get them through trading.
 
 
 
 [adding-guild-cards](https://boardgamegeek.com/thread/1587048/adding-guild-cards)
 
-> When adding Guild cards to Age III deck, they stay 'on top' or they are 'shuffled in' ?
+> When adding Guild cards to Age III deck, they stay 'on top' or they are 'shuffled in'?
 
 You shuffle them in. They have different backs, so you know which face down cards are Guild cards, but you don't know which guild.
 
@@ -243,7 +236,7 @@ Return to the box, without looking at them, 3 cards from each Age deck.Then rand
 
 [construct-a-wonder](https://boardgamegeek.com/thread/1505890/construct-a-wonder)
 
->Can I construct only anyone of my own left wonders or all left wonders even from the opponent?
+> Can I construct only anyone of my own left wonders or all left wonders even from the opponent?
 
 Only yours.
 
@@ -256,8 +249,6 @@ No, you are not allowed to pay for something which is free !
 [descartar-para-conseguir-monedas-construir-una-mar](https://boardgamegeek.com/thread/1517780/descartar-para-conseguir-monedas-construir-una-mar)
 
 [stacking-more-than-one-extra-turn-from-wonders](https://boardgamegeek.com/thread/2540732/stacking-more-than-one-extra-turn-from-wonders)
-
-
 
 [7-wonders-duel-rules-clarification-please](https://boardgamegeek.com/thread/1636209/7-wonders-duel-rules-clarification-please)
 
@@ -273,26 +264,25 @@ brown/grey cards
 > Can you only pay for resources you don't have to construct cards into your city or can you do the same for wonders? My fiancée ended up with no stone making facilities and therefore we thought couldn't build 2/4 wonders.
 Is that right or could she have paid 2 + amount of stone I had to cover why she needed in that respect?
 
-you can buy resources for whatever use: buildings or wonders.
+You can buy resources for whatever use: buildings or wonders.
 
 [do-you-play-with-all-wonder-cards](https://boardgamegeek.com/thread/2558350/do-you-play-with-all-wonder-cards)
 
->As there are cards like Stonehenge (goodies) and Pyramids which are the same (9PV) do you play with both cards in deck or do you remove one of those cards?
+> As there are cards like Stonehenge (goodies) and Pyramids which are the same (9PV) do you play with both cards in deck or do you remove one of those cards?
 
 It is intended to replace them but it still works with both.
 
 
 [apply-military-token-looting-first-time-or-every-t](https://boardgamegeek.com/thread/2978343/apply-military-token-looting-first-time-or-every-t)
 
->When you breach the dotted line/zone with the Conflict token, do you apply the Looting 2/5 coins the first time you cross this line or every time, because your opponent can push it back across the line?
+> When you breach the dotted line/zone with the Conflict token, do you apply the Looting 2/5 coins the first time you cross this line or every time, because your opponent can push it back across the line?
 
-Only the first time
-
+You apply the Looting effect only the first time the Conflict token crosses the dotted line.
 
 
 [new-player-question-about-purchasing-resources](https://boardgamegeek.com/thread/2636396/new-player-question-about-purchasing-resources)
 
->Let's say I am trying to build something. I can produce 1 stone and need 2. My opponent has 2 cards which produce 1 stone each. I do not have a yellow card with a stone discount. Is my total cost to purchase the extra stone 2 to the bank + 2 for the two stone resources my opponent has or 2 for the bank + the difference in stone producing resources of 1 gold (I have 1 resource, they can produce 2)?, Same example but now I have a yellow card which reduces the cost to purchase stone to 1 gold. Do I only pay 1 gold to the bank for each I cannot produce and ignore any stone producing resources my opponent has?
+> Let's say I am trying to build something. I can produce 1 stone and need 2. My opponent has 2 cards which produce 1 stone each. I do not have a yellow card with a stone discount. Is my total cost to purchase the extra stone 2 to the bank + 2 for the two stone resources my opponent has or 2 for the bank + the difference in stone producing resources of 1 gold (I have 1 resource, they can produce 2)?, Same example but now I have a yellow card which reduces the cost to purchase stone to 1 gold. Do I only pay 1 gold to the bank for each I cannot produce and ignore any stone producing resources my opponent has?
 
 Only grey or brown production cards count for raising the price for the other player.If you need 1 Stone and the other player produce 2 stone on brown cards, you would have to pay 4 Gold (2+2). If you need two stone, you would need to pay 8 Gold.
 If you have the yellow building you have a fixed price for 1 Gold for each stone, no matter how much stone the other player produce.
@@ -304,20 +294,15 @@ If you have the yellow building you have a fixed price for 1 Gold for each stone
 It doesn't count as another symbol, it is its own symbol. So you will never pair it with anything to earn another progress token, but it can be one of your six different symbols for a science victory.
  
 
-
 [restriction-on-isiss-power](https://boardgamegeek.com/thread/2829192/restriction-on-isiss-power)
-
-
-
 
 [can-i-build-a-wonder-using-a-guild-card](https://boardgamegeek.com/thread/3104046/can-i-build-a-wonder-using-a-guild-card)
 
->can i build a wonder using a guild card?
+> can i build a wonder using a guild card?
 
 Yes, a guild card works just like any other card; you can build it, discard it for coins, or use it to build a wonder. (the three options listed on page 10 of the rulebook)
 
 [play-again-after-last-card](https://boardgamegeek.com/thread/2614766/play-again-after-last-card)
-
 
 [economy-token](https://boardgamegeek.com/thread/1635284/economy-token)
 
@@ -328,28 +313,25 @@ Whenever the opponent buys resources and pays any money for them, that money goe
 
 [extra-turn-at-end-of-age](https://boardgamegeek.com/thread/1492980/extra-turn-at-end-of-age)
 
->Let's say Player 1 is losing in Military. Player 2 draws the last card of Age 1, and uses it to build a wonder that gives him an extra turn. 
+> Let's say Player 1 is losing in Military. Player 2 draws the last card of Age 1, and uses it to build a wonder that gives him an extra turn. 
 What happens at the start of Age 2? Does Player 2 get his extra turn or is it lost to the rule that says Player 1 gets to decide who goes first?
 One might guess that Player 2 loses his extra turn benefit, but I'm wondering if there is an official ruling on this.
 
 Rulebook page 10 above "1. construct a building
 
 
-
 [yellow-resource-cards-with-two-or-more-resources](https://boardgamegeek.com/thread/2299549/yellow-resource-cards-with-two-or-more-resources)
 
->Ended up having a heated discussion about the rules of the yellow cards with 2 and/or 3 resources (for example the Forum). We understand that the card rewards the owner with 1 resource each continuous round.
+> Ended up having a heated discussion about the rules of the yellow cards with 2 and/or 3 resources (for example the Forum). We understand that the card rewards the owner with 1 resource each continuous round.
 If the card produces stone or wood, I can choose wood for example. The disagreement is about wether or not one is allowed to change the chosen resource the next round. If I chose wood previously, am I allowed in the next round to change to stone and vice versa?
 
 You don't lock yourself into one of the resources. If one thing requires wood you can use it to build that one and then the next time you need the card you can pick a different resource listed on it instead. The restriction is that you can only use one of them each time.
 
 [resources-discount](https://boardgamegeek.com/thread/1440806/resources-discount)
 
-
-
 [played-it-the-first-time-last-evening-few-question](https://boardgamegeek.com/thread/2042297/played-it-the-first-time-last-evening-few-question)
 
->I think I played it wrong... I thought you can't discard a card you haven't bought. So, instead, I discarded cards I already owned for getting the money. Is it true that you don't need to pay for the card you dicsard for getting 2 money?
+> I think I played it wrong... I thought you can't discard a card you haven't bought. So, instead, I discarded cards I already owned for getting the money. Is it true that you don't need to pay for the card you dicsard for getting 2 money?
 Effect would be: "I can't afford the card.. so you, dear opponent, won't get it either.. even if you can afford."
 
 Think of it this way. Each turn, one card comes out of the display. The active player selects an available card, removes it, and does one of the following:
@@ -367,10 +349,12 @@ You only score the points where the marker ends up. Only one player will score m
 
 [is-robbing-the-bank-covered-by-any-rule-update-tha](https://boardgamegeek.com/thread/2658322/is-robbing-the-bank-covered-by-any-rule-update-tha)
 
-
 [money-public-knowledge](https://boardgamegeek.com/thread/2543905/money-public-knowledge)
 
-> 
+> Must money be public knowledge, or can it be secret?
+
+Money must always be public knowledge according to the rulebook. Players should clearly display their coins so everyone can track the game state accurately.
+
 
 [keep-buildings-from-age-to-age](https://boardgamegeek.com/thread/1479780/keep-buildings-from-age-to-age)
 
