@@ -169,7 +169,7 @@ Often, you will want to construct a Building or a Wonder, while you're missing o
 
 COST = 2 + number of symbols of the same resources produced by the brown and grey cards of the opposing city
 
-#### Clarifications (Page  and page 9 )
+#### Clarifications (Page 8 and page 9 )
 - Note that the purchasing cost is calculated according to the resources present in your opponent's city, but the purchases are paid to the bank. 
 - There is no limit to the number of resources you may purchase on your turn.
 - The resources produced by yellow cards and by Wonders aren't factored into trading costs.
@@ -204,7 +204,6 @@ Example: Bruno wants to construct the Caravansery, which costs 2 coins, 1 Glass 
 
 
 > Image shows an example where Bruno wants to construct the Caravansary card, which requires 2 coins, 1 glass, and 1 papyrus.
-
 
 
 ### Free construction condition (chains) (Page 9)
@@ -384,7 +383,7 @@ Once this token enters play, your new military Buildings (red cards) will benefi
 
 Example: a military Building with 2 shields will therefore allow the player to move the Conflict pawn 3 spaces towards the enemy capital.
 
- larification: 
+ Clarification: 
  - This Progress does not apply to Wonders which have the Shield symbol. 
  - This Progress has no effect on military cards built before it came into play.
 
@@ -468,7 +467,7 @@ This card grants the linking symbol shown. During a later Age you will be able t
 > Blue Theater Mask: A traditional drama mask, symbolizing performance arts or theater.
 > Blue Parthenon : an ancient Greek-style temple or building with columns
 > Blue Sun a bright sun with rays
-> Blue Water Drop asimple drop of water
+> Blue Water Drop a simple drop of water
 > Blue Greek a detailed column from ancient architecture, possibly
 > Blue Crescent Moon crescent moon
 > Red Archery Target a circular target with a bullseye
@@ -527,11 +526,11 @@ for all cards, the coins are taken from the bank, once and only once, at the mom
 
 At the end of the game, this card is worth 2 victory points for each Wonder constructed in the city which has the most wonders.
 
-#### Moneylenders (Page 16)
+#### Moneylenders Guild (Page 16)
 
 > icon of a Gold coin with number 3, laurel wreath, and smaller coin labeled 1
 
-Guild At the end of the game, this card is worth 1 victory point for each set of 3 coins in the richest city.
+At the end of the game, this card is worth 1 victory point for each set of 3 coins in the richest city.
 
 #### Scientists Guild (Page 16)
 
@@ -570,7 +569,7 @@ At the time it is constructed, this card grants you 1 coin for each red card in 
 #### Clarifications:  (Page 16)
 
 - For all guild cards which grant coins, the coins are taken from the bank, once and only once, at the moment in which the card is constructed. 
-- At the end of the game, the city chosen for the victory point gain can be dif- ferent from the one previously chosen for the coin gain.
+- At the end of the game, the city chosen for the victory point gain can be different from the one previously chosen for the coin gain.
 
 ### Wonders (Page 17)
 
@@ -640,7 +639,7 @@ Immediately play a second turn. This Wonder is worth 6 victory points.
 
 > image of a Gray card that displays crossed swords and other icons, concluding with a green laurel wreath labeled "3"
 
-Put in the discard pile one brown card (Raw goods) of your choice con- structed by their opponent. This Wonder is worth 1 Shield. This Wonder is worth 3 victory points.
+Put in the discard pile one brown card (Raw goods) of your choice constructed by their opponent. This Wonder is worth 1 Shield. This Wonder is worth 3 victory points.
 
 #### The Temple of Artemis (Page 17)
 
@@ -741,19 +740,19 @@ Immediately play a second turn.
 
 - Tacticians Guild (image of a Purple card with icons showing a clay block, a log, and three crossed swords; grants 1 point for military achievements (red).)
 
-## Organization Of The Card Board Depending On The Age (Page 19)
+## Organization Of The Card Board Depending On The Age (Page 20)
  
 At the beginning of each Age, shuffle the corresponding deck, then lay out the 20 cards according to the structure of the current Age. Be careful, some cards are laid out face up, and others face down. To make things easier, start at the indicated point.
 
-### Age I:  (Page 19)
+### Age I:  (Page 20)
 
 > image of cards arranged in a pyramid shape with 6 rows. The bottom row has 5 face-up cards, while the remaining 5 rows above consist entirely of face-down cards, starting with a single card at the top and increasing by one card per row.
 
-### Age II:  (Page 19)
+### Age II:  (Page 20)
 
 > image of cards arranged in an inverted triangle with 5 rows. The top 3 rows consist of face-down cards, while the bottom 2 rows feature face-up cards. The arrangement begins with 3 cards at the top and increases until reaching 5 cards in the middle, then decreases back to 4 cards in the bottom row
 
-### Age III:  (Page 19)
+### Age III:  (Page 20)
 
 > image of cards arranged in a diamond shape with 6 rows. The top 4 rows are face-down, starting with 1 card and increasing to 4. The bottom 2 rows are face-up, with 5 cards in each row forming the widest part of the diamond.
 
