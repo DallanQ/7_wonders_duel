@@ -746,15 +746,16 @@ At the beginning of each Age, shuffle the corresponding deck, then lay out the 2
 
 ### Age I:  (Page 20)
 
-> image of cards arranged in a pyramid shape with 6 rows. The bottom row has 5 face-up cards, while the remaining 5 rows above consist entirely of face-down cards, starting with a single card at the top and increasing by one card per row.
+> Image of a pyramid with 5 rows. The top row contains two face-up cards, the second row contains three face-down cards, the third row contains four face-up cards, the fourth row contains five face-down cards, and the fifth row contains six face-up cards.
 
 ### Age II:  (Page 20)
 
-> image of cards arranged in an inverted triangle with 5 rows. The top 3 rows consist of face-down cards, while the bottom 2 rows feature face-up cards. The arrangement begins with 3 cards at the top and increases until reaching 5 cards in the middle, then decreases back to 4 cards in the bottom row
+> Image of an inverted pyramid with 5 rows. The top row contains six face-up cards, the second row contains five face-down cards, the third row contains four face-up cards, the fourth row contains three face-down cards, and the fifth row contains two face-up cards
+
 
 ### Age III:  (Page 20)
 
-> image of cards arranged in a diamond shape with 6 rows. The top 4 rows are face-down, starting with 1 card and increasing to 4. The bottom 2 rows are face-up, with 5 cards in each row forming the widest part of the diamond.
+> Image of an oval with 7 rows. The top row contains two face-up cards, the second row contains three face-down cards, the third row contains four face-up cards, the fourth row contains two spaced face-down cards, the fifth row contains four face-up cards, the sixth row contains three face-down cards, and the seventh row contains two face up cards.
 
 > image of Cards when face Up: The cards have visible white faces, with different (Brown, Blue, Purple ) border colors representing the different ages:
 
