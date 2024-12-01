@@ -721,11 +721,11 @@ The amount of your reward depends on the city with the most red cards, which mig
 
 > Completing a wonder to get another turn, if there are no more cards that era, do you go first in the next era even if you don't have the lower military and thus can't dictate?. Assuming lower military chooses to starts before new cards are revealed
 
-if you complete a wonder to get another turn at the end of a round when there is no more cards left then you lose your bonus. It doesn't change anything for the start of the next round.
+If you complete a wonder to get another turn at the end of a round when there is no more cards left then you lose your bonus. It doesn't change anything for the start of the next round.
 
 [can-i-choose-to-not-take-a-card-and-pass](https://boardgamegeek.com/thread/2547309/can-i-choose-to-not-take-a-card-and-pass)
 
-> can choiche to NOT take a card passing choiche to other player?
+> Can I choose to not take a card and pass it to the other player?
 
 Rules page 10, "Game Turn". Quote:
 In 7 Wonders Duel, the players each play in turn.
@@ -733,15 +733,12 @@ On your turn, you must choose an “accessible” card in the card structure and
 
 [who-is-the-starting-player](https://boardgamegeek.com/thread/3042285/who-is-the-starting-player)
 
-> f in the first era, no one advances the war track,
-Who is the starting player? I saw on the BGA that if there is a tie, the original starting player decides the order.
+> If no one advances the war track in the first era, who is the starting player for the next era?
 
-In a situation where the pawn is in the middle of the board, the player who begins the next Age is the last active player (meaning whoever played the last card of the previous Age)
+If the Conflict pawn is in the middle of the board, the player who starts the next era is the last active player, meaning the player who played the last card of the previous era.
 
 
 [6th-pair-of-science-gets-nothing](https://boardgamegeek.com/thread/2053393/6th-pair-of-science-gets-nothing)
-
- 
 
 [wonder-cost](https://boardgamegeek.com/thread/1499468/wonder-cost)
 > If the card I pick up provides a resource, can I use that resource in building the wonder before placing the card under the wonder, or do I have to have (or buy) all the necessary resources and then draw and sacrifice a card by placing it under the wonder ?
@@ -764,7 +761,7 @@ second question: and if you use resources from the wonders can you use 2 wonders
 
 Correct.
 
-> IS it right that When built, you get the benefit of the wonder on the right hand side of the card?
+> Is it right that when built, you get the benefit of the wonder on the right hand side of the card?
 
 Correct.
 
@@ -778,7 +775,6 @@ Yes, except for the Lighthouse and Piraeus, whose resource ability you gain each
 
 [nonsensical-discard-rule](https://boardgamegeek.com/thread/1506933/nonsensical-discard-rule)
 
-
 [solo-automa-question](https://boardgamegeek.com/thread/2538516/solo-automa-question)
 
 > One question on solo automa: when he take green token it apply effect on it?
@@ -788,8 +784,10 @@ Yes, you apply the effect of any green progress token the automa gets.
 
 [plus-1-gold-for-every-yellow-cards-already-built-m](https://boardgamegeek.com/thread/1487278/plus-1-gold-for-every-yellow-cards-already-built-m)
 
- > our last game I had the guild that gives PV depending on the money in the richest city.
- During last move, my opponent discarded one card (no orther chioices) but with 4 yellow cards he could obtain 2 gold plus other 4 coins.Is allowed to obtain, in this case, only 2 coins, without using yellow cards? or is mandatory?
+> Our last game I had the guild that gives PV depending on the money in the richest city. During last move, my opponent discarded one card (no orther chioices) but with 4 yellow cards he could obtain 2 gold plus other 4 coins.Is allowed to obtain, in this case, only 2 coins, without using yellow cards? or is mandatory? 
+
+No, you must use the yellow cards' bonus when discarding a card for coins. The additional gold is mandatory.
+
 
 [confuse-about-yellow-card](https://boardgamegeek.com/thread/2800622/confuse-about-yellow-card)
 
@@ -801,13 +799,16 @@ enemy have 3 stone in they city then I will pay 2+3 = 5 gold to the bank.
 if I have yellow card (Stone Reserve, Wood Reserve, etc)
  - I pay 3 gold for each stone i want (2 base + 1 becuz of yellow card i have)
  - I pay 1 gold for each stone i want ( yellow card discount every stone to be 1 gold )
-which choice is correct ? i'm not sure .
-just played 3 game and use first choice , it cost so much to paid for build something.
+which choice is correct ? 
+
+If you have a yellow card like Stone Reserve, it reduces the cost of buying the resource from the bank. So, if you want a stone and your opponent produces it, the base cost is 2 coins + the number of stones in your opponent’s city. The yellow card discounts the stone cost to 1 coin per stone.
+
+
 [tradeyellow-buildings-resource-symbol-with-a-coin](https://boardgamegeek.com/thread/1475721/tradeyellow-buildings-resource-symbol-with-a-coin)
 
 [7-wonders-duel-rules](https://boardgamegeek.com/thread/1815154/7-wonders-duel-rules)
 
-> For the resource symbol that also has a coin, I know it means that resources of that type only cost a coin but does it also provide a resource?
+> Does a yellow card with a resource modifier also produce the resource?
 
 No, it doesn't.
 Those cards only provide you a fixed and favorable cost when buying resources.
