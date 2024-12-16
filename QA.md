@@ -149,7 +149,7 @@ No. Free construction condition and chain are the same thing. Some buildings hav
 ----
 Page 15
 
-Ubanism
+Ubanism:
 Immediately take 6 coins from the Bank.
 Each time you construct a Building for free through linking (free 
 construction condition, chain), you gain 4 coins.
@@ -171,7 +171,7 @@ Any time you would have to lose more coins than you have, you lose all your coin
 page 14
 
 **Looting**
-2 or 5 coinsYour opponent loses 2 or 5 coins depending on the token. They are returned to the bank. Then the token is returned 
+2 or 5 coins Your opponent loses 2 or 5 coins depending on the token. They are returned to the bank. Then the token is returned 
 to the box. If your opponent doesn’t have enough coins, they lose all of their coins.
 
 
