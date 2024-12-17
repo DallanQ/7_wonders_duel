@@ -104,7 +104,7 @@ page 10
 In 7 Wonders Duel, the players each play in turn. 
 The first player begins Age I.
 On your turn, you must choose an “accessible” card in the card structure and 
-play it. An accessible card is a card which isn’t partially covered by other cards. Example: the Baths, the Stone Pit, the Lumber Yard, and the Scriptorium are acces-sible. The other cards are not accessible at the moment
+play it. An accessible card is a card which isn’t partially covered by other cards. Example: the Baths, the Stone Pit, the Lumber Yard, and the Scriptorium are accessible. The other cards are not accessible at the moment
 
 You can play the card you’ve chosen in one of three different ways
 - 1. Construct the Building
@@ -190,9 +190,9 @@ The discarded cards are placed face-down next to the board. Players are free to 
 
 [economy-progress-token](https://boardgamegeek.com/thread/2035041/economy-progress-token)
 
-> Straight from the rulebook: "You gain the money spent by your opponent when they trade for resources. Be careful, this is only for the money spent obtaining resources, not for the coins which are part of Building costs. Clarification: the trade discounts of your opponent (Stone Reserve, Wood Reserve, Clay Reserve, and Customs House cards) change the purchase price, but the Economy Progress token allows youto gain the actual money spent by your opponent" What happens in the following example? Player A has the economy token and is producing two bricks in his city. Player B produces no bricks but has the clay reserve that lets him buy clay for 1 gold each ignoring what his opponent is producing. Would B have to pay A 4 gold for every brick he purchases?
+> Straight from the rulebook: "You gain the money spent by your opponent when they trade for resources. Be careful, this is only for the money spent obtaining resources, not for the coins which are part of Building costs. Clarification: the trade discounts of your opponent (Stone Reserve, Wood Reserve, Clay Reserve, and Customs House cards) change the purchase price, but the Economy Progress token allows you to gain the actual money spent by your opponent" What happens in the following example? Player A has the economy token and is producing two bricks in his city. Player B produces no bricks but has the clay reserve that lets him buy clay for 1 gold each ignoring what his opponent is producing. Would B have to pay A 4 gold for every brick he purchases?
 
-If you have to buy a ressource (be it clay, or bricks or glass or whatever), the money you are spending WILL GO to you opponent (be it 1 gold if you have the reserve or 4 gold if your opponent produce 2).
+If you have to buy a resource (be it clay, or bricks or glass or whatever), the money you are spending WILL GO to you opponent (be it 1 gold if you have the reserve or 4 gold if your opponent produce 2).
 The ONLY time you'll give gold back to the bank will be if the card you're getting is specifically asking for gold (like when you have to pay 1 gold to get a reserve).
 
 ----
@@ -246,14 +246,10 @@ Only yours.
 
 No, you are not allowed to pay for something which is free !
 
-[descartar-para-conseguir-monedas-construir-una-mar](https://boardgamegeek.com/thread/1517780/descartar-para-conseguir-monedas-construir-una-mar)
-
-[stacking-more-than-one-extra-turn-from-wonders](https://boardgamegeek.com/thread/2540732/stacking-more-than-one-extra-turn-from-wonders)
-
 [7-wonders-duel-rules-clarification-please](https://boardgamegeek.com/thread/1636209/7-wonders-duel-rules-clarification-please)
 
 > If you have a resource that costs 1 to get (e.g: the card has a stone with a little 1 coin at the top) you can purchase as 
-many as needed to construct the card you have chosen.
+many as needed to construct the card you have chosen?.
  
 Yes
 
@@ -265,6 +261,20 @@ brown/grey cards
 Is that right or could she have paid 2 + amount of stone I had to cover why she needed in that respect?
 
 You can buy resources for whatever use: buildings or wonders.
+
+
+----
+Page 5
+
+The area located under the color strip on Age cards indicates the construction cost. If that area is empty, the Building is free and requires no resources to be constructed.
+Example: the Lumber Yard is free, the Stone Pit costs 1 coin, the Baths require 1 Stone to be built, and the Arena requires 1 Clay, 1 Stone and 1 Wood
+
+
+----
+Page 6
+
+Some cards have a cost in coins, which must then be paid to the bank when they are constructed.
+Example: The construction of the Scriptorium costs 2 coins, the construction of the Stone Pit costs 1 coin.
 
 [do-you-play-with-all-wonder-cards](https://boardgamegeek.com/thread/2558350/do-you-play-with-all-wonder-cards)
 
@@ -302,22 +312,43 @@ It doesn't count as another symbol, it is its own symbol. So you will never pair
 
 Yes, a guild card works just like any other card; you can build it, discard it for coins, or use it to build a wonder. (the three options listed on page 10 of the rulebook)
 
-[play-again-after-last-card](https://boardgamegeek.com/thread/2614766/play-again-after-last-card)
+----
+Page 6
+
+Builders Guild: At the end of the game, this card is worth 2 victory points for each Wonder constructed in the city which
+has the most wonders.
+
+----
+Page 10
+
+To construct a Building, you pay the cost of the Building and place it in front of yourself. This Building now belongs to your city. As the game progresses, sort your Buildings by color in order to help you read your city.
 
 [economy-token](https://boardgamegeek.com/thread/1635284/economy-token)
 
-> Clarification needed - how do you understand Economy token? Do I get as many coins as my opponent would need to spend to buy 1 unit of each 5 resources? = 2x5 = 10 coins at the beggining of the game?
+> Clarification needed - how do you understand Economy token? Do I get as many coins as my opponent would need to spend to buy 1 unit of each 5 resources? = 2x5 = 10 coins at the beginning of the game?
 
 Whenever the opponent buys resources and pays any money for them, that money goes to you instead of to the bank (where it would normally go).
+
+----
+page 14
+
+You gain the money spent by your opponent when they trade for resources.Be careful, this is only for the money spent obtaining resources,not for the coins which are part of Building costs.
+Clarification: the trade discounts of your opponent (Stone Reserve, Wood Reserve, Clay Reserve, and Customs House cards) change the purchase price, but the Economy Progress token allows you to gain the actual money spent by your opponent
 
 
 [extra-turn-at-end-of-age](https://boardgamegeek.com/thread/1492980/extra-turn-at-end-of-age)
 
 > Let's say Player 1 is losing in Military. Player 2 draws the last card of Age 1, and uses it to build a wonder that gives him an extra turn. 
-What happens at the start of Age 2? Does Player 2 get his extra turn or is it lost to the rule that says Player 1 gets to decide who goes first?
-One might guess that Player 2 loses his extra turn benefit, but I'm wondering if there is an official ruling on this.
+What happens at the start of Age 2? Does Player 2 get his extra turn or is it lost to the rule that says Player 1 gets to decide who goes first?, is there an official ruling on this.
 
 Rulebook page 10 above "1. construct a building
+
+----
+page 11
+
+The player with the weakest military chooses which player begins the next Age. A player has a weaker military if the Conflict pawn is on their side of the board.In a situation where the pawn is in the middle of the board, the player that chooses who begins the next Age is the last active player (meaning whoever played the last card of the previous Age).
+
+
 
 
 [yellow-resource-cards-with-two-or-more-resources](https://boardgamegeek.com/thread/2299549/yellow-resource-cards-with-two-or-more-resources)
@@ -331,7 +362,7 @@ You don't lock yourself into one of the resources. If one thing requires wood yo
 
 [played-it-the-first-time-last-evening-few-question](https://boardgamegeek.com/thread/2042297/played-it-the-first-time-last-evening-few-question)
 
-> I think I played it wrong... I thought you can't discard a card you haven't bought. So, instead, I discarded cards I already owned for getting the money. Is it true that you don't need to pay for the card you dicsard for getting 2 money?
+> I think I played it wrong... I thought you can't discard a card you haven't bought. So, instead, I discarded cards I already owned for getting the money. Is it true that you don't need to pay for the card you discard for getting 2 money?
 Effect would be: "I can't afford the card.. so you, dear opponent, won't get it either.. even if you can afford."
 
 Think of it this way. Each turn, one card comes out of the display. The active player selects an available card, removes it, and does one of the following:
@@ -487,7 +518,7 @@ If a player has a replay effect that would allow them to take another turn at th
 
 [removal-8th-wonder](https://boardgamegeek.com/thread/1812074/removal-8th-wonder)
 
-> When my opponent has build her 4 wonders, and I haven't build one, do I have to remove one of my wonders immediatly or can I decide later in the game?
+> When my opponent has build her 4 wonders, and I haven't build one, do I have to remove one of my wonders immediately or can I decide later in the game?
 
 The rulebook answers this on page 11:
 
@@ -508,7 +539,7 @@ The Law token is only used for the 6 different symbols. You cannot have a pair o
 > If my opponent have economy token, all my discount commercial cards lose their effects?
 > Eg: I need to pay more than 1 coin for stone regardless I have Stone Reserve.
 
-No. If you have to pay for Ressources other than through Yellow Cards the money goes to the opposite player instead of the Bank. The Yellow Cards keep their effect. 
+No. If you have to pay for resources other than through Yellow Cards the money goes to the opposite player instead of the Bank. The Yellow Cards keep their effect. 
 
 [discard-my-resource-card](https://boardgamegeek.com/thread/1514986/discard-my-resource-card)
 
@@ -523,7 +554,7 @@ From the Rulebook (page 13): "This card produces, each turn, one unit of one of 
 
 > In the rules, it shows the different formations the cards are laid out in for each age. Some go face up, some go face down. I assume in the picture in the rulebook that the cards with shaded colors showing are face down? Also, when do the face down cards get turned face up?
 
-You can choose an accessible card. Accissible means (in 7 Wonders Duel that is ) that the card isn't partialy covered by other cards.
+You can choose an accessible card. Accessible means (in 7 Wonders Duel that is ) that the card isn't partially covered by other cards.
 
 Rulebook page 10, Game turn wrote:
 On your turn, you must choose an "accessible" card in the card structure and play it. An accessible card is a card which isn't partially covered by other cards.
@@ -609,7 +640,7 @@ There is no limit to the amount of progress tokens you are allowed to have. Theo
 
 [wonder-construction-cost](https://boardgamegeek.com/thread/1650116/wonder-construction-cost) 
 
-> The rules syas, cards used to pay the construction costs are out of play and placed under the wonder. How does this work for cards with multiple resources, such as a resource card with wood/stone/brick? 
+> The rules says, cards used to pay the construction costs are out of play and placed under the wonder. How does this work for cards with multiple resources, such as a resource card with wood/stone/brick? 
 
 You are misreading this. You pay the construction costs via resources, commodities, and money from your supply, then you place the card you drew from the pyramid under the wonder. You do not put the resource and commodity cards under the wonder. The resources and commodities can be used over and over again throughout the ages of the game. 
 
@@ -784,7 +815,7 @@ Yes, you apply the effect of any green progress token the automa gets.
 
 [plus-1-gold-for-every-yellow-cards-already-built-m](https://boardgamegeek.com/thread/1487278/plus-1-gold-for-every-yellow-cards-already-built-m)
 
-> Our last game I had the guild that gives PV depending on the money in the richest city. During last move, my opponent discarded one card (no orther chioices) but with 4 yellow cards he could obtain 2 gold plus other 4 coins.Is allowed to obtain, in this case, only 2 coins, without using yellow cards? or is mandatory? 
+> Our last game I had the guild that gives PV depending on the money in the richest city. During last move, my opponent discarded one card (no other choices) but with 4 yellow cards he could obtain 2 gold plus other 4 coins.Is allowed to obtain, in this case, only 2 coins, without using yellow cards? or is mandatory? 
 
 No, you must use the yellow cards' bonus when discarding a card for coins. The additional gold is mandatory.
 
@@ -793,7 +824,7 @@ No, you must use the yellow cards' bonus when discarding a card for coins. The a
 
 > Confuse about yellow card.
 
-when you buy resouce from bank it cost u 2 + each symbol of that resouce in enemy city
+when you buy resource from bank it cost u 2 + each symbol of that resource in enemy city
 example :
 enemy have 3 stone in they city then I will pay 2+3 = 5 gold to the bank.
 if I have yellow card (Stone Reserve, Wood Reserve, etc)
